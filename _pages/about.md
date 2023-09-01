@@ -23,8 +23,8 @@ layouts_gallery:
   - url: /assets/images/sgsa-officers/officers2019.jpeg
     image_path: /assets/images/sgsa-officers/officers2019.jpeg
     alt: "Officers: 2019-2020"
-  - url: /assets/images/sgsa-officers/officers2022.jpeg
-    image_path: /assets/images/sgsa-officers/officers2022.jpeg
+  - url: /assets/images/sgsa-officers/officers2022.jpg
+    image_path: /assets/images/sgsa-officers/officers2022.jpg
     alt: "Officers: 2022-2023"
 last_modified_at: 2023-01-26T11:59:26-05:00
 toc: true
