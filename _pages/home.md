@@ -18,6 +18,7 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 - SOCIAL CHAIR - [Snigdha Das](mailto:snigdha@stat.tamu.edu)
 - STATCAFE ORGANIZER - [Valeriya Rogovchenko](mailto:varogovchenko@tamu.edu)
 - WORKSHOP ORGANIZER - [Niladri Kal](mailto:niladrik@tamu.edu)
+- MASTERS STUDENT REPRESENTATIVE - [Valerie Espinosa](mailto:vne@tamu.edu)
 - WEB DESIGNER - [Jose Rodriguez-Acosta](mailto:jeroda7105@tamu.edu)
 - DEPARTMENT DELEGATE - [Rebecca Lee](mailto:llrebecca21@stat.tamu.edu)
 - DEPARTMENT DELEGATE - [Alexander Coulter](mailto:coultera@stat.tamu.edu)
