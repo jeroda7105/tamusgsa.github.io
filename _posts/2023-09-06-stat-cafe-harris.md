@@ -1,5 +1,5 @@
 ---
-title: "2023-08-30 Stat Cafe - Dr. Trevor Harris"
+title: "2023-09-06 Stat Cafe - Dr. Trevor Harris"
 excerpt: "Distributionally robust Multi-Model Ensemble Analysis"
 layout: single
 classes: wide
