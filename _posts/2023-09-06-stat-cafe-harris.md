@@ -9,6 +9,7 @@ classes: wide
 - Location: BLOC 448
 - Pizza and drinks provided
 - [Presentation]({{ "/assets/files/stat_cafe/Harris_Sept_06_2023/statcafe.pdf" | relative_url }})
+- [Recording](https://www.youtube.com/watch?v=3cFLb6IMFTU)
 
 ### Topic
 
