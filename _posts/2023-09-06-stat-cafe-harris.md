@@ -37,6 +37,7 @@ layouts_gallery:
 
 Distributionally robust Multi-Model Ensemble Analysis
 
+### Gallery
 
 {% include gallery id="layouts_gallery" %}
 
