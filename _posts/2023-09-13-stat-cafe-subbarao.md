@@ -4,21 +4,18 @@ excerpt: "Graphical Models for Multivariate Time Series"
 layout: single
 classes: wide
 layouts_gallery:
-  - url: /assets/images/stat_cafe/Subbarao_Sept_13_2023/IMG_3576.JPG
-    image_path: /assets/images/stat_cafe/Subbarao_Sept_13_2023/IMG_3576.JPG
-    alt: "IMG_3576.JPG"
-  - url: /assets/images/stat_cafe/Subbarao_Sept_13_2023/IMG_3582.JPG
-    image_path: /assets/images/stat_cafe/Subbarao_Sept_13_2023/IMG_3582.JPG
-    alt: "IMG_3582.JPG"
-  - url: /assets/images/stat_cafe/Subbarao_Sept_13_2023/IMG_3589.JPG
-    image_path: /assets/images/stat_cafe/Subbarao_Sept_13_2023/IMG_3589.JPG
-    alt: "IMG_3589.JPG"
-  - url: /assets/images/stat_cafe/Subbarao_Sept_13_2023/IMG_3595.JPG
-    image_path: /assets/images/stat_cafe/Subbarao_Sept_13_2023/IMG_3595.JPG
-    alt: "IMG_3595.JPG"
-  - url: /assets/images/stat_cafe/Harris_Sept_06_2023/IMG_0006.JPG
-    image_path: /assets/images/stat_cafe/Harris_Sept_06_2023/IMG_0006.JPG
-    alt: "IMG_0006.JPG"
+  - url: /assets/images/stat_cafe/Subbarao_Sept_13_2023/IMG_3576.jpg
+    image_path: /assets/images/stat_cafe/Subbarao_Sept_13_2023/IMG_3576.jpg
+    alt: "IMG_3576.jpg"
+  - url: /assets/images/stat_cafe/Subbarao_Sept_13_2023/IMG_3582.jpg
+    image_path: /assets/images/stat_cafe/Subbarao_Sept_13_2023/IMG_3582.jpg
+    alt: "IMG_3582.jpg"
+  - url: /assets/images/stat_cafe/Subbarao_Sept_13_2023/IMG_3589.jpg
+    image_path: /assets/images/stat_cafe/Subbarao_Sept_13_2023/IMG_3589.jpg
+    alt: "IMG_3589.jpg"
+  - url: /assets/images/stat_cafe/Subbarao_Sept_13_2023/IMG_3595.jpg
+    image_path: /assets/images/stat_cafe/Subbarao_Sept_13_2023/IMG_3595.jpg
+    alt: "IMG_3595.jpg"
 ---
 
 - Time: Wednesday 09/13/2023 from 11:30 AM to 12:20 PM
