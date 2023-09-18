@@ -37,7 +37,7 @@ layouts_gallery:
 
 Distributionally robust Multi-Model Ensemble Analysis
 
-### Gallery
+### Gallery (Photos by Camila Ponce)
 
 {% include gallery id="layouts_gallery" %}
 
