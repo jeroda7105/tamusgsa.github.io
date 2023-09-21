@@ -1,5 +1,5 @@
 ---
-title: "2023-09-21 Workflow Workshop - Dr. Yang Ni and Dr. Scott Bruce"
+title: "2023-09-21 Workflow Workshop - Dr. Toryn Schafer"
 excerpt: "Fellowship Applications"
 layout: single
 classes: wide
