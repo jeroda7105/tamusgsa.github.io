@@ -29,7 +29,7 @@ layouts_gallery:
 
 - Time: Thursday 09/21/2023 from 4:00 PM to 5:00 PM
 - Location: BLOC 503
-- Recording (Coming Soon)
+- [Recording](https://youtu.be/PlxcXZM-Pas)
 
 ### Topic
 
