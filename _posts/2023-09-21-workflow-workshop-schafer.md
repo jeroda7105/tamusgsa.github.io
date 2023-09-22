@@ -8,7 +8,6 @@ classes: wide
 - Time: Thursday 09/21/2023 from 4:00 PM to 5:00 PM
 - Location: BLOC 503
 
-
 ### Topic
 
 Fellowship Applications
@@ -16,6 +15,12 @@ Fellowship Applications
 ### Description
 
 Dr. Schafer will lead the session with a primary focus on the NSF Graduate Research Fellowship Program and the NSF's postdoctoral research fellowships. This session would be highly beneficial for the Master's, the PhD first year and the PhD final year students, who plan to pursue postdoctoral research.
+
+### Additional Resources
+![https://www.nsfgrfp.org/](https://www.nsfgrfp.org/)
+![https://new.nsf.gov/funding/opportunities/mathematical-sciences-postdoctoral-research](https://new.nsf.gov/funding/opportunities/mathematical-sciences-postdoctoral-research)
+![https://www.alexhunterlang.com/nsf-fellowship](https://www.alexhunterlang.com/nsf-fellowship)
+![https://ppfp.umn.edu/](https://ppfp.umn.edu/)
 
 
 ![schafer_flyer.jpg]({{ "/assets/images/workflow_workshops/Schafer_Sept_21_2023/schafer_flyer.jpg" | relative_url }})
