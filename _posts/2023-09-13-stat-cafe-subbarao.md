@@ -4,6 +4,12 @@ excerpt: "Graphical Models for Multivariate Time Series"
 layout: single
 classes: wide
 layouts_gallery:
+  - url: /assets/images/stat_cafe/Subbarao_Sept_13_2023/IMG_0152.JPG
+    image_path: /assets/images/stat_cafe/Subbarao_Sept_13_2023/IMG_0152.JPG
+    alt: "IMG_0152.JPG"
+  - url: /assets/images/stat_cafe/Subbarao_Sept_13_2023/IMG_0155.JPG
+    image_path: /assets/images/stat_cafe/Subbarao_Sept_13_2023/IMG_0155.JPG
+    alt: "IMG_0155.JPG"
   - url: /assets/images/stat_cafe/Subbarao_Sept_13_2023/IMG_3576.jpg
     image_path: /assets/images/stat_cafe/Subbarao_Sept_13_2023/IMG_3576.jpg
     alt: "IMG_3576.jpg"
@@ -33,6 +39,6 @@ Graphical Models for Multivariate Time Series
 
 Gaussian Graphical Model (GGM) is a method for depicting conditional relationships between random variables. The inverse variance matrix, usually called the precision matrix, is the workhorse of (GGM). We start this talk by introducing the basic concepts of GGM. We then explain how the GGM framework maps over to multivariate time series. The main difference is that the matrices are extremely large (infinite dimensional) but the basic concepts remain. We show certain transformations of the time series can sparsify these "large" matrices. Finally, we conclude the talk by defining a Graphical model for Nonstationary time series. If time permits, we show estimation of the graph for nonstationary time series is possible.
 
-### Gallery
+### Gallery (With photos by Camila Ponce)
 
 {% include gallery id="layouts_gallery" %}
