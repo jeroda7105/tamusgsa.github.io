@@ -4,6 +4,9 @@ excerpt: "Fellowship Applications"
 layout: single
 classes: wide
 layouts_gallery:
+  - url: /assets/images/workflow_workshops/Schafer_Sept_21_2023/schafer_flyer.jpg
+    image_path: /assets/images/workflow_workshops/Schafer_Sept_21_2023/schafer_flyer.jpg
+    alt: "schafer_flyer.jpg"
   - url: /assets/images/workflow_workshops/Schafer_Sept_21_2023/8F022D08-C777-4394-A585-4A22AE883CF8.jpeg
     image_path: /assets/images/workflow_workshops/Schafer_Sept_21_2023/8F022D08-C777-4394-A585-4A22AE883CF8.jpeg
     alt: "8F022D08-C777-4394-A585-4A22AE883CF8.jpeg"
@@ -48,4 +51,3 @@ Dr. Schafer will lead the session with a primary focus on the NSF Graduate Resea
 
 {% include gallery id="layouts_gallery" %}
 
-![schafer_flyer.jpg]({{ "/assets/images/workflow_workshops/Schafer_Sept_21_2023/schafer_flyer.jpg" | relative_url }})
