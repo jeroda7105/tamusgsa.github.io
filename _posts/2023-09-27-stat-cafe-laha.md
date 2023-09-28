@@ -13,7 +13,7 @@ layouts_gallery:
 - Location: BLOC 448
 - Pizza and drinks provided
 - [Presentation]({{ "/assets/files/stat_cafe/Laha_Sept_27_2023/Nilanjana_Laha_slides.pdf" | relative_url }})
-- Recording (Coming Soon)
+- [Recording](https://www.youtube.com/watch?v=oysyhgPiL30)
 
 
 ### Topic
