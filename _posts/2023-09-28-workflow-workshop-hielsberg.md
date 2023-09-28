@@ -9,7 +9,7 @@ layouts_gallery:
     alt: "IMG_7137.PNG"
 ---
 
-- Time: Thursday 09/21/2023 from 4:00 PM to 5:00 PM
+- Time: Thursday 09/28/2023 from 3:00 PM to 4:00 PM
 - Location: BLOC 503
 - Recording (Coming Soon)
 
