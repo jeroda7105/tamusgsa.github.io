@@ -11,6 +11,7 @@ layouts_gallery:
 
 - Time: Thursday 09/28/2023 from 3:00 PM to 4:00 PM
 - Location: BLOC 503
+- [Presentation](({{ "/assets/files/workflow_workshops/Hielsberg_Sept_28_2023/StatCluster.pdf" | relative_url }}))
 - Recording (Coming Soon)
 
 ### Topic
