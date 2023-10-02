@@ -8,23 +8,23 @@ layouts_gallery:
     image_path: /assets/images/workflow_workshops/Bruce_Oct_02_2023/bruce_flyer.png
     alt: "bruce_flyer.png"
   - url: /assets/images/workflow_workshops/Bruce_Oct_02_2023/IMG_1818.jpeg
-  image_path: /assets/images/workflow_workshops/Bruce_Oct_02_2023/IMG_1818.jpeg
-  alt: "IMG_1818.jpeg"
+    image_path: /assets/images/workflow_workshops/Bruce_Oct_02_2023/IMG_1818.jpeg
+    alt: "IMG_1818.jpeg"
   - url: /assets/images/workflow_workshops/Bruce_Oct_02_2023/IMG_1821.jpeg
-  image_path: /assets/images/workflow_workshops/Bruce_Oct_02_2023/IMG_1821.jpeg
-  alt: "IMG_1821.jpeg"
+    image_path: /assets/images/workflow_workshops/Bruce_Oct_02_2023/IMG_1821.jpeg
+    alt: "IMG_1821.jpeg"
   - url: /assets/images/workflow_workshops/Bruce_Oct_02_2023/IMG_7216.jpeg
-  image_path: /assets/images/workflow_workshops/Bruce_Oct_02_2023/IMG_7216.jpeg
-  alt: "IMG_7216.jpeg"
+    image_path: /assets/images/workflow_workshops/Bruce_Oct_02_2023/IMG_7216.jpeg
+    alt: "IMG_7216.jpeg"
   - url: /assets/images/workflow_workshops/Bruce_Oct_02_2023/IMG_7217.jpeg
-  image_path: /assets/images/workflow_workshops/Bruce_Oct_02_2023/IMG_7217.jpeg
-  alt: "IMG_7217.jpeg"
+    image_path: /assets/images/workflow_workshops/Bruce_Oct_02_2023/IMG_7217.jpeg
+    alt: "IMG_7217.jpeg"
   - url: /assets/images/workflow_workshops/Bruce_Oct_02_2023/IMG_7220.jpeg
-  image_path: /assets/images/workflow_workshops/Bruce_Oct_02_2023/IMG_7220.jpeg
-  alt: "IMG_7220.jpeg"
+    image_path: /assets/images/workflow_workshops/Bruce_Oct_02_2023/IMG_7220.jpeg
+    alt: "IMG_7220.jpeg"
   - url: /assets/images/workflow_workshops/Bruce_Oct_02_2023/IMG_7222.jpeg
-  image_path: /assets/images/workflow_workshops/Bruce_Oct_02_2023/IMG_7222.jpeg
-  alt: "IMG_7222.jpeg"
+    image_path: /assets/images/workflow_workshops/Bruce_Oct_02_2023/IMG_7222.jpeg
+    alt: "IMG_7222.jpeg"
 ---
 
 - Time: Monday 10/02/2023 from 10:30 AM to 12:30 PM
