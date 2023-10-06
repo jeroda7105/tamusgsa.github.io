@@ -29,7 +29,6 @@ layouts_gallery:
 
 - Time: Monday 10/02/2023 from 10:30 AM to 12:30 PM
 - Location: BLOC 503
-- Recording (Coming Soon)
 
 ### Topic
 
