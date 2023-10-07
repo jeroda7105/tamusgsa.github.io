@@ -13,7 +13,7 @@ layouts_gallery:
 - Location: BLOC 448
 - Pizza and drinks provided
 - [Presentation]({{ "/assets/files/stat_cafe/Arroyo_Oct_04_2023/StatCafe_slides_Arroyo.pdf" | relative_url }})
-- Recording (Coming Soon)
+- [Recording](https://www.youtube.com/watch?v=l7jI966PWiA)
 
 
 ### Topic
