@@ -3,6 +3,9 @@ layout: splash
 title: " "
 permalink: /
 hidden: true
+header:
+  overlay_color: "#ffffff"
+  overlay_image: /assets/images/sgsa-officers/officers2023.JPG
 ---
 
 ## About us
