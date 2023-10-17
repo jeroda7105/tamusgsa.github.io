@@ -11,6 +11,7 @@ layouts_gallery:
 
 - Time: Monday 10/16/2023 and 10/23/2023 from 10:30 AM to 12:30 PM 
 - Location: BLOC 503
+- [Recording](https://www.youtube.com/watch?v=yAVHQ0T3CCI)
 
 ### Topic
 
