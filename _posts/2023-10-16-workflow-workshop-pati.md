@@ -22,6 +22,11 @@ In the first part of the session, Dr. Pati plans to go over the general setup to
 
 The workshop is intended for students and researchers who are either pursuing theoretical research involving Bayesian statistics or are interested in providing theoretical support for methodological developments.  Background on probability theory and real analysis (at the PhD level) is required.
 
+### Additional Resources
+- [Dr. Pati's Webpage](https://web.stat.tamu.edu/~debdeep/689_s19.html)
+- [Fundamentals of Nonparametric Bayesian Inference](https://www.cambridge.org/core/books/fundamentals-of-nonparametric-bayesian-inference/C96325101025D308C9F31F4470DEA2E8)
+- [Notes by Bas Kleijn, Aad van der Vaart, Harry van Zanten](/assets/files/workflow_workshops/Pati_Ocy_16_2023/NPBayes-LecNotes-2015.pdf)
+
 
 ### Gallery 
 
