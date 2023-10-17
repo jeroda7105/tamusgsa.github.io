@@ -25,7 +25,7 @@ The workshop is intended for students and researchers who are either pursuing th
 ### Additional Resources
 - [Dr. Pati's Webpage](https://web.stat.tamu.edu/~debdeep/689_s19.html)
 - [Fundamentals of Nonparametric Bayesian Inference](https://www.cambridge.org/core/books/fundamentals-of-nonparametric-bayesian-inference/C96325101025D308C9F31F4470DEA2E8)
-- [Notes by Bas Kleijn, Aad van der Vaart, Harry van Zanten](/assets/files/workflow_workshops/Pati_Ocy_16_2023/NPBayes-LecNotes-2015.pdf)
+- [Notes by Bas Kleijn, Aad van der Vaart, Harry van Zanten](/assets/files/workflow_workshops/Pati_Oct_16_2023/NPBayes-LecNotes-2015.pdf)
 
 
 ### Gallery 
