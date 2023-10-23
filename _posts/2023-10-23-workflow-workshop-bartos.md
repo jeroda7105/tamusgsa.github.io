@@ -19,7 +19,7 @@ layouts_gallery:
 
 ### Description
 
- In this workshop, Mr. Bartoš will introduce JASP: a free, open-source, and user-friendly statistical software. JASP provides a responsive graphical user interface to R. It allows users to perform various frequentist and Bayesian analyses without programming experience. The software will be showcased using simple examples (frequentist and Bayesian t-test, ANOVA) as well as more complex analyses (frequentist and Bayesian meta-analyses, teaching module; depends on time/preferences).  Attendees are needed to bring their laptops with JASP installed [https://jasp-stats.org/](https://jasp-stats.org/) to actively participate in the workshop. The deadline to fill out the  registration form [https://forms.gle/m7XB9CWXBAAupkdL9](https://forms.gle/m7XB9CWXBAAupkdL9)  is  Thursday (November 2), 5PM 
+ In this workshop, Mr. Bartoš will introduce JASP: a free, open-source, and user-friendly statistical software. JASP provides a responsive graphical user interface to R. It allows users to perform various frequentist and Bayesian analyses without programming experience. The software will be showcased using simple examples (frequentist and Bayesian t-test, ANOVA) as well as more complex analyses (frequentist and Bayesian meta-analyses, teaching module; depends on time/preferences).  Attendees are needed to bring their laptops with JASP installed ([https://jasp-stats.org/](https://jasp-stats.org/)) to actively participate in the workshop. The deadline to fill out the  registration form ([https://forms.gle/m7XB9CWXBAAupkdL9](https://forms.gle/m7XB9CWXBAAupkdL9))  is  Thursday (November 2), 5PM 
 
 
 ### Gallery 
