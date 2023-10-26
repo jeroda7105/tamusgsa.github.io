@@ -13,7 +13,7 @@ layouts_gallery:
 - Location: BLOC 448
 - Pizza and drinks provided
 - [Presentation]({{ "/assets/files/stat_cafe/Datta_Oct_25_2023/Stat_Cafe_Saptati_revised.pdf" | relative_url }})
-
+- [Recording](https://www.youtube.com/watch?v=Gdf5ABS4su4)
 
 ### Topic
 Bayes Factor Functions
