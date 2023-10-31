@@ -5,7 +5,7 @@ layout: single
 classes: wide
 layouts_gallery:
   - url: /assets/images/halloween_potluck_2023/image001.png
-    image_path: /assets/images/image001.png
+    image_path: /assets/images/halloween_potluck_2023/image001.png
     alt: "image001.png"
 ---
 
