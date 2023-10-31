@@ -4,13 +4,14 @@ excerpt: "Analyzing Data with JASP: A Free, Open-Source, and User-Friendly Stati
 layout: single
 classes: wide
 layouts_gallery:
-  - url: /assets/images/workflow_workshops/Bartos_Nov_06_2023/bartos_flyer.jpg
-    image_path: /assets/images/workflow_workshops/Bartos_Nov_06_2023/bartos_flyer.jpg
-    alt: "bartos_flyer.jpg"
+  - url: /assets/images/workflow_workshops/Bartos_Nov_06_2023/bartos_flyer_revised.JPEG
+    image_path: /assets/images/workflow_workshops/Bartos_Nov_06_2023/bartos_flyer_revised.JPEG
+    alt: "bartos_flyer_revised.JPEG"
 ---
 
 - Time: Monday 11/06/2023 from 10:30 AM to 12:30 PM 
 - Location: BLOC 503
+- [Zoom Link](https://tamu.zoom.us/j/95116902043)
 
 ### Topic
 
