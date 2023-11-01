@@ -14,7 +14,8 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
 ### 2023 - 2024 SGSA Officers
 
-<img src="/assets/images/sgsa-officers/individual_officers_2023/isaac_portrait.JPG" alt="Isaac" width="200"/>
+assets/images/sgsa-officers/individual_officers_2023
+<img src="assets/images/sgsa-officers/individual_officers_2023/isaac_portrait.JPG" alt="Isaac" width="200"/>
 - ​President - [Isaac Ray](mailto:null@stat.tamu.edu)
 - Vice President - [Gozde Sert](mailto:gozdesert@stat.tamu.edu)
 - Secretary - [Arhit Chakrabarti](mailto:arhit.chakrabarti@stat.tamu.edu)
