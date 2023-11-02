@@ -28,7 +28,7 @@ layouts_gallery:
 - Location: BLOC 448
 - Pizza and drinks provided
 - [Presentation]({{ "/assets/files/stat_cafe/Jiang_Nov_01_2023/StatCafe_Jiang_slides.pdf" | relative_url }})
-- Recording Coming Soon
+- [Recording](https://www.youtube.com/watch?v=t5vKbRg9ySg)
 
 ### Topic
 DNA Copy Number Profiling: from Bulk Tissue to Single Cells
