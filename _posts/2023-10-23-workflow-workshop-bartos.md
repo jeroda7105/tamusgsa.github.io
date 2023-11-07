@@ -7,11 +7,29 @@ layouts_gallery:
   - url: /assets/images/workflow_workshops/Bartos_Nov_06_2023/bartos_flyer_revised.JPEG
     image_path: /assets/images/workflow_workshops/Bartos_Nov_06_2023/bartos_flyer_revised.JPEG
     alt: "bartos_flyer_revised.JPEG"
+  - url: /assets/images/workflow_workshops/Bartos_Nov_06_2023/IMG_3343.jpeg
+    image_path: /assets/images/workflow_workshops/Bartos_Nov_06_2023/IMG_3343.jpeg
+    alt: "IMG_3343.jpeg"
+  - url: /assets/images/workflow_workshops/Bartos_Nov_06_2023/IMG_3344.jpeg
+    image_path: /assets/images/workflow_workshops/Bartos_Nov_06_2023/IMG_3344.jpeg
+    alt: "IMG_3344.jpeg"
+  - url: /assets/images/workflow_workshops/Bartos_Nov_06_2023/IMG_3345.jpeg
+    image_path: /assets/images/workflow_workshops/Bartos_Nov_06_2023/IMG_3345.jpeg
+    alt: "IMG_3345.jpeg"
+  - url: /assets/images/workflow_workshops/Bartos_Nov_06_2023/IMG_3346.jpeg
+    image_path: /assets/images/workflow_workshops/Bartos_Nov_06_2023/IMG_3346.jpeg
+    alt: "IMG_3346.jpeg"
+  - url: /assets/images/workflow_workshops/Bartos_Nov_06_2023/IMG_3348.jpeg
+    image_path: /assets/images/workflow_workshops/Bartos_Nov_06_2023/IMG_3348.jpeg
+    alt: "IMG_3348.jpeg"
+  - url: /assets/images/workflow_workshops/Bartos_Nov_06_2023/IMG_3352.jpeg
+    image_path: /assets/images/workflow_workshops/Bartos_Nov_06_2023/IMG_3352.jpeg
+    alt: "IMG_3352.jpeg"
 ---
 
 - Time: Monday 11/06/2023 from 10:30 AM to 12:30 PM 
 - Location: BLOC 503
-- [Zoom Link](https://tamu.zoom.us/j/95116902043)
+- [Recording](https://www.youtube.com/watch?v=v28ehQ5qGu4&list=PLmT7xj3n_0C6e-ozHbfIeRzvNW48F1P6s&index=4)
 
 ### Topic
 
