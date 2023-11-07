@@ -80,6 +80,6 @@ Halloween is around the corner, and it’s time to gather for some fun and treat
 
 We encourage you all to get creative with your spooky, funny, and imaginative costumes (not mandatory). Looking forward to celebrating this Halloween with all of you and enjoying an evening of fun, laughter, and great food.
 
-### Gallery 
+### Gallery (Photos by Camila Ponce)
 
 {% include gallery id="layouts_gallery" %}
