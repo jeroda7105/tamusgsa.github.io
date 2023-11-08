@@ -4,9 +4,27 @@ excerpt: "Directed Cyclic Graph for Causal Discovery from Multivariate Functiona
 layout: single
 classes: wide
 layouts_gallery:
-  - url: /assets/images/stat_cafe/Roy_Nov_08_2023/StatCafe_Saptarshi_flyer_page-0001.jpg
-    image_path: /assets/images/stat_cafe/Roy_Nov_08_2023/StatCafe_Saptarshi_flyer_page-0001.jpg
-    alt: "StatCafe_Saptarshi_flyer_page-0001.jpg"
+  - url: /assets/images/stat_cafe/Roy_Nov_08_2023/IMG_4922.jpg
+    image_path: /assets/images/stat_cafe/Roy_Nov_08_2023/IMG_4922.jpg
+    alt: "IMG_4922.jpg"
+  - url: /assets/images/stat_cafe/Roy_Nov_08_2023/IMG_4890.jpg
+    image_path: /assets/images/stat_cafe/Roy_Nov_08_2023/IMG_4890.jpg
+    alt: "IMG_4890.jpg"
+  - url: /assets/images/stat_cafe/Roy_Nov_08_2023/IMG_4893.jpg
+    image_path: /assets/images/stat_cafe/Roy_Nov_08_2023/IMG_4893.jpg
+    alt: "IMG_4893.jpg"
+  - url: /assets/images/stat_cafe/Roy_Nov_08_2023/IMG_4897.jpg
+    image_path: /assets/images/stat_cafe/Roy_Nov_08_2023/IMG_4897.jpg
+    alt: "IMG_4897.jpg"
+  - url: /assets/images/stat_cafe/Roy_Nov_08_2023/IMG_4912.jpg
+    image_path: /assets/images/stat_cafe/Roy_Nov_08_2023/IMG_4912.jpg
+    alt: "IMG_4912.jpg"
+  - url: /assets/images/stat_cafe/Roy_Nov_08_2023/IMG_4901.jpg
+    image_path: /assets/images/stat_cafe/Roy_Nov_08_2023/IMG_4901.jpg
+    alt: "IMG_4901.jpg"
+  - url: /assets/images/stat_cafe/Roy_Nov_08_2023/IMG_4904.jpg
+    image_path: /assets/images/stat_cafe/Roy_Nov_08_2023/IMG_4904.jpg
+    alt: "IMG_4904.jpg"
 ---
 
 - Time: Wednesday 11/08/2023 from 11:30 AM to 12:20 PM
@@ -25,10 +43,9 @@ Discovering causal relationship using multivariate functional data has received 
 
 
 
-<!--- ### Gallery 
+### Gallery 
 
 {% include gallery id="layouts_gallery" %}
 
---->
 
 
