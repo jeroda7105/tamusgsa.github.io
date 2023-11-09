@@ -31,7 +31,7 @@ layouts_gallery:
 - Location: BLOC 448
 - Pizza and drinks provided
 - [Presentation]({{ "/assets/files/stat_cafe/Roy_Nov_08_2023/StatCafe_Saptarshi_slides.pdf" | relative_url }})
-- Recording coming soon
+- [Recording](https://www.youtube.com/watch?v=t4VY77mvduU)
 
 ### Topic
 Directed Cyclic Graph for Causal Discovery from Multivariate Functional Data
