@@ -11,7 +11,8 @@ layouts_gallery:
 
 - Time: Monday 11/13/2023 from 11:30 AM to 12:30 PM 
 - Location: BLOC 503
-- Recording coming soon
+- [Presentation]({{ "/assets/files/workflow_workshops/Rainey_Nov_13_2023/StatsInternshipSearching.pdf" | relative_url }}) 
+
 
 ### Topic
 Internship Searching for STAT Students
