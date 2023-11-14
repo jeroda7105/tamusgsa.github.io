@@ -25,7 +25,7 @@ layouts_gallery:
 - Location: BLOC 503
 - Food and drinks provided
 <!-- - [Presentation]({{ "/assets/files/stat_cafe/Bartos_Nov_09_2023/.pdf" | relative_url }}) -->
-- Recording coming soon
+- [Recording]()
 
 ### Topic
 Adjusting for Publication Bias in Meta-Analyses with Bayesian Model Averaging
