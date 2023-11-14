@@ -7,6 +7,33 @@ layouts_gallery:
   - url: /assets/images/workflow_workshops/Rainey_Nov_13_2023/rainey_flyer.png
     image_path: /assets/images/workflow_workshops/Rainey_Nov_13_2023/rainey_flyer.png
     alt: "rainey_flyer.png"
+  - url: /assets/images/workflow_workshops/Rainey_Nov_13_2023/img1.jpg
+    image_path: /assets/images/workflow_workshops/Rainey_Nov_13_2023/img1.jpg
+    alt: "img1.jpg"
+  - url: /assets/images/workflow_workshops/Rainey_Nov_13_2023/img2.jpg
+    image_path: /assets/images/workflow_workshops/Rainey_Nov_13_2023/img2.jpg
+    alt: "img2.jpg"
+  - url: /assets/images/workflow_workshops/Rainey_Nov_13_2023/img3.jpg
+    image_path: /assets/images/workflow_workshops/Rainey_Nov_13_2023/img3.jpg
+    alt: "img3.jpg"
+  - url: /assets/images/workflow_workshops/Rainey_Nov_13_2023/img4.jpg
+    image_path: /assets/images/workflow_workshops/Rainey_Nov_13_2023/img4.jpg
+    alt: "img4.jpg"
+  - url: /assets/images/workflow_workshops/Rainey_Nov_13_2023/img5.jpg
+    image_path: /assets/images/workflow_workshops/Rainey_Nov_13_2023/img5.jpg
+    alt: "img5.jpg"
+  - url: /assets/images/workflow_workshops/Rainey_Nov_13_2023/img6.jpg
+    image_path: /assets/images/workflow_workshops/Rainey_Nov_13_2023/img6.jpg
+    alt: "img6.jpg"
+  - url: /assets/images/workflow_workshops/Rainey_Nov_13_2023/img7.jpg
+    image_path: /assets/images/workflow_workshops/Rainey_Nov_13_2023/img7.jpg
+    alt: "img7.jpg"
+  - url: /assets/images/workflow_workshops/Rainey_Nov_13_2023/img8.jpg
+    image_path: /assets/images/workflow_workshops/Rainey_Nov_13_2023/img8.jpg
+    alt: "img8.jpg"
+  - url: /assets/images/workflow_workshops/Rainey_Nov_13_2023/img9.jpg
+    image_path: /assets/images/workflow_workshops/Rainey_Nov_13_2023/img9.jpg
+    alt: "img9.jpg"
 ---
 
 - Time: Monday 11/13/2023 from 11:30 AM to 12:30 PM 
