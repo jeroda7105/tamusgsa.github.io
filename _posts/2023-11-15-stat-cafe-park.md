@@ -25,7 +25,7 @@ layouts_gallery:
 - Location: BLOC 448
 - Pizza and drinks provided
 - [Presentation]({{ "/assets/files/stat_cafe/Park_Nov_15_2023/StatCafe_Jiyoung_slides.pdf" | relative_url }})
-- Recording coming soon
+- [Recording](https://www.youtube.com/watch?v=2qdsazfSgE4)
 
 ### Topic
 Minimum Norm Interpolation by Two-Layer ReLU Neural Networks
