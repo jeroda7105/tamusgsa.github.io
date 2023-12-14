@@ -11,8 +11,8 @@ layouts_gallery:
 
 - Time: Monday 10/16/2023 and 10/23/2023 from 10:30 AM to 12:30 PM 
 - Location: BLOC 503
-- [First Session Recording](https://www.youtube.com/watch?v=yAVHQ0T3CCI)
-- [Second Session Recording](https://www.youtube.com/watch?v=WcULe7_wPy0)
+<!-- - [First Session Recording](https://www.youtube.com/watch?v=yAVHQ0T3CCI)
+- [Second Session Recording](https://www.youtube.com/watch?v=WcULe7_wPy0) -->
 
 ### Topic
 
@@ -29,6 +29,12 @@ The workshop is intended for students and researchers who are either pursuing th
 - [Fundamentals of Nonparametric Bayesian Inference](https://www.cambridge.org/core/books/fundamentals-of-nonparametric-bayesian-inference/C96325101025D308C9F31F4470DEA2E8)
 - [Notes by Bas Kleijn, Aad van der Vaart, Harry van Zanten](/assets/files/workflow_workshops/Pati_Oct_16_2023/NPBayes-LecNotes-2015.pdf)
 
+
+### First Session Recording
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yAVHQ0T3CCI?si=bQ2TC9BfXQ5UBwsM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Second Session Recording
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WcULe7_wPy0?si=q3dudJ-uY3UHOLDF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Gallery 
 

@@ -12,8 +12,8 @@ layouts_gallery:
 - Time: Wednesday 10/25/2023 from 11:30 AM to 12:20 PM
 - Location: BLOC 448
 - Pizza and drinks provided
-- [Presentation]({{ "/assets/files/stat_cafe/Datta_Oct_25_2023/Stat_Cafe_Saptati_revised.pdf" | relative_url }})
-- [Recording](https://www.youtube.com/watch?v=Gdf5ABS4su4)
+<!-- - [Presentation]({{ "/assets/files/stat_cafe/Datta_Oct_25_2023/Stat_Cafe_Saptati_revised.pdf" | relative_url }})
+- [Recording](https://www.youtube.com/watch?v=Gdf5ABS4su4) -->
 
 ### Topic
 Bayes Factor Functions
@@ -24,4 +24,9 @@ We provide closed-form expressions for Bayes factors based on \emph{z}, \emph{t}
 
 
 
+### Presentation 
+<iframe src="https://drive.google.com/file/d/1kPC3-PtS2ursIyiQa4ciO9hZLZbSnsum/preview" width="640" height="480" allow="autoplay"></iframe>
+
+### Recording
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gdf5ABS4su4?si=JyRZ0iQJAREBNFBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

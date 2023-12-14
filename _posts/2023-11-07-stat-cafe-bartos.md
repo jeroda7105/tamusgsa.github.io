@@ -25,7 +25,7 @@ layouts_gallery:
 - Location: BLOC 503
 - Food and drinks provided
 <!-- - [Presentation]({{ "/assets/files/stat_cafe/Bartos_Nov_09_2023/.pdf" | relative_url }}) -->
-- [Recording](https://www.youtube.com/watch?v=gXSgLDrOnCQ)
+<!-- - [Recording](https://www.youtube.com/watch?v=gXSgLDrOnCQ) -->
 
 ### Topic
 Adjusting for Publication Bias in Meta-Analyses with Bayesian Model Averaging
@@ -35,7 +35,8 @@ Publication bias is a ubiquitous threat to the validity of meta-analysis and the
 
 In this talk, I introduce Robust Bayesian meta-analysis (RoBMA) that avoids the condition-dependent, all-or-none choice between competing methods and conflicting results. RoBMA model averages across two prominent approaches of adjusting for publication bias: (1) selection models of p-values and (2) models adjusting for small-study effects. The resulting model ensemble weights the estimates and the evidence for the absence/presence of the effect from the competing approaches with the support they receive from the data. Finally, I present applications and simulation studies evaluating the methodology. 
 
-
+### Recording
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gXSgLDrOnCQ?si=VDqjNWehwB5cBQ1G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Gallery 
 

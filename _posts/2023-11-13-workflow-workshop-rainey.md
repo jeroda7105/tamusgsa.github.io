@@ -38,7 +38,7 @@ layouts_gallery:
 
 - Time: Monday 11/13/2023 from 11:30 AM to 12:30 PM 
 - Location: BLOC 503
-- [Presentation]({{ "/assets/files/workflow_workshops/Rainey_Nov_13_2023/StatsInternshipSearching.pdf" | relative_url }}) 
+<!-- - [Presentation]({{ "/assets/files/workflow_workshops/Rainey_Nov_13_2023/StatsInternshipSearching.pdf" | relative_url }}) -->
 
 
 ### Topic
@@ -48,6 +48,8 @@ Internship Searching for STAT Students
 ### Description
 An insightful session on the key factors for a successful internship search, including navigating job boards, building a strong network, perfecting your search timing, and crafting a compelling resume.
 
+### Presentation
+<iframe src="https://drive.google.com/file/d/1oaXTc4oo6a4HXhKrKWkAMBti1gslQPfP/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ### Gallery 
 

@@ -30,8 +30,8 @@ layouts_gallery:
 - Time: Wednesday 11/08/2023 from 11:30 AM to 12:20 PM
 - Location: BLOC 448
 - Pizza and drinks provided
-- [Presentation]({{ "/assets/files/stat_cafe/Roy_Nov_08_2023/StatCafe_Saptarshi_slides.pdf" | relative_url }})
-- [Recording](https://www.youtube.com/watch?v=t4VY77mvduU)
+<!--- - [Presentation]({{ "/assets/files/stat_cafe/Roy_Nov_08_2023/StatCafe_Saptarshi_slides.pdf" | relative_url }}) -->
+<!--- - [Recording](https://www.youtube.com/watch?v=t4VY77mvduU) -->
 
 ### Topic
 Directed Cyclic Graph for Causal Discovery from Multivariate Functional Data
@@ -42,6 +42,11 @@ Discovering causal relationship using multivariate functional data has received 
 
 
 
+### Presentation
+<iframe src="https://drive.google.com/file/d/1x5OzF0lpUw5B9p5rBE8bz1nNhGWawiIn/preview" width="640" height="480" allow="autoplay"></iframe>
+
+### Recording
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t4VY77mvduU?si=zlHxcvjuLLRUnstc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Gallery 
 
