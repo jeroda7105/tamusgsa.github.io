@@ -25,7 +25,7 @@ layouts_gallery:
 - Location: BLOC 448
 - Pizza and drinks provided
 ,<!-- - [Presentation]({{ "/assets/files/stat_cafe/Park_Nov_15_2023/StatCafe_Jiyoung_slides.pdf" | relative_url }}) -->
-- [Recording](https://www.youtube.com/watch?v=2qdsazfSgE4)
+,<!-- - [Recording](https://www.youtube.com/watch?v=2qdsazfSgE4) -->
 
 ### Topic
 Minimum Norm Interpolation by Two-Layer ReLU Neural Networks
@@ -36,6 +36,8 @@ Despite their empirical success, theoretical explanations for neural networks' e
 ### Presentation
 <iframe src="https://drive.google.com/file/d/1jPkLFkrOAjoarl5fLV2ps5wu5oPs1-Sd/preview" width="640" height="480" allow="autoplay"></iframe>
 
+### Recording
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2qdsazfSgE4?si=MJr-p7OqHfjUwjYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Gallery
 
