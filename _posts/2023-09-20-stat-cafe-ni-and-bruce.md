@@ -24,8 +24,8 @@ layouts_gallery:
 - Time: Wednesday 09/20/2023 from 11:30 AM to 12:20 PM
 - Location: BLOC 448
 - Pizza and drinks provided
-- [Presentation]({{ "/assets/files/stat_cafe/Ni_and_Bruce_Sept_20_2023/Ni_Bruce_slides.pdf" | relative_url }})
-- [Recording](https://youtu.be/GfaMtA9XvNs)
+<!-- - [Presentation]({{ "/assets/files/stat_cafe/Ni_and_Bruce_Sept_20_2023/Ni_Bruce_slides.pdf" | relative_url }})
+- [Recording](https://youtu.be/GfaMtA9XvNs) -->
 
 
 ### Topic
@@ -36,6 +36,12 @@ Non-Gaussian Factor Model for Interpretable Ordinal Time Series Analysis
 ### Abstract
 
 In this talk, Dr. Ni and Dr. Bruce will first provide a general overview of their research interests and ongoing projects in biomedical time series analysis, causal learning, and interpretable statistical methods. The remainder of the talk will introduce a collaborative research effort to develop an interpretable factor model for learning causal structures in ordinal time series data.
+
+### Presentation
+<iframe src="https://drive.google.com/file/d/1prRyGn5eaC1bGGRQt9UBRgj30NZ23S5r/preview" width="640" height="480" allow="autoplay"></iframe>
+
+### Recording
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GfaMtA9XvNs?si=HD9rRbpZhWMgd2Av" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Gallery (Photos by Camila Ponce)
 
