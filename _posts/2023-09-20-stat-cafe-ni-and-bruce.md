@@ -24,8 +24,8 @@ layouts_gallery:
 - Time: Wednesday 09/20/2023 from 11:30 AM to 12:20 PM
 - Location: BLOC 448
 - Pizza and drinks provided
-<!-- - [Presentation]({{ "/assets/files/stat_cafe/Ni_and_Bruce_Sept_20_2023/Ni_Bruce_slides.pdf" | relative_url }})
-- [Recording](https://youtu.be/GfaMtA9XvNs) -->
+<!-- - [Presentation]({{ "/assets/files/stat_cafe/Ni_and_Bruce_Sept_20_2023/Ni_Bruce_slides.pdf" | relative_url }}) -->
+<!-- - [Recording](https://youtu.be/GfaMtA9XvNs) -->
 
 
 ### Topic

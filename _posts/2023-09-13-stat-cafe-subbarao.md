@@ -27,8 +27,8 @@ layouts_gallery:
 - Time: Wednesday 09/13/2023 from 11:30 AM to 12:20 PM
 - Location: BLOC 448
 - Pizza and drinks provided
-<!-- - [Presentation]({{ "/assets/files/stat_cafe/Subbarao_Sept_13_2023/Graphical-Models-TimeSeries.pdf" | relative_url }})
-- [Recording](https://www.youtube.com/watch?v=ZyEmTcC3w-s) -->
+<!-- - [Presentation]({{ "/assets/files/stat_cafe/Subbarao_Sept_13_2023/Graphical-Models-TimeSeries.pdf" | relative_url }}) -->
+<!-- - [Recording](https://www.youtube.com/watch?v=ZyEmTcC3w-s) -->
 
 
 ### Topic

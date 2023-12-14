@@ -30,8 +30,8 @@ layouts_gallery:
 - Time: Wednesday 09/06/2023 from 11:30 AM to 12:20 PM
 - Location: BLOC 448
 - Pizza and drinks provided
-<!-- - [Presentation]({{ "/assets/files/stat_cafe/Harris_Sept_06_2023/statcafe.pdf" | relative_url }})
-- [Recording](https://www.youtube.com/watch?v=3cFLb6IMFTU) -->
+<!-- - [Presentation]({{ "/assets/files/stat_cafe/Harris_Sept_06_2023/statcafe.pdf" | relative_url }}) -->
+<!-- - [Recording](https://www.youtube.com/watch?v=3cFLb6IMFTU) -->
 
 ### Topic
 

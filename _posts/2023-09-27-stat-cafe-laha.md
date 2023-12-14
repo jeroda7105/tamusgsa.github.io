@@ -12,8 +12,8 @@ layouts_gallery:
 - Time: Wednesday 09/27/2023 from 11:30 AM to 12:20 PM
 - Location: BLOC 448
 - Pizza and drinks provided
-<!-- - [Presentation]({{ "/assets/files/stat_cafe/Laha_Sept_27_2023/Nilanjana_Laha_slides.pdf" | relative_url }})
-- [Recording](https://www.youtube.com/watch?v=oysyhgPiL30) -->
+<!-- - [Presentation]({{ "/assets/files/stat_cafe/Laha_Sept_27_2023/Nilanjana_Laha_slides.pdf" | relative_url }}) -->
+<!-- - [Recording](https://www.youtube.com/watch?v=oysyhgPiL30) -->
 
 
 ### Topic

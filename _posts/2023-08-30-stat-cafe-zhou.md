@@ -9,8 +9,8 @@ classes: wide
 - Location: BLOC 448
 - Pizza and drinks provided
 - [Gallery](/StatCafe/2023-08-30-gallery/)
-<!-- - [Presentation]({{ "/assets/files/stat_cafe/Zhou_Aug_30_2023/IntroMCMC.pdf" | relative_url }})
-- [Recording](https://www.youtube.com/watch?v=yotiW_UarNg) -->
+<!-- - [Presentation]({{ "/assets/files/stat_cafe/Zhou_Aug_30_2023/IntroMCMC.pdf" | relative_url }}) -->
+<!-- - [Recording](https://www.youtube.com/watch?v=yotiW_UarNg) -->
 
 ### Topic
 

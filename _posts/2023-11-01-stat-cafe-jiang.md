@@ -27,8 +27,8 @@ layouts_gallery:
 - Time: Wednesday 11/01/2023 from 11:30 AM to 12:20 PM
 - Location: BLOC 448
 - Pizza and drinks provided
-<!--- - [Presentation]({{ "/assets/files/stat_cafe/Jiang_Nov_01_2023/StatCafe_Jiang_slides.pdf" | relative_url }})
-- [Recording](https://www.youtube.com/watch?v=t5vKbRg9ySg) -->
+<!-- - [Presentation]({{ "/assets/files/stat_cafe/Jiang_Nov_01_2023/StatCafe_Jiang_slides.pdf" | relative_url }}) -->
+<!-- - [Recording](https://www.youtube.com/watch?v=t5vKbRg9ySg) -->
 
 ### Topic
 DNA Copy Number Profiling: from Bulk Tissue to Single Cells

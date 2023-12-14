@@ -12,8 +12,8 @@ layouts_gallery:
 - Time: Wednesday 10/04/2023 from 11:30 AM to 12:20 PM
 - Location: BLOC 448
 - Pizza and drinks provided
-<!-- - [Presentation]({{ "/assets/files/stat_cafe/Arroyo_Oct_04_2023/StatCafe_slides_Arroyo.pdf" | relative_url }})
-- [Recording](https://www.youtube.com/watch?v=l7jI966PWiA) -->
+<!-- - [Presentation]({{ "/assets/files/stat_cafe/Arroyo_Oct_04_2023/StatCafe_slides_Arroyo.pdf" | relative_url }}) -->
+<!-- - [Recording](https://www.youtube.com/watch?v=l7jI966PWiA) -->
 
 
 ### Topic
