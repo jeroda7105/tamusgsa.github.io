@@ -1,6 +1,6 @@
 ---
 title: "Stat Cafe - Dr. Raymond Carroll"
-excerpt: ""
+excerpt: "Mentoring Talk"
 layout: single
 classes: wide
 layouts_gallery:
