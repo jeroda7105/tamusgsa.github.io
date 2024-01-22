@@ -37,6 +37,6 @@ Our first Stat Café session this semester will feature Dr. Raymond Carroll, Jil
 ### Recording (Coming Soon)
 
 
-<!--### Gallery -->
+### Gallery
 
-<!-- {% include gallery id="layouts_gallery" %} -->
+{% include gallery id="layouts_gallery" %}
