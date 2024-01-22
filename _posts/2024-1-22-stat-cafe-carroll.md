@@ -24,8 +24,8 @@ layouts_gallery:
 - Time: Monday 1/22/2024 from 11:30 AM to 12:30 PM
 - Location: BLOC 448
 - Pizza and drinks provided
-,<!-- - [Presentation]({{ "/assets/files/stat_cafe/Carroll_Jan_22_2024/StatCafe_Carroll_slides.pdf" | relative_url }}) -->
-,<!-- - [Recording]() -->
+<!-- - [Presentation]({{ "/assets/files/stat_cafe/Carroll_Jan_22_2024/StatCafe_Carroll_slides.pdf" | relative_url }}) -->
+<!-- - [Recording]() -->
 
 ### Description
 Our first Stat Café session this semester will feature Dr. Raymond Carroll, Jill and Stuart A. Harlin ’83 Chair in Statistics, Distinguished Professor of Statistics, Nutrition and Toxicology. Dr. Carroll will be sharing engaging stories from his journey with over 50 PhD students, his research endeavors, and beyond.

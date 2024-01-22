@@ -24,8 +24,8 @@ layouts_gallery:
 - Time: Wednesday 11/15/2023 from 11:30 AM to 12:20 PM
 - Location: BLOC 448
 - Pizza and drinks provided
-,<!-- - [Presentation]({{ "/assets/files/stat_cafe/Park_Nov_15_2023/StatCafe_Jiyoung_slides.pdf" | relative_url }}) -->
-,<!-- - [Recording](https://www.youtube.com/watch?v=2qdsazfSgE4) -->
+<!-- - [Presentation]({{ "/assets/files/stat_cafe/Park_Nov_15_2023/StatCafe_Jiyoung_slides.pdf" | relative_url }}) -->
+<!-- - [Recording](https://www.youtube.com/watch?v=2qdsazfSgE4) -->
 
 ### Topic
 Minimum Norm Interpolation by Two-Layer ReLU Neural Networks
