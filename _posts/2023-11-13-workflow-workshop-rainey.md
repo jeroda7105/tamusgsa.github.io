@@ -3,7 +3,7 @@ title: "Workflow Workshop - Dr. Paul Rainey"
 excerpt: "Internship Searching for STAT Students"
 layout: single
 classes: wide
-tags: 
+category: 
   - Workflow Workshop
 layouts_gallery:
   - url: /assets/images/workflow_workshops/Rainey_Nov_13_2023/rainey_flyer.png
