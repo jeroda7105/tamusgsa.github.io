@@ -1,7 +1,7 @@
 ---
 permalink: /events/
 title: "Events"
-layout: posts
+layout: categories
 author_profile: true
 classes: wide
 ---
