@@ -3,6 +3,8 @@ title: "Stat Cafe - Dr. Raymond Carroll"
 excerpt: "Mentoring Talk"
 layout: single
 classes: wide
+tags: 
+  - Stat Cafe
 layouts_gallery:
   - url: /assets/images/stat_cafe/Carroll_Jan_22_2024/IMG_8648.jpg
     image_path: /assets/images/stat_cafe/Carroll_Jan_22_2024/IMG_8648.jpg
