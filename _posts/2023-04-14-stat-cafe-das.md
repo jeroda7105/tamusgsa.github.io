@@ -3,6 +3,8 @@ title: "2023-04-14 Stat Cafe - Snigdha Das"
 excerpt: "Blocked Gibbs sampler for hierarchical Dirichlet processes"
 layout: single
 classes: wide
+category:
+  - Stat Cafe
 ---
 
 - Time: Friday 04/14 from 1:00 PM to 2:00 PM

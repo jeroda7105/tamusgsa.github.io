@@ -3,6 +3,8 @@ title: "2023-02-17 Stat Cafe - Alexander Coulter"
 excerpt: "Distributional Regression for CGM Data: Variable Selection Some Time Today, Please"
 layout: single
 classes: wide
+category:
+  - Stat Cafe
 ---
 
 ![02172023-Coulter-1.jpg]({{ "/assets/images/stat_cafe/02172023-Coulter-1.jpg" | relative_url }})

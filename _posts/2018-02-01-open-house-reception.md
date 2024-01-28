@@ -3,6 +3,8 @@ title: "2018-02-01 - Open House Reception"
 excerpt: Reception in the honor of Dr. Fan's visit to TAMU.
 layout: single
 classes: wide
+category:
+  - Other
 ---
 
 - Thursday, February 01, 2018.

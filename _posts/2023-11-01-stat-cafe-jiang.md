@@ -3,6 +3,8 @@ title: "Stat Cafe -  Dr. Yuchao Jiang"
 excerpt: "DNA Copy Number Profiling: from Bulk Tissue to Single Cells"
 layout: single
 classes: wide
+category:
+  - Stat Cafe
 layouts_gallery:
   - url: /assets/images/stat_cafe/Jiang_Nov_01_2023/IMG_4786.jpg
     image_path: /assets/images/stat_cafe/Jiang_Nov_01_2023/IMG_4786.jpg

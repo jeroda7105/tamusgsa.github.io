@@ -3,6 +3,8 @@ title: "Halloween Potluck, 2023"
 excerpt: A Halloween party for everyone in the department to get to know each other over some fun and good food.
 layout: single
 classes: wide
+category:
+  - BBQ
 layouts_gallery:
   - url: /assets/images/halloween_potluck_2023/image001.png
     image_path: /assets/images/halloween_potluck_2023/image001.png

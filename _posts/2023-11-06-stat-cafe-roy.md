@@ -3,6 +3,8 @@ title: "Stat Cafe - Saptarshi Roy"
 excerpt: "Directed Cyclic Graph for Causal Discovery from Multivariate Functional Data"
 layout: single
 classes: wide
+category:
+  - Stat Cafe
 layouts_gallery:
   - url: /assets/images/stat_cafe/Roy_Nov_08_2023/IMG_4922.jpg
     image_path: /assets/images/stat_cafe/Roy_Nov_08_2023/IMG_4922.jpg

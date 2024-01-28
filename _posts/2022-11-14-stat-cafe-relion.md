@@ -3,6 +3,8 @@ title: "2022-11-14 Stat Cafe - Dr. Jesus Arroyo Relion"
 excerpt: "Community detection in multilayer networks via spectral methods"
 layout: single
 classes: wide
+category:
+  - Stat Cafe
 ---
 
 - Time: Monday 11/14 from 11:30 AM to 12:30 PM

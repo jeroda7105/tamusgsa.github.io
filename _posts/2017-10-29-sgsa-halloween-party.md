@@ -3,6 +3,8 @@ title: "2017-10-29 - SGSA Halloween Party"
 excerpt: A student only event on Sunday, October 29, 2017.
 layout: single
 classes: wide
+category:
+  - Other
 ---
 
 - Date: 10/29/2017, Sunday

@@ -3,6 +3,8 @@ title: "Stat Cafe - Saptati Datta"
 excerpt: "Bayes Factor Functions"
 layout: single
 classes: wide
+category:
+  - Stat Cafe
 layouts_gallery:
   - url: /assets/images/stat_cafe/Datta_Oct_25_2023/Stat_Cafe_Datta.jpg
     image_path: /assets/images/stat_cafe/Datta_Oct_25_2023/Stat_Cafe_Datta.jpg

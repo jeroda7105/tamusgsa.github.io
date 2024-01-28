@@ -3,6 +3,8 @@ title: "2022-10-03 Stat Cafe - Dr. Schafer"
 excerpt: "Trend Filtering with Adaptive Bayesian Changepoint Analysis for Count Time Series"
 layout: single
 classes: wide
+category:
+  - Stat Cafe
 ---
 
 - Time: Monday 10/03 from 11:30 AM to 12:30 PM

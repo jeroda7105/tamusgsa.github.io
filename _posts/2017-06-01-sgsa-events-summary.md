@@ -2,6 +2,8 @@
 title: "2017 Spring - SGSA Events Summary"
 layout: single
 classes: wide
+category:
+  - Other
 ---
 
 - Research Talk with Dr. Katzfuss

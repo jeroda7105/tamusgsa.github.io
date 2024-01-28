@@ -3,6 +3,8 @@ title: "2022-10-27 Stat Cafe - Dr. Jaiswal"
 excerpt: "Thompson Sampling with Fractional Posterior: Formulation and Regret Analysis"
 layout: single
 classes: wide
+category:
+  - Stat Cafe
 ---
 
 - Time: Monday 10/27 from 2:30 PM to 3:30 PM

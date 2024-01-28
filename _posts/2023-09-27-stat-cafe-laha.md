@@ -3,6 +3,8 @@ title: "Stat Cafe - Dr. Nilanjana Laha"
 excerpt: "Model-free Full Reinforcement Learning for Learning the Optimal Treatment Policy"
 layout: single
 classes: wide
+category:
+  - Stat Cafe
 layouts_gallery:
   - url: /assets/images/stat_cafe/Laha_Sept_27_2023/Stat_Cafe_Dr.Laha.jpg
     image_path: /assets/images/stat_cafe/Laha_Sept_27_2023/Stat_Cafe_Dr.Laha.jpg

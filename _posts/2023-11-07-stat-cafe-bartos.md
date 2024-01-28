@@ -3,6 +3,8 @@ title: "Stat Cafe - František Bartoš"
 excerpt: "Adjusting for Publication Bias in Meta-Analyses with Bayesian Model Averaging"
 layout: single
 classes: wide
+category:
+  - Stat Cafe
 layouts_gallery:
   - url: /assets/images/stat_cafe/Bartos_Nov_09_2023/IMG_4935.jpg
     image_path: /assets/images/stat_cafe/Bartos_Nov_09_2023/IMG_4935.jpg

@@ -3,6 +3,8 @@ title: "Stat Cafe - Jiyoung Park"
 excerpt: "Minimum Norm Interpolation by Two-Layer ReLU Neural Networks"
 layout: single
 classes: wide
+category:
+  - Stat Cafe
 layouts_gallery:
   - url: /assets/images/stat_cafe/Park_Nov_15_2023/IMG_5066.jpg
     image_path: /assets/images/stat_cafe/Park_Nov_15_2023/IMG_5066.jpg

@@ -3,6 +3,8 @@ title: "2022-11-07 Stat Cafe - Dr. Yang Ni"
 excerpt: "Causal Graphical Models for Discovering Gene Regulations"
 layout: single
 classes: wide
+category:
+  - Stat Cafe
 ---
 
 - Time: Monday 11/07 from 11:30 AM to 12:30 PM

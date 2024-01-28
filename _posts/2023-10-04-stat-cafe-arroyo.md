@@ -3,6 +3,8 @@ title: "Stat Cafe - Dr. Jesús Arroyo"
 excerpt: "Graph Matching from a Statistical Perspective"
 layout: single
 classes: wide
+category:
+  - Stat Cafe
 layouts_gallery:
   - url: /assets/images/stat_cafe/Arroyo_Oct_04_2023/Stat_Cafe_Arroyo.jpg
     image_path: /assets/images/stat_cafe/Arroyo_Oct_04_2023/Stat_Cafe_Arroyo.jpg

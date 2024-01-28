@@ -3,6 +3,8 @@ title: "2023-08-30 Stat Cafe - Dr. Quan Zhou"
 excerpt: "Towards More Efficient MCMC Sampling"
 layout: single
 classes: wide
+category:
+  - Stat Cafe
 ---
 
 - Time: Wednesday 08/30/2023 from 11:20 AM to 12:10 PM

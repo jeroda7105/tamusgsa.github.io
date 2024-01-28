@@ -3,6 +3,8 @@ title: "2022-09-19 Stat Cafe - Dr. Ning Ning"
 excerpt: "High-dimensional Machine Learning and its Applications in Finance"
 layout: single
 classes: wide
+category:
+  - Stat Cafe
 ---
 
 - Time: Monday 9/19 from 11:30 AM to 12:30 PM

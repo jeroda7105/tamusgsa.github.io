@@ -3,6 +3,8 @@ title: "Workflow Workshop - Matthew Hielsberg"
 excerpt: "Introduction to the Statistics Department Cluster"
 layout: single
 classes: wide
+category:
+  - Workflow Workshop
 layouts_gallery:
   - url: /assets/images/workflow_workshops/Hielsberg_Sept_28_2023/IMG_7137.PNG
     image_path: /assets/images/workflow_workshops/Hielsberg_Sept_28_2023/IMG_7137.PNG

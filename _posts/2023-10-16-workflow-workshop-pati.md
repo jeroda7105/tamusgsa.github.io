@@ -3,6 +3,8 @@ title: "Workflow Workshop - Dr. Debdeep Pati"
 excerpt: "Introduction to Bayesian Asymptotics"
 layout: single
 classes: wide
+category:
+  - Workflow Workshop
 layouts_gallery:
   - url: /assets/images/workflow_workshops/Pati_Oct_16_2023/pati_flyer.png
     image_path: /assets/images/workflow_workshops/Pati_Oct_16_2023/pati_flyer.png

@@ -2,6 +2,8 @@
 title: "2023-04-21 Game Night"
 layout: single
 classes: wide
+category:
+  - Game Night
 ---
 
 - Game night's starting in Fisher Bowl, stop by and grab some pizza :)

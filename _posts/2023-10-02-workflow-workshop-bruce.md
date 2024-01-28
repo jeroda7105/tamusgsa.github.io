@@ -3,6 +3,8 @@ title: "Workflow Workshop - Dr. Scott Bruce"
 excerpt: "Communicating Research Effectively"
 layout: single
 classes: wide
+category:
+  - Workflow Workshop
 layouts_gallery:
   - url: /assets/images/workflow_workshops/Bruce_Oct_02_2023/bruce_flyer.png
     image_path: /assets/images/workflow_workshops/Bruce_Oct_02_2023/bruce_flyer.png

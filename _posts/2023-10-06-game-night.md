@@ -2,6 +2,8 @@
 title: "Game Night, 10-6-23"
 layout: single
 classes: wide
+category:
+  - Game Night
 layouts_gallery:
   - url: /assets/images/game_night/game_night_09_08_2023/IMG_0095.JPG
     image_path: /assets/images/game_night/game_night_09_08_2023/IMG_0095.JPG

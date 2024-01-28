@@ -3,6 +3,8 @@ title: "2023-02-24 Stat Cafe - Dr. Meghan Cain from STATA"
 excerpt: "My experience pursuing a career in industry"
 layout: single
 classes: wide
+category:
+  - Stat Cafe
 ---
 
 - Time: Friday 02/24 from 1:00 PM to 2:00 PM

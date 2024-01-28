@@ -3,6 +3,8 @@ title: "2023-09-13 Stat Cafe - Dr. Suhasini Subba Rao"
 excerpt: "Graphical Models for Multivariate Time Series"
 layout: single
 classes: wide
+category:
+  - Stat Cafe
 layouts_gallery:
   - url: /assets/images/stat_cafe/Subbarao_Sept_13_2023/IMG_0152.JPG
     image_path: /assets/images/stat_cafe/Subbarao_Sept_13_2023/IMG_0152.JPG

@@ -3,6 +3,8 @@ title: "Workflow Workshop - František Bartoš"
 excerpt: "Analyzing Data with JASP: A Free, Open-Source, and User-Friendly Statistical Software "
 layout: single
 classes: wide
+category:
+  - Workflow Workshop
 layouts_gallery:
   - url: /assets/images/workflow_workshops/Bartos_Nov_06_2023/bartos_flyer_revised.JPEG
     image_path: /assets/images/workflow_workshops/Bartos_Nov_06_2023/bartos_flyer_revised.JPEG

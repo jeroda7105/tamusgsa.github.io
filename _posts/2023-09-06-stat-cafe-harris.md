@@ -3,6 +3,8 @@ title: "2023-09-06 Stat Cafe - Dr. Trevor Harris"
 excerpt: "Distributionally robust Multi-Model Ensemble Analysis"
 layout: single
 classes: wide
+category:
+  - Stat Cafe
 layouts_gallery:
   - url: /assets/images/stat_cafe/Harris_Sept_06_2023/IMG_0006.JPG
     image_path: /assets/images/stat_cafe/Harris_Sept_06_2023/IMG_0006.JPG
