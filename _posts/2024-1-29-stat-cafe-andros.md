@@ -20,7 +20,7 @@ layouts_gallery:
     alt: "IMG_0117.jpg"
 ---
 
-- Time: Monday 1/22/2024 from 11:30 AM to 12:30 PM
+- Time: Monday 1/22/2024 from 11:40 AM to 12:30 PM
 - Location: BLOC 448
 - Pizza and drinks provided
 <!-- - [Presentation]({{ "/assets/files/stat_cafe/Andros_Jan_29_2024/StatCafe_Andros_slides.pdf" | relative_url }}) -->
