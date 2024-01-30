@@ -24,7 +24,7 @@ layouts_gallery:
 - Location: BLOC 448
 - Pizza and drinks provided
 <!-- - [Presentation]({{ "/assets/files/stat_cafe/Andros_Jan_29_2024/StatCafe_Andros_slides.pdf" | relative_url }}) -->
-<!-- - [Recording]() -->
+<!-- - [Recording](https://www.youtube.com/watch?v=YveqZRFVCwM) -->
 
 ### Description
 Emerging distributed Bayesian learning frameworks partition raw data into shards and distribute computations of these shards across machines. While this strategy mitigates data storage costs and improves computation within each machine, concerns arise regarding the sensitivity of distributed inference to shard selection. Our research proposes an innovative alternative. Instead of creating data shards, we employ multiple random matrices to construct multiple random linear projections, or "random sketches," of the complete dataset. Posterior inference on functional data models is performed using random sketches on various machines in parallel. These individual inferences are then combined across machines at a central server. By aggregating inference across diverse random matrices, our approach proves resilient to the selection of data sketches, leading to the development of novel robust distributed Bayesian learning approach. An important advantage of our approach is its ability to maintain the privacy of sampling units, as the inference is based on random data sketches that do not allow the recovery of raw data.
@@ -32,8 +32,8 @@ Emerging distributed Bayesian learning frameworks partition raw data into shards
 ### Presentation
 <iframe src="https://drive.google.com/file/d/13YoyF3WMtYrIHWHBd3RxaXjGLu5alSZo/preview" width="640" height="480" allow="autoplay"></iframe>
 
-### Recording (Coming Soon)
-
+### Recording
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YveqZRFVCwM?si=m_O_Y35eGA9iRyqj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Gallery
 
