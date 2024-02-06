@@ -33,7 +33,7 @@ layouts_gallery:
 - Location: BLOC 448
 - Pizza and drinks provided
 <!-- - [Presentation]({{ "/assets/files/stat_cafe/Ray_Feb_05_2024/StatCafe_Ray_slides.pdf" | relative_url }}) -->
-<!-- - [Recording]() -->
+<!-- - [Recording](https://www.youtube.com/watch?v=n6q_YPYyvOs) -->
 
 ### Description
 Gradient-boosted decision trees (GBDTs) such as XGBoost and LightGBM have become extremely popular due to their exceptional performance on tabular data for machine learning tasks such as regression and classification. We present a novel graph-split-based gradient boosting trees method, called GGBoost, which improves the performance of GBDTs on complex data with graph relations. The method uses a highly flexible split rule that is compliant with graph structure, thereby relaxing the axis-parallel split assumption found in most existing GBDTs. We describe a scalable greedy search algorithm that is based on recursive updates of gradients on arborescences to construct the graph-split-based decision tree.
@@ -41,7 +41,8 @@ Gradient-boosted decision trees (GBDTs) such as XGBoost and LightGBM have become
 ### Presentation
 <iframe src="https://drive.google.com/file/d/1kvm1BzORswGUynZo9W3V-UPQu1S_TyvS/preview" width="640" height="480" allow="autoplay"></iframe>
 
-### Recording (Coming Soon)
+### Recording
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n6q_YPYyvOs?si=b8yf6TErDgDUncYC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Gallery
 
