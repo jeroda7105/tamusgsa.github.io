@@ -13,7 +13,7 @@ layouts_gallery:
 
 - Time: Wednesday 2/7/2024 from 2:00 PM to 3:00 PM 
 - Location: BLOC 503
-<!-- - [First Session Recording](https://www.youtube.com/watch?v=yAVHQ0T3CCI) -->
+<!-- - [Recording]() -->
 
 
 ### Topic
