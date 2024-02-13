@@ -45,7 +45,7 @@ Hope y’all are having a great semester so far! SGSA is excited to organize our
 Join us for an evening filled with a variety of games, including ludo, jenga, yut, yacht, werewolf, catan, carrom, and uno.  Additionally, this game night will feature trivia and other online games, with some attractive prizes for the winners. We encourage participation of faculty, postdocs and students, including those in the distance master’s program (a zoom link will be sent out later). For in-person attendees, we will be ordering tacos, chips and dips from Velvet Taco.
 
 ### Gallery
-{% include gallery id="layouts_gallery" %}
+
 
 
 
