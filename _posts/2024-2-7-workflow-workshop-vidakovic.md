@@ -9,6 +9,30 @@ layouts_gallery:
   - url: /assets/images/workflow_workshops/Vidakovic_Feb_07_2024/vidakovic_flyer.png
     image_path: /assets/images/workflow_workshops/Vidakovic_Feb_07_2024/vidakovic_flyer.png
     alt: "vidakovic_flyer.png"
+  - url: /assets/images/workflow_workshops/Vidakovic_Feb_07_2024/IMG_6485.jpeg
+    image_path: /assets/images/workflow_workshops/Vidakovic_Feb_07_2024/IMG_6485.jpeg
+    alt: "IMG_6485.jpeg"
+  - url: /assets/images/workflow_workshops/Vidakovic_Feb_07_2024/IMG_6480.jpeg
+    image_path: /assets/images/workflow_workshops/Vidakovic_Feb_07_2024/IMG_6480.jpeg
+    alt: "IMG_6480.jpeg"
+  - url: /assets/images/workflow_workshops/Vidakovic_Feb_07_2024/IMG_6473.jpeg
+    image_path: /assets/images/workflow_workshops/Vidakovic_Feb_07_2024/IMG_6473.jpeg
+    alt: "IMG_6473.jpeg"
+  - url: /assets/images/workflow_workshops/Vidakovic_Feb_07_2024/IMG_6472.jpeg
+    image_path: /assets/images/workflow_workshops/Vidakovic_Feb_07_2024/IMG_6472.jpeg
+    alt: "IMG_6472.jpeg"
+  - url: /assets/images/workflow_workshops/Vidakovic_Feb_07_2024/IMG_6470.jpeg
+    image_path: /assets/images/workflow_workshops/Vidakovic_Feb_07_2024/IMG_6470.jpeg
+    alt: "IMG_6470.jpeg"
+  - url: /assets/images/workflow_workshops/Vidakovic_Feb_07_2024/IMG_6469.jpeg
+    image_path: /assets/images/workflow_workshops/Vidakovic_Feb_07_2024/IMG_6469.jpeg
+    alt: "IMG_6469.jpeg"
+  - url: /assets/images/workflow_workshops/Vidakovic_Feb_07_2024/IMG_3485.jpeg
+    image_path: /assets/images/workflow_workshops/Vidakovic_Feb_07_2024/IMG_3485.jpeg
+    alt: "IMG_3485.jpeg"
+  - url: /assets/images/workflow_workshops/Vidakovic_Feb_07_2024/IMG_3484.jpeg
+    image_path: /assets/images/workflow_workshops/Vidakovic_Feb_07_2024/IMG_3484.jpeg
+    alt: "IMG_3484.jpeg"
 ---
 
 - Time: Wednesday 2/7/2024 from 2:00 PM to 3:00 PM 
