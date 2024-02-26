@@ -9,9 +9,6 @@ layouts_gallery:
   - url: /assets/images/stat_cafe/Carriquiry_Feb_26_2024/IMG_0501.jpg
     image_path: /assets/images/stat_cafe/Carriquiry_Feb_26_2024/IMG_0501.jpg
     alt: "IMG_0501.jpg"
-  - url: /assets/images/stat_cafe/Carriquiry_Feb_26_2024/IMG_0374.jpg
-    image_path: /assets/images/stat_cafe/Carriquiry_Feb_26_2024/IMG_0374.jpg
-    alt: "IMG_0374.jpg"
   - url: /assets/images/stat_cafe/Carriquiry_Feb_26_2024/IMG_0386.jpg
     image_path: /assets/images/stat_cafe/Carriquiry_Feb_26_2024/IMG_0386.jpg
     alt: "IMG_0386.jpg"
@@ -21,12 +18,15 @@ layouts_gallery:
   - url: /assets/images/stat_cafe/Carriquiry_Feb_26_2024/IMG_0437.jpg
     image_path: /assets/images/stat_cafe/Carriquiry_Feb_26_2024/IMG_0437.jpg
     alt: "IMG_0437.jpg"
-  - url: /assets/images/stat_cafe/Carriquiry_Feb_26_2024/IMG_0460.jpg
-    image_path: /assets/images/stat_cafe/Carriquiry_Feb_26_2024/IMG_0460.jpg
-    alt: "IMG_0460.jpg"
   - url: /assets/images/stat_cafe/Carriquiry_Feb_26_2024/IMG_0472.jpg
     image_path: /assets/images/stat_cafe/Carriquiry_Feb_26_2024/IMG_0472.jpg
     alt: "IMG_0472.jpg"
+  - url: /assets/images/stat_cafe/Carriquiry_Feb_26_2024/IMG_0374.jpg
+    image_path: /assets/images/stat_cafe/Carriquiry_Feb_26_2024/IMG_0374.jpg
+    alt: "IMG_0374.jpg"
+  - url: /assets/images/stat_cafe/Carriquiry_Feb_26_2024/IMG_0460.jpg
+    image_path: /assets/images/stat_cafe/Carriquiry_Feb_26_2024/IMG_0460.jpg
+    alt: "IMG_0460.jpg"
   - url: /assets/images/stat_cafe/Carriquiry_Feb_26_2024/IMG_0496.jpg
     image_path: /assets/images/stat_cafe/Carriquiry_Feb_26_2024/IMG_0496.jpg
     alt: "IMG_0496.jpg"
