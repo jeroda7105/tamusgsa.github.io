@@ -6,6 +6,9 @@ classes: wide
 category: 
   - Stat Cafe
 layouts_gallery:
+  - url: /assets/images/stat_cafe/Carriquiry_Feb_26_2024/IMG_0501.jpg
+    image_path: /assets/images/stat_cafe/Carriquiry_Feb_26_2024/IMG_0501.jpg
+    alt: "IMG_0501.jpg"
   - url: /assets/images/stat_cafe/Carriquiry_Feb_26_2024/IMG_0374.jpg
     image_path: /assets/images/stat_cafe/Carriquiry_Feb_26_2024/IMG_0374.jpg
     alt: "IMG_0374.jpg"
@@ -28,13 +31,6 @@ layouts_gallery:
     image_path: /assets/images/stat_cafe/Carriquiry_Feb_26_2024/IMG_0496.jpg
     alt: "IMG_0496.jpg"
 ---
-
-<script>
-   $(document).ready(function() {
-     $head = $('#header');
-     $head.prepend('<img src=\"/assets/images/stat_cafe/Carriquiry_Feb_26_2024/IMG_0501.jpg\" style=\"float: right;width: 150px;\"/>')
-   });
-</script>
 
 
 ### Statistics and the evaluation of forensic evidence
