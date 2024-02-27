@@ -39,7 +39,7 @@ layouts_gallery:
 - Location: BLOC 448
 - Pizza and drinks provided
 <!-- - [Presentation]({{ "/assets/files/stat_cafe/Carriquiry_Feb_26_2024/StatCafe_Carriquiry_slides.pdf" | relative_url }}) -->
-<!-- - [Recording]() -->
+- [Recording](https://www.youtube.com/watch?v=aUzQkS8Oep8)
 
 ### Description
 When a crime is committed, CSIs often recover evidence from the scene. Evidence may include biological samples (e.g., blood), trace material (e.g., hair, clothing fibers) or what is known as patterns. Patterns include finger prints, blood spatter, striations on a bullet, a handwritten note, and other such evidence that can be represented in the form of an image. The question of interest is whether the defendant may have been the source of the evidence at the crime scene.
@@ -52,7 +52,8 @@ At CSAFE (www.forensicstats.org) we have spent years developing statistical and 
 ### Presentation
 <iframe src="https://drive.google.com/file/d/1EWYLTCLiomGFFx-76-SNagzUshNO7Uor/preview" width="640" height="480" allow="autoplay"></iframe>
 
-### Recording (Coming Soon)
+<!-- ### Recording
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aUzQkS8Oep8?si=OX_KJGuNiLVKU6_u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 ### Gallery
 
