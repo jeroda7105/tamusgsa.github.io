@@ -32,7 +32,7 @@ layouts_gallery:
 - Time: Monday 3/4/2024 from 11:40 AM to 12:30 PM
 - Location: BLOC 448
 - Pizza and drinks provided
-<!-- - [Presentation]({{ "/assets/files/stat_cafe/Chakraborty_Mar_04_2024/StatCafe_Abishek_slides.pdf" | relative_url }}) -->
+<!-- - [Presentation]({{ "/assets/files/stat_cafe/Chakraborty_Mar_04_2024/StatCafe_Abhisek_slides.pdf" | relative_url }}) -->
 <!-- - [Recording]() -->
 
 ### Description

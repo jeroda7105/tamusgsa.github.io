@@ -20,6 +20,9 @@ Organization Tools for Graduate Student Research
 ### Description
 In this interactive session, participants will be introduced to essential tools for organizing their research and schoolwork, focusing primarily on applications like Zotero for citation management, Slack for communication organization, and Notion for consolidating various organizational tools into one platform. This will enable the attendees to effectively utilize each application and determine which organizational tools suit them best. The session will be beneficial for Master’s students, early-stage Ph.D. students, or anyone feeling overwhelmed with their to-do list. Please bring a laptop to maximize your engagement and learning experience in this session.
 
+### Presentation
+<iframe src="https://drive.google.com/file/d/1zkJ9tJJCXgsQuWOlpk1Cwg_A-vSYEI12/preview" width="640" height="480" allow="autoplay"></iframe>
+
 ### Recording (Coming Soon)
 
 
