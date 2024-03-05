@@ -6,6 +6,27 @@ classes: wide
 category:
   - Workflow Workshop
 layouts_gallery:
+  - url: /assets/images/workflow_workshops/Lee_Feb_28_2024/IMG_0118.jpeg
+    image_path: /assets/images/workflow_workshops/Lee_Feb_28_2024/IMG_0118.jpeg
+    alt: "IMG_0118.jpeg"
+  - url: /assets/images/workflow_workshops/Lee_Feb_28_2024/IMG_0116.jpeg
+    image_path: /assets/images/workflow_workshops/Lee_Feb_28_2024/IMG_0116.jpeg
+    alt: "IMG_0116.jpeg"
+  - url: /assets/images/workflow_workshops/Lee_Feb_28_2024/IMG_0111.jpeg
+    image_path: /assets/images/workflow_workshops/Lee_Feb_28_2024/IMG_0111.jpeg
+    alt: "IMG_0111.jpeg"
+  - url: /assets/images/workflow_workshops/Lee_Feb_28_2024/IMG_0112.jpeg
+    image_path: /assets/images/workflow_workshops/Lee_Feb_28_2024/IMG_0112.jpeg
+    alt: "IMG_0112.jpeg"
+  - url: /assets/images/workflow_workshops/Lee_Feb_28_2024/IMG_0113.jpeg
+    image_path: /assets/images/workflow_workshops/Lee_Feb_28_2024/IMG_0113.jpeg
+    alt: "IMG_0113.jpeg"
+  - url: /assets/images/workflow_workshops/Lee_Feb_28_2024/IMG_0114.jpeg
+    image_path: /assets/images/workflow_workshops/Lee_Feb_28_2024/IMG_0114.jpeg
+    alt: "IMG_0114.jpeg"
+  - url: /assets/images/workflow_workshops/Lee_Feb_28_2024/IMG_0115.jpeg
+    image_path: /assets/images/workflow_workshops/Lee_Feb_28_2024/IMG_0115.jpeg
+    alt: "IMG_0115.jpeg"
   - url: /assets/images/workflow_workshops/Lee_Feb_28_2024/lee_flyer.png
     image_path: /assets/images/workflow_workshops/Lee_Feb_28_2024/lee_flyer.png
     alt: "lee_flyer.png"
