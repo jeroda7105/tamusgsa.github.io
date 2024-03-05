@@ -41,8 +41,8 @@ The advent of ML-driven decision-making and policy formation has led to an incre
 ### Presentation
 <iframe src="https://drive.google.com/file/d/1IyPWnSM5_rspF6mbggDeggEkw4SGhw5S/preview" width="640" height="480" allow="autoplay"></iframe>
 
-### Recording (Coming Soon)
-
+### Recording
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bH4RmJcqT9A?si=tjYJaMJwYoOH0SBy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Gallery
 {% include gallery id="layouts_gallery" %}
