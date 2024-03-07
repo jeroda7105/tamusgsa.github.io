@@ -35,7 +35,7 @@ layouts_gallery:
 Organization Tools for Graduate Student Research
 - Time: Wednesday 2/28/2024 from 11:30 AM to 12:30 PM 
 - Location: BLOC 503
-<!-- - [Recording]() -->
+<!-- - [Recording](https://youtu.be/0dLrYhdTTIk?si=S9TIaLYAbrBxiGen) -->
 
 
 ### Description
@@ -44,8 +44,8 @@ In this interactive session, participants will be introduced to essential tools 
 ### Presentation
 <iframe src="https://drive.google.com/file/d/1zkJ9tJJCXgsQuWOlpk1Cwg_A-vSYEI12/preview" width="640" height="480" allow="autoplay"></iframe>
 
-### Recording (Coming Soon)
-
+### Recording 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dLrYhdTTIk?si=W_3e183vHGVjs0ql" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Gallery 
 
