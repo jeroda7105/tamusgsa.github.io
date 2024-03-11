@@ -26,7 +26,9 @@ layouts_gallery:
     alt: "IMG_0634.jpg"
 ---
 
-<img style="float: right;" src="/assets/images/stat_cafe/Chakraborty_Mar_04_2024/IMG_0523.jpg">
+
+![IMG_0523.jpg]({{ "/assets/images/stat_cafe/Chakraborty_Mar_04_2024/IMG_0523.jpg" | relative_url }})
+{:style="display:block; margin-left:auto}
 
 ### Probabilistic approaches for fair clustering
 
