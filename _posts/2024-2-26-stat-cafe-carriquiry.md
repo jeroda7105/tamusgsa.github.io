@@ -32,7 +32,7 @@ layouts_gallery:
     alt: "IMG_0472.jpg"
 ---
 
-<img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/stat_cafe/Carriquiry_Feb_26_2024/IMG_0501.jpg" alt="Header" width="335" style="float: right;"/> 
+<img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/stat_cafe/Carriquiry_Feb_26_2024/IMG_0501.jpg" alt="Header" width="300" style="float: right;"/> 
 
 ### Statistics and the evaluation of forensic evidence
 

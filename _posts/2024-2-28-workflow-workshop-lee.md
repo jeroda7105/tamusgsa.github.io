@@ -32,7 +32,7 @@ layouts_gallery:
     alt: "lee_flyer.png"
 ---
 
-<img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/workflow_workshops/Lee_Feb_28_2024/IMG_0118.jpeg" alt="Header" width="335" style="float: right;"/> 
+<img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/workflow_workshops/Lee_Feb_28_2024/IMG_0118.jpeg" alt="Header" width="300" style="float: right;"/> 
 
 Organization Tools for Graduate Student Research
 - Time: Wednesday 2/28/2024 from 11:30 AM to 12:30 PM 

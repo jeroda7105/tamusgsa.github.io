@@ -32,7 +32,7 @@ layouts_gallery:
     alt: "IMG_0322.jpg"
 ---
 
-<img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/stat_cafe/Gailliot_Feb_19_2024/IMG_0199.jpg" alt="Header" width="335" style="float: right;"/> 
+<img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/stat_cafe/Gailliot_Feb_19_2024/IMG_0199.jpg" alt="Header" width="300" style="float: right;"/> 
 
 
 ### Data Sketching and Stacking: A Confluence of Two Strategies for Predictive Inference in Gaussian Process Regressions with High-Dimensional Features
