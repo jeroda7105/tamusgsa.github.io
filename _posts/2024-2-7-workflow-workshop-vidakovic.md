@@ -35,6 +35,10 @@ layouts_gallery:
     alt: "IMG_3484.jpeg"
 ---
 
+<img src="https://jeroda7105.github.io/tamusgsa.github.io//assets/images/workflow_workshops/Vidakovic_Feb_07_2024/IMG_6480.jpeg" alt="Header" width="335" style="float: right;"/> 
+
+### NSF Funding Opportunities & Tips for Better NSF Proposal
+
 - Time: Wednesday 2/7/2024 from 2:00 PM to 3:00 PM 
 - Location: BLOC 503
 <!-- - [Recording](https://youtu.be/us-p1YMGfow?si=Kh9F0e88g_ELtaLg) -->

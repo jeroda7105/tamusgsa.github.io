@@ -20,6 +20,9 @@ layouts_gallery:
     alt: "IMG_0117.jpg"
 ---
 
+<img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/stat_cafe/Andros_Jan_29_2024/IMG_0133.jpg" alt="Header" width="335" style="float: right;"/> 
+
+### Robust Distributed Learning of Functional Data From Simulators through Data Sketching
 - Time: Monday 1/29/2024 from 11:40 AM to 12:30 PM
 - Location: BLOC 448
 - Pizza and drinks provided
