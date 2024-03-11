@@ -29,7 +29,7 @@ layouts_gallery:
     alt: "IMG_0190.jpg"
 ---
 
-<img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/stat_cafe/Ray_Feb_05_2024/IMG_0139.jpg" alt="Header" width="315" style="float: right;"/> 
+<img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/stat_cafe/Ray_Feb_05_2024/IMG_0139.jpg" alt="Header" width="250" style="float: right;"/> 
 
 ### GGBoost - Graph Gradient Boosting
 - Time: Monday 2/5/2024 from 11:40 AM to 12:30 PM
