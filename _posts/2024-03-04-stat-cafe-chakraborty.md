@@ -27,7 +27,7 @@ layouts_gallery:
 ---
 
 <div class="w3-third w3-container w3-display-right">
-<img src="/assets/images/stat_cafe/Chakraborty_Mar_04_2024/IMG_0523.jpg" alt="Header" width="200" style="
+<img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/stat_cafe/Chakraborty_Mar_04_2024/IMG_0523.jpg" alt="Header" width="200" style="
     vertical-align: right;
     width: 200px;
     border-radius: 15%;
