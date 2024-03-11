@@ -26,14 +26,7 @@ layouts_gallery:
     alt: "IMG_0634.jpg"
 ---
 
-<div class="w3-third w3-container w3-display-right">
-<img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/stat_cafe/Chakraborty_Mar_04_2024/IMG_0523.jpg" alt="Header" width="200" style="
-    vertical-align: right;
-    width: 200px;
-    border-radius: 15%;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-" /> <br>
-</div>
+<img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/stat_cafe/Chakraborty_Mar_04_2024/IMG_0523.jpg" alt="Header" width="200" style="float: right;"/> 
 
 
 
