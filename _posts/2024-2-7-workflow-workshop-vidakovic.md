@@ -35,7 +35,7 @@ layouts_gallery:
     alt: "IMG_3484.jpeg"
 ---
 
-<img src="https://jeroda7105.github.io/tamusgsa.github.io//assets/images/workflow_workshops/Vidakovic_Feb_07_2024/IMG_6480.jpeg" alt="Header" width="300" style="float: right;"/> 
+<img src="https://jeroda7105.github.io/tamusgsa.github.io//assets/images/workflow_workshops/Vidakovic_Feb_07_2024/IMG_6480.jpeg" alt="Header" width="315" style="float: right;"/> 
 
 ### NSF Funding Opportunities & Tips for Better NSF Proposal
 
