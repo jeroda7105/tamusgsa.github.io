@@ -27,7 +27,7 @@ layouts_gallery:
 ---
 
 
-![IMG_0523.jpg]({{ "/assets/images/stat_cafe/Chakraborty_Mar_04_2024/IMG_0523.jpg" | relative_url }}) {:style="display:block; margin-left:auto; width: 20%; height: auto}
+![IMG_0523.jpg](assets/images/stat_cafe/Chakraborty_Mar_04_2024/IMG_0523.jpg) 
 
 ### Probabilistic approaches for fair clustering
 
