@@ -6,12 +6,6 @@ classes: wide
 category: 
   - Stat Cafe
 layouts_gallery:
-  - url: /assets/images/stat_cafe/Wang_Mar_18_2024/IMG_0652.jpg
-    image_path: /assets/images/stat_cafe/Wang_Mar_18_2024/IMG_0652.jpg
-    alt: "IMG_IMG_0652.jpg"
-  - url: /assets/images/stat_cafe/Wang_Mar_18_2024/IMG_0659.jpg
-    image_path: /assets/images/stat_cafe/Wang_Mar_18_2024/IMG_0659.jpg
-    alt: "IMG_IMG_0659.jpg"
   - url: /assets/images/stat_cafe/Wang_Mar_18_2024/IMG_0663.jpg
     image_path: /assets/images/stat_cafe/Wang_Mar_18_2024/IMG_0663.jpg
     alt: "IMG_IMG_0663.jpg"
@@ -21,6 +15,9 @@ layouts_gallery:
   - url: /assets/images/stat_cafe/Wang_Mar_18_2024/IMG_0689.jpg
     image_path: /assets/images/stat_cafe/Wang_Mar_18_2024/IMG_0689.jpg
     alt: "IMG_IMG_0689.jpg"
+  - url: /assets/images/stat_cafe/Wang_Mar_18_2024/IMG_0659.jpg
+    image_path: /assets/images/stat_cafe/Wang_Mar_18_2024/IMG_0659.jpg
+    alt: "IMG_IMG_0659.jpg"
   - url: /assets/images/stat_cafe/Wang_Mar_18_2024/IMG_0702.jpg
     image_path: /assets/images/stat_cafe/Wang_Mar_18_2024/IMG_0702.jpg
     alt: "IMG_IMG_0702.jpg"
