@@ -44,7 +44,8 @@ In the second part of the talk I will introduce a new dimension-agnostic method 
 ### Presentation
 <iframe src="https://drive.google.com/file/d/1efnzcI7bLUaHVUSSRnTSI4H9yYtkhh2o/preview" width="640" height="480" allow="autoplay"></iframe>
 
-### Recording (Coming Soon)
+### Recording
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vqRCgEO9X7Q?si=ADxl6JbK1taL44Au" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Gallery
 {% include gallery id="layouts_gallery" %}
