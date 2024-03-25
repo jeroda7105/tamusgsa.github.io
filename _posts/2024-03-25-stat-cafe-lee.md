@@ -18,15 +18,15 @@ layouts_gallery:
   - url: /assets/images/stat_cafe/Lee_Mar_25_2024/IMG_0806.jpg
     image_path: /assets/images/stat_cafe/Lee_Mar_25_2024/IMG_0806.jpg
     alt: "IMG_0806.jpg"
-  - url: /assets/images/stat_cafe/Lee_Mar_25_2024/IMG_0825.jpg
-    image_path: /assets/images/stat_cafe/Lee_Mar_25_2024/IMG_0825.jpg
-    alt: "IMG_0825.jpg"
   - url: /assets/images/stat_cafe/Lee_Mar_25_2024/IMG_0831.jpg
     image_path: /assets/images/stat_cafe/Lee_Mar_25_2024/IMG_0831.jpg
     alt: "IMG_0831.jpg"
   - url: /assets/images/stat_cafe/Lee_Mar_25_2024/IMG_0839.jpg
     image_path: /assets/images/stat_cafe/Lee_Mar_25_2024/IMG_0839.jpg
     alt: "IMG_0839.jpg"
+  - url: /assets/images/stat_cafe/Lee_Mar_25_2024/IMG_0825.jpg
+    image_path: /assets/images/stat_cafe/Lee_Mar_25_2024/IMG_0825.jpg
+    alt: "IMG_0825.jpg"
 ---
 
 <img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/stat_cafe/Lee_Mar_25_2024/IMG_0735.jpg" alt="Header" width="315" style="float: right;"/> 
