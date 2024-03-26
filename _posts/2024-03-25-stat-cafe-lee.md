@@ -49,7 +49,8 @@ The beta distribution serves as a canonical tool for modeling probabilities and 
 ### Presentation
 <iframe src="https://drive.google.com/file/d/1p6lO1qmMWdQ8T4tk-TLF6oNk9EouKqED/preview" width="640" height="480" allow="autoplay"></iframe>
 
-### Recording (Coming Soon)
+### Recording 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cPLK98IPj3Q?si=gSI9fUID_3x_IW1B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### Gallery
