@@ -1,5 +1,5 @@
 ---
-title: "Workflow Workshop - Sheelabhadra Dey,"
+title: "Workflow Workshop - Sheelabhadra Dey"
 excerpt: "Deep Q-Learning: Mastering RL with Neural Networks"
 layout: single
 classes: wide
