@@ -24,8 +24,6 @@ layouts_gallery:
 - Time: Monday 4/1/2024 from 11:40 AM to 12:30 PM
 - Location: BLOC 448
 - Pizza and drinks provided
-<!-- - [Presentation]({{ "/assets/files/stat_cafe/Thurstin_Apr_01_2024/StatCafe_Adrian_Slides.pdf" | relative_url }}) -->
-<!-- - [Recording]() -->
 
 ### Description
 I currently work as a model validation analyst at a Regional Bank and I am in my last semester in the distance masters program. I have an odd build to my career and a story about how I ended up in statistics. This is a great story that should help others learn how to build skills and open your mind to different avenues in your job search.
