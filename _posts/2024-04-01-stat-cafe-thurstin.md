@@ -30,11 +30,6 @@ layouts_gallery:
 ### Description
 I currently work as a model validation analyst at a Regional Bank and I am in my last semester in the distance masters program. I have an odd build to my career and a story about how I ended up in statistics. This is a great story that should help others learn how to build skills and open your mind to different avenues in your job search.
 
-### Presentation
-<iframe src="https://drive.google.com/file/d/1v224EHrRaELK4u7ww55k8B4Z6h6h-gOX/preview" width="640" height="480" allow="autoplay"></iframe>
-
-### Recording (Coming Soon)
-
 
 ### Gallery
 {% include gallery id="layouts_gallery" %}
