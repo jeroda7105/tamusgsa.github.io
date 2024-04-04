@@ -28,7 +28,8 @@ Join us for a hands-on workshop on deep Q-Learning, a method that enables machin
 
 Attendees are encouraged to bring their laptops to follow along with the coding tutorial. Familiarity with the basics of Python and PyTorch is expected.
 
-
+### Presentation
+<iframe src="https://drive.google.com/file/d/1CrwsvgsPLCTx3qjrLYQdzgC9vFmqMGmQ/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ### Recording (Coming Soon)
 
