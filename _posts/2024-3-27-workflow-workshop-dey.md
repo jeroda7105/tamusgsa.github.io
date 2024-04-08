@@ -9,9 +9,27 @@ layouts_gallery:
   - url: /assets/images/workflow_workshops/Dey_Mar_27_2024/dey_flyer.png
     image_path: /assets/images/workflow_workshops/Dey_Mar_27_2024/dey_flyer.png
     alt: "dey_flyer.png"
+  - url: /assets/images/workflow_workshops/Dey_Mar_27_2024/IMG_3934.jpeg
+    image_path: /assets/images/workflow_workshops/Dey_Mar_27_2024/IMG_3934.jpeg
+    alt: "IMG_3934.jpeg"
+  - url: /assets/images/workflow_workshops/Dey_Mar_27_2024/IMG_3935.jpeg
+    image_path: /assets/images/workflow_workshops/Dey_Mar_27_2024/IMG_3935.jpeg
+    alt: "IMG_3935.jpeg"
+  - url: /assets/images/workflow_workshops/Dey_Mar_27_2024/IMG_3936.jpeg
+    image_path: /assets/images/workflow_workshops/Dey_Mar_27_2024/IMG_3936.jpeg
+    alt: "IMG_3936.jpeg"
+  - url: /assets/images/workflow_workshops/Dey_Mar_27_2024/IMG_3937.jpeg
+    image_path: /assets/images/workflow_workshops/Dey_Mar_27_2024/IMG_3937.jpeg
+    alt: "IMG_3937.jpeg"
+  - url: /assets/images/workflow_workshops/Dey_Mar_27_2024/IMG_3938.jpeg
+    image_path: /assets/images/workflow_workshops/Dey_Mar_27_2024/IMG_3938.jpeg
+    alt: "IMG_3938.jpeg"
+  - url: /assets/images/workflow_workshops/Dey_Mar_27_2024/IMG_3939.jpeg
+    image_path: /assets/images/workflow_workshops/Dey_Mar_27_2024/IMG_3939.jpeg
+    alt: "IMG_3939.jpeg"
 ---
 
-<!-- <img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/workflow_workshops/Dey_Mar_27_2024/.jpeg" alt="Header" width="150" style="float: right;"/> -->
+<img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/workflow_workshops/Dey_Mar_27_2024/IMG_3940.jpeg" alt="Header" width="315" style="float: right;"> 
 
 Deep Q-Learning: Mastering RL with Neural Networks
 - Time: Wednesday 3/27/2024 from 11:30 AM to 12:30 PM 
