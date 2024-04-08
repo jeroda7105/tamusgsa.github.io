@@ -31,8 +31,8 @@ Attendees are encouraged to bring their laptops to follow along with the coding 
 ### Presentation
 <iframe src="https://drive.google.com/file/d/1CrwsvgsPLCTx3qjrLYQdzgC9vFmqMGmQ/preview" width="640" height="480" allow="autoplay"></iframe>
 
-### Recording (Coming Soon)
-
+### Recording 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AVDB4WAaP2A?si=Clh9tL00p5H-Kgtx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Gallery 
 
