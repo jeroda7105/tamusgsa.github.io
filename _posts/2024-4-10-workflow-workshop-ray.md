@@ -17,7 +17,7 @@ R Users Hate Him!
 - Time: Wednesday 4/10/2024 from 11:30 AM to 12:30 PM 
 - Location: BLOC 521
 <!-- - [Recording]() -->
-- [Files and Codes]({{ "/assets/files/workflow_workshops/Ray_Apr_10_2024/workshop_files.zip" | relative_url }})
+- [Files/Codes]({{ "/assets/files/workflow_workshops/Ray_Apr_10_2024/workshop_files.zip" | relative_url }})
 
 ### Description
 Did your reviewers tell you that your implementation is 'impractically slow'? Join us to learn practical approaches to make your statistical programs run faster!
