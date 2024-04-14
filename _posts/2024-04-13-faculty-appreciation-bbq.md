@@ -9,9 +9,48 @@ layouts_gallery:
   - url: /assets/images/fac-app-bbq-24/PXL_20240413_212906797.jpg
     image_path: /assets/images/fac-app-bbq-24/PXL_20240413_212906797.jpg
     alt: "PXL_20240413_212906797.jpg"
+ - url: /assets/images/fac-app-bbq-24/PXL_20240413_220305638_MP.jpg
+    image_path: /assets/images/fac-app-bbq-24/PXL_20240413_220305638_MP.jpg
+    alt: "PXL_20240413_220305638_MP.jpg"
+  - url: /assets/images/fac-app-bbq-24/PXL_20240413_220006523_MP.jpg
+    image_path: /assets/images/fac-app-bbq-24/PXL_20240413_220006523_MP.jpg
+    alt: "PXL_20240413_220006523_MP.jpg"
+   - url: /assets/images/fac-app-bbq-24/PXL_20240413_220644357.jpg
+    image_path: /assets/images/fac-app-bbq-24/PXL_20240413_220644357.jpg
+    alt: "PXL_20240413_220644357.jpg"   
+   - url: /assets/images/fac-app-bbq-24/PXL_20240413_220030773_MP.jpg
+    image_path: /assets/images/fac-app-bbq-24/PXL_20240413_220030773_MP.jpg
+    alt: "PXL_20240413_220030773_MP.jpg"  
+   - url: /assets/images/fac-app-bbq-24/PXL_20240413_220611325.jpg
+    image_path: /assets/images/fac-app-bbq-24/PXL_20240413_220611325.jpg
+    alt: "PXL_20240413_220611325.jpg" 
+   - url: /assets/images/fac-app-bbq-24/PXL_20240413_212744067_MP.jpg
+    image_path: /assets/images/fac-app-bbq-24/PXL_20240413_212744067_MP.jpg
+    alt: "PXL_20240413_212744067_MP.jpg" 
+  - url: /assets/images/fac-app-bbq-24/PXL_20240413_212316630_MP.jpg
+    image_path: /assets/images/fac-app-bbq-24/PXL_20240413_212316630_MP.jpg
+    alt: "PXL_20240413_212316630_MP.jpg" 
+  - url: /assets/images/fac-app-bbq-24/PXL_20240413_215943046.jpg
+    image_path: /assets/images/fac-app-bbq-24/PXL_20240413_215943046.jpg
+    alt: "PXL_20240413_215943046.jpg" 
+  - url: /assets/images/fac-app-bbq-24/PXL_20240413_212614547_MP.jpg
+    image_path: /assets/images/fac-app-bbq-24/PXL_20240413_212614547_MP.jpg
+    alt: "PXL_20240413_212614547_MP.jpg"
+  - url: /assets/images/fac-app-bbq-24/PXL_20240413_212709807.jpg
+    image_path: /assets/images/fac-app-bbq-24/PXL_20240413_212709807.jpg
+    alt: "PXL_20240413_212709807.jpg"   
+  - url: /assets/images/fac-app-bbq-24/PXL_20240413_212348216_PORTRAIT.jpg
+    image_path: /assets/images/fac-app-bbq-24/PXL_20240413_212348216_PORTRAIT.jpg
+    alt: "PXL_20240413_212348216_PORTRAIT.jpg" 
+  - url: /assets/images/fac-app-bbq-24/PXL_20240413_212258804.jpg
+    image_path: /assets/images/fac-app-bbq-24/PXL_20240413_212258804.jpg
+    alt: "PXL_20240413_212258804.jpg" 
+  - url: /assets/images/fac-app-bbq-24/PXL_20240413_212528597_MP.jpg
+    image_path: /assets/images/fac-app-bbq-24/PXL_20240413_212528597_MP.jpg
+    alt: "PXL_20240413_212528597_MP.jpg" 
 ---
 
-<img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/fac-app-bbq-24/PXL_20240413_225929466_MP.jpg" alt="Header" width="500"> 
+<img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/fac-app-bbq-24/PXL_20240413_225929466_MP.jpg" alt="Header" width="900"> 
 
 It’s that time of the year again to express our gratitude for the dedication and hard work of our faculty and staff! On behalf of SGSA, I am thrilled to extend a warm invitation to you all for our annual Faculty and Staff Appreciation BBQ at Pavilion A of Tiffany Park on Saturday, April 13 from 4:00 to 7:00 PM.
 
