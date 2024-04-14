@@ -9,7 +9,7 @@ layouts_gallery:
   - url: /assets/images/fac-app-bbq-24/PXL_20240413_212906797.jpg
     image_path: /assets/images/fac-app-bbq-24/PXL_20240413_212906797.jpg
     alt: "PXL_20240413_212906797.jpg"
- - url: /assets/images/fac-app-bbq-24/PXL_20240413_220305638_MP.jpg
+  - url: /assets/images/fac-app-bbq-24/PXL_20240413_220305638_MP.jpg
     image_path: /assets/images/fac-app-bbq-24/PXL_20240413_220305638_MP.jpg
     alt: "PXL_20240413_220305638_MP.jpg"
   - url: /assets/images/fac-app-bbq-24/PXL_20240413_220006523_MP.jpg
