@@ -12,18 +12,9 @@ layouts_gallery:
   - url: /assets/images/stat_cafe/James_Apr_15_2024/IMG_0864.jpg
     image_path: /assets/images/stat_cafe/James_Apr_15_2024/IMG_0864.jpg
     alt: "IMG_0864.jpg"
-  - url: /assets/images/stat_cafe/James_Apr_15_2024/IMG_0890.jpg
-    image_path: /assets/images/stat_cafe/James_Apr_15_2024/IMG_0890.jpg
-    alt: "IMG_0890.jpg"
   - url: /assets/images/stat_cafe/James_Apr_15_2024/IMG_0930.jpg
     image_path: /assets/images/stat_cafe/James_Apr_15_2024/IMG_0930.jpg
     alt: "IMG_0930.jpg"
-  - url: /assets/images/stat_cafe/James_Apr_15_2024/IMG_0936.jpg
-    image_path: /assets/images/stat_cafe/James_Apr_15_2024/IMG_0936.jpg
-    alt: "IMG_0936.jpg"
-  - url: /assets/images/stat_cafe/James_Apr_15_2024/IMG_0949.jpg
-    image_path: /assets/images/stat_cafe/James_Apr_15_2024/IMG_0949.jpg
-    alt: "IMG_0949.jpg"
   - url: /assets/images/stat_cafe/James_Apr_15_2024/IMG_0950.jpg
     image_path: /assets/images/stat_cafe/James_Apr_15_2024/IMG_0950.jpg
     alt: "IMG_0950.jpg"
@@ -33,9 +24,15 @@ layouts_gallery:
   - url: /assets/images/stat_cafe/James_Apr_15_2024/IMG_0963.jpg
     image_path: /assets/images/stat_cafe/James_Apr_15_2024/IMG_0963.jpg
     alt: "IMG_0963.jpg"
+  - url: /assets/images/stat_cafe/James_Apr_15_2024/IMG_0936.jpg
+    image_path: /assets/images/stat_cafe/James_Apr_15_2024/IMG_0936.jpg
+    alt: "IMG_0936.jpg"
+  - url: /assets/images/stat_cafe/James_Apr_15_2024/IMG_0949.jpg
+    image_path: /assets/images/stat_cafe/James_Apr_15_2024/IMG_0949.jpg
+    alt: "IMG_0949.jpg"
 ---
 
-<img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/stat_cafe/James_Apr_15_2024/.jpg" alt="Header" width="315" style="float: right;"/> 
+<img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/stat_cafe/James_Apr_15_2024/IMG_0890.jpg" alt="Header" width="315" style="float: right;"> 
 
 
 
