@@ -52,7 +52,8 @@ Datasets consisting of a network and covariates associated with its vertices hav
 ### Presentation
 <iframe src="https://drive.google.com/file/d/11pyumNEQgtIrxNuMOM3ZCCT2BT03ClwJ/preview" width="640" height="480" allow="autoplay"></iframe>
 
-### Recording (Coming Soon)
+### Recording 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YKYFgnwJjfA?si=F_LNpqMMRJv7SzJK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Gallery
 {% include gallery id="layouts_gallery" %}
