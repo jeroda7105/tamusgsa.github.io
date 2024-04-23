@@ -53,6 +53,9 @@ An insightful session on the key factors for a successful internship search, inc
 ### Presentation
 <iframe src="https://drive.google.com/file/d/1oaXTc4oo6a4HXhKrKWkAMBti1gslQPfP/preview" width="640" height="480" allow="autoplay"></iframe>
 
+### Recording
+<iframe width="560" height="315" src="https://www.youtube.com/embed/30q7gzFyR94?si=jihyyMyYZvxxnLAh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Gallery 
 
 {% include gallery id="layouts_gallery" %}

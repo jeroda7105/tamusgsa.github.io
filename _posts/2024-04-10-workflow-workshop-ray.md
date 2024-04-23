@@ -26,8 +26,8 @@ Did your reviewers tell you that your implementation is 'impractically slow'? Jo
 ### Presentation
 <iframe src="https://drive.google.com/file/d/1IppVavane3VdarGP6BKkJEfan2Rx5tg5/preview" width="640" height="480" allow="autoplay"></iframe>
 
-### Recording (Coming Soon)
-
+### Recording 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KjRwP_HPpBE?si=SRa4iuzlx9wG24C6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### Gallery 

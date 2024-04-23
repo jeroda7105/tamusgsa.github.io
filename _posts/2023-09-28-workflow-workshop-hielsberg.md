@@ -42,6 +42,9 @@ In this session, Mr. Hielsberg would cover what the cluster is as well as some g
 ### Presentation
 <iframe src="https://drive.google.com/file/d/14CZCknmghckSQscNVWS05jaC6qXuDwE7/preview" width="640" height="480" allow="autoplay"></iframe>
 
+### Recording
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOlQvm3Cs1k?si=hzjVM2tRz8ZMdw4N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Gallery (Photos by Camila Ponce)
 
 {% include gallery id="layouts_gallery" %}
