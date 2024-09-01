@@ -1,7 +1,7 @@
 ---
 permalink: /people/
 title: "People"
-layout: Splash
+layout: default
 author_profile: true
 classes: wide
 ---
