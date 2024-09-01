@@ -7,9 +7,9 @@ classes: wide
 ---
 
 
-## 2024 - 2025 SGSA Officers
+<body style="margin:50px;padding:0">
 
-<body style="margin:0;padding:0">
+## 2024 - 2025 SGSA Officers
 
 <p> President - Gozde Sert (gozdesert@stat.tamu.edu) </p> 
 
