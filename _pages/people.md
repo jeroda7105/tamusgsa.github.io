@@ -31,5 +31,5 @@ classes: wide
 
 <p> Masters Student Representative - Brian Park (brian1270@tamu.edu) </p>
 
-
+<p> Social Representative - Robert Lee (robertdylee@tamu.edu) </p>
 
