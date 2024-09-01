@@ -29,7 +29,7 @@ classes: wide
 
 <p> Department Delegate - Eric Gao (eric2018@tamu.edu) </p> 
 
-<p> Masters Student Representative - Brian Park <br>
+<p> Masters Student Representative - Brian Park (brian1270@tamu.edu) </p>
 
 
 
