@@ -9,6 +9,8 @@ classes: wide
 
 ## 2024 - 2025 SGSA Officers
 
+<body style="margin:0;padding:0">
+
 <p> President - Gozde Sert (gozdesert@stat.tamu.edu) </p> 
 
 <p> Vice President - Rebecca Lee (llrebecca21@stat.tamu.edu) </p> 
