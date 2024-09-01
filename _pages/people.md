@@ -1,6 +1,6 @@
 ---
 permalink: /people/
-title: "Officers"
+title: "People"
 layout: Splash
 author_profile: true
 classes: wide
