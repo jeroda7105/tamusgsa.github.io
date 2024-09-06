@@ -4,9 +4,9 @@ main:
     url: /
   - title: "People"
     url: /people/
-  - title: "Calendar"
-    url: /calendar/
   - title: "Events"
     url: /events/
+  - title: "Calendar"
+    url: /calendar/
   - title: "About"
     url: /about/
