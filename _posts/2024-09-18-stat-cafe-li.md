@@ -14,7 +14,7 @@ layouts_gallery:
     alt: "IMG_1225.jpg"
 ---
 
-<img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/stat_cafe/Li_Sept_18_2024/IMG_1224.jpg" alt="Header" width="315" style="float: right;"/> 
+<img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/stat_cafe/Li_Sept_18_2024/IMG_1224.jpg?raw=true" alt="Header" width="315" style="float: right;"/> 
 
 ### Segmenting Watermarked Texts From Language Models
 
