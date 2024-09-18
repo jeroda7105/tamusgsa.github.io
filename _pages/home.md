@@ -14,9 +14,9 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
 ## Upcoming Events
 
-- [Stat Cafe - Anthony Li, 9/18/2024, 11:30am-12:30pm at BLOC 411](https://calendar.google.com/calendar/u/0/r/eventedit/copy/MnA4bzFpZGVhbDR2dnNwZmxtNW85Z20xaWkgY19jNmYyNWM1YWJjMjcwODEwNWY0ZWRjZjJmMjMwOWU0ZjAyODMyMDAzYTk2MDQwNzM2NTdhZDlhNjY3YThmZWUzQGc) 
+<!-- - [Stat Cafe - Anthony Li, 9/18/2024, 11:30am-12:30pm at BLOC 411](https://calendar.google.com/calendar/u/0/r/eventedit/copy/MnA4bzFpZGVhbDR2dnNwZmxtNW85Z20xaWkgY19jNmYyNWM1YWJjMjcwODEwNWY0ZWRjZjJmMjMwOWU0ZjAyODMyMDAzYTk2MDQwNzM2NTdhZDlhNjY3YThmZWUzQGc) 
 
-<img src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\stat_cafe\Li_Sept_18_2024\StatCafe_Talk_Anthony_Li.png?raw=true" alt="flyer" width="200"/> <br>
+<img src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\stat_cafe\Li_Sept_18_2024\StatCafe_Talk_Anthony_Li.png?raw=true" alt="flyer" width="200"/> <br> -->
 
 
 
