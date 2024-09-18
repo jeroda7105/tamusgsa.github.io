@@ -6,6 +6,9 @@ classes: wide
 category: 
   - Stat Cafe
 layouts_gallery:
+  - url: /assets/images/stat_cafe/Li_Sept_18_2024/IMG_1224.jpg
+    image_path: /assets/images/stat_cafe/Li_Sept_18_2024/IMG_1224.jpg
+    alt: "IMG_1224.jpg"
   - url: /assets/images/stat_cafe/Li_Sept_18_2024/IMG_1225.jpg
     image_path: /assets/images/stat_cafe/Li_Sept_18_2024/IMG_1225.jpg
     alt: "IMG_1225.jpg"
