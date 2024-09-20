@@ -46,8 +46,8 @@ layouts_gallery:
 ### Causal Inference for Treatment Effects from Observational Data: An Overview
 - Time: Thursday 9/19/2024 from 3:45 PM Onwards
 - Location: BLOC 448
-- [Presentation](https://drive.google.com/file/d/1bPo_1vK8qIg-krW2OLy5zx_tDf9XyYE2/view?usp=sharing)
-- [Recording](https://drive.google.com/file/d/1p239BbxJfvGEoMBSJ5twNbTXN1u5XSX0/view?usp=sharing) 
+- [Presentation (use your tamu.edu account for the access)](https://drive.google.com/file/d/1bPo_1vK8qIg-krW2OLy5zx_tDf9XyYE2/view?usp=sharing)
+- [Recording (use your tamu.edu account for the access)](https://drive.google.com/file/d/1p239BbxJfvGEoMBSJ5twNbTXN1u5XSX0/view?usp=sharing) 
 
 
 ### Description
