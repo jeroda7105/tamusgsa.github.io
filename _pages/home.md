@@ -18,6 +18,9 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
 <img src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\stat_cafe\Jeon_Sept_25_2024\StatCafe_Talk_Yeseul_Jeon.png?raw=true" alt="flyer" width="200"/> <br> 
 
+ - [SGSA Game Night, 9/27/2024, 5:00pm-7:00pm at the Fisher Bowl]() 
+
+<img src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\game_night\game_night_09_27_2024\image002.png?raw=true" alt="flyer" width="200"/> <br> 
 
 
 <!-- - [Workflow Workshop - Abhishek Chakrabortty, 9/19/2024, 3:45pm Onwards at BLOC 448](https://calendar.google.com/calendar/u/0/r/eventedit/copy/NWlxMHNpNHRpZXIyMGd0Y2VjMXAwYmI3NGUgY19jNmYyNWM1YWJjMjcwODEwNWY0ZWRjZjJmMjMwOWU0ZjAyODMyMDAzYTk2MDQwNzM2NTdhZDlhNjY3YThmZWUzQGc) 
