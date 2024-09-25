@@ -47,7 +47,7 @@ accurate Bayesian inference quickly.
 ### Presentation
 <iframe src="https://drive.google.com/file/d/1c4AS0T7j_9wYyjyRbtJDNFEsyNvmLQgI/preview" width="640" height="480" allow="autoplay"></iframe>
 
-<!-- ### Recording -->
+### Recording (Coming Soon)
 
 ### Gallery
 
