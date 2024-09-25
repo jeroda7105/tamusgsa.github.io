@@ -14,9 +14,9 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
 ## Upcoming Events
 
- - [Stat Cafe - Yeseul Jeon, 9/25/2024, 11:30am-12:30pm at BLOC 411](https://calendar.google.com/calendar/u/0/r/eventedit/copy/Mmw2djVmZDkwcXE4cWh2NXJyc245bXJrOGcgY19jNmYyNWM1YWJjMjcwODEwNWY0ZWRjZjJmMjMwOWU0ZjAyODMyMDAzYTk2MDQwNzM2NTdhZDlhNjY3YThmZWUzQGc) 
+ <!-- - [Stat Cafe - Yeseul Jeon, 9/25/2024, 11:30am-12:30pm at BLOC 411](https://calendar.google.com/calendar/u/0/r/eventedit/copy/Mmw2djVmZDkwcXE4cWh2NXJyc245bXJrOGcgY19jNmYyNWM1YWJjMjcwODEwNWY0ZWRjZjJmMjMwOWU0ZjAyODMyMDAzYTk2MDQwNzM2NTdhZDlhNjY3YThmZWUzQGc) 
 
-<img src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\stat_cafe\Jeon_Sept_25_2024\StatCafe_Talk_Yeseul_Jeon.png?raw=true" alt="flyer" width="200"/> <br> 
+<img src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\stat_cafe\Jeon_Sept_25_2024\StatCafe_Talk_Yeseul_Jeon.png?raw=true" alt="flyer" width="200"/> <br> -->
 
  - [SGSA Game Night, 9/27/2024, 5:00pm-7:00pm at the Fisher Bowl](https://urldefense.com/v3/__https://forms.gle/Mp7yF6DTNeZJavoS7__;!!KwNVnqRv!BaaEuGlheW4VZxx5D5aDXPnYPdYYhvUc7CfJdL7G1uZhgiX-ddkLIPNvGQ0iM9IO2StudWWbKCG5LnmdaMLkFe2gij2_hxU$) 
 
