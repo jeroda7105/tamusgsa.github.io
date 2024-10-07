@@ -5,8 +5,8 @@ classes: wide
 category:
   - Game Night
 layouts_gallery:
-  - url: /assets/images/game_night/game_night_9_27_2024/image002.png
-    image_path: /assets/images/game_night/game_night_9_27_2024/image002.png
+  - url: /assets/images/game_night/game_night_09_27_2024/image002.png
+    image_path: /assets/images/game_night/game_night_09_27_2024/image002.png
     alt: "image002.png"
 ---
 
