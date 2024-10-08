@@ -27,28 +27,11 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
  ## Past Events
 
-<img class="mySlidesPast" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\stat_cafe\Wang_Oct_02_2024\StatCafe_Talk_Qiyuan Wang.png?raw=true">
-<img class="mySlidesPast" src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/workflow_workshops/Chakrabortty_Sept_19_2024/IMG_1379.JPG?raw=true">
+<img class="mySlidesPast" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\stat_cafe\Wang_Oct_02_2024\StatCafe_Talk_Qiyuan Wang.png?raw=true" width="200"/>
+<img class="mySlidesPast" src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/workflow_workshops/Chakrabortty_Sept_19_2024/IMG_1379.JPG?raw=true" width="200"/>
 
 
 <button class="w3-button w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
 <button class="w3-button w3-display-right" onclick="plusDivs(+1)">&#10095;</button>
 
-
-``` js
-var slideIndex = 0;
-carousel();
-
-function carousel() {
-  var i;
-  var x = document.getElementsByClassName("mySlidesPast");
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";
-  }
-  slideIndex++;
-  if (slideIndex > x.length) {slideIndex = 1}
-  x[slideIndex-1].style.display = "block";
-  setTimeout(carousel, 2000); // Change image every 2 seconds
-}
-```
 
