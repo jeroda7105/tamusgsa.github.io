@@ -10,7 +10,7 @@ classes: wide
 
 ## 2024 - 2025 SGSA Officers
 
-
+<div>
 <p> President - Gozde Sert (gozdesert@stat.tamu.edu) </p> 
 
 <p> Vice President - Rebecca Lee (llrebecca21@stat.tamu.edu) </p> 
@@ -34,4 +34,4 @@ classes: wide
 <p> Masters Student Representative - Brian Park (brian1270@tamu.edu) </p>
 
 <p> Social Representative - Robert Lee (robertdylee@tamu.edu) </p>
-
+</div>
