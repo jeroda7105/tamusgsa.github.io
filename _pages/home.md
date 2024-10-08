@@ -17,39 +17,30 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
 ## Upcoming Events
 
-
- 
  - [Stat Cafe - Qiyuan Wang, 10/2/2024, 11:30am-12:30pm at BLOC 411](https://urldefense.com/v3/__https://docs.google.com/forms/d/e/1FAIpQLSfXyUsx8bJsenleDXU7jFDU7SO5mSlgg195jmQqUI2sAQoLdQ/viewform?usp=sf_link__;!!KwNVnqRv!H2JhzY_xFod2p5vtAbUMa-KAUP4ZyFbsocZ0XuZIDAarETUZSz4Y-0P7uWbly4fxOLPGID009pRY02Tu$) 
 
 <img src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\stat_cafe\Wang_Oct_02_2024\StatCafe_Talk_Qiyuan Wang.png?raw=true" alt="flyer" width="200"/> <br>
 
 
-
  ## Past Events
 
-<img class="mySlidesPast" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\stat_cafe\Wang_Oct_02_2024\StatCafe_Talk_Qiyuan Wang.png?raw=true" width="200"/>
-<img class="mySlidesPast" src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/workflow_workshops/Chakrabortty_Sept_19_2024/IMG_1379.JPG?raw=true" width="200"/>
-
-
-<button class="w3-button w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
-<button class="w3-button w3-display-right" onclick="plusDivs(+1)">&#10095;</button>
+<div class="w3-content w3-section" style="max-width:500px">
+  <img class="mySlidesPast" src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/workflow_workshops/Chakrabortty_Sept_19_2024/IMG_1379.JPG?raw=true" width="200">
+  <img class="mySlidesPast" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\stat_cafe\Wang_Oct_02_2024\StatCafe_Talk_Qiyuan Wang.png?raw=true" width="200">
 
 <script>
-var slideIndex = 1;
-showDivs(slideIndex);
+var myIndex = 0;
+carousel();
 
-function plusDivs(n) {
-  showDivs(slideIndex += n);
-}
-
-function showDivs(n) {
+function carousel() {
   var i;
   var x = document.getElementsByClassName("mySlidesPast");
-  if (n > x.length) {slideIndex = 1}
-  if (n < 1) {slideIndex = x.length}
   for (i = 0; i < x.length; i++) {
     x[i].style.display = "none";  
   }
-  x[slideIndex-1].style.display = "block";  
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(carousel, 2000); // Change image every 2 seconds
 }
 </script>
