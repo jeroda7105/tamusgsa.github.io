@@ -28,48 +28,42 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
 -->
 
-
 <div class="w3-content w3-section" style="max-height:500px">
-  <img class="mySlidesUpcoming" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\game_night\game_night_09_27_2024\image002.png?raw=true" height="500">
-  <img class="mySlidesUpcoming" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\stat_cafe\Wang_Oct_02_2024\StatCafe_Talk_Qiyuan Wang.png?raw=true" height="500">
-
-<script>
-var myIndex = 0;
-carousel();
-
-function carousel() {
-  var i;
-  var x = document.getElementsByClassName("mySlidesUpcoming");
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";  
-  }
-  myIndex++;
-  if (myIndex > x.length) {myIndex = 1}    
-  x[myIndex-1].style.display = "block";  
-  setTimeout(carousel, 5000); // Change image every 2 seconds
-}
-</script>
+  <img class="mySlidesPast" src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/workflow_workshops/Chakrabortty_Sept_19_2024/IMG_1379.JPG?raw=true" height="500">
+  <img class="mySlidesPast" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\stat_cafe\Wang_Oct_02_2024\StatCafe_Talk_Qiyuan Wang.png?raw=true" height="500">
+</div>
 
 
 ## Past Events
 
-<div class="w3-content w3-section" style="max-height:500px">
-  <img class="mySlidesPast" src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/workflow_workshops/Chakrabortty_Sept_19_2024/IMG_1379.JPG?raw=true" height="500">
-  <img class="mySlidesPast" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\stat_cafe\Wang_Oct_02_2024\StatCafe_Talk_Qiyuan Wang.png?raw=true" height="500">
+
+
+<div class="w3-content w3-display-container">
+  <img class="mySlides2" src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/workflow_workshops/Chakrabortty_Sept_19_2024/IMG_1379.JPG?raw=true" height="500">
+  <img class="mySlides2" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\stat_cafe\Wang_Oct_02_2024\IMG_1544.JPG?raw=true" height="500">
+  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 1)">&#10094;</button>
+  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 1)">&#10095;</button>
+</div>
+
 
 <script>
-var myIndex = 0;
-carousel();
+var slideIndex = [1,1];
+var slideId = ["mySlides1", "mySlides2"]
+showDivs(1, 0);
+showDivs(1, 1);
 
-function carousel() {
+function plusDivs(n, no) {
+  showDivs(slideIndex[no] += n, no);
+}
+
+function showDivs(n, no) {
   var i;
-  var x = document.getElementsByClassName("mySlidesPast");
+  var x = document.getElementsByClassName(slideId[no]);
+  if (n > x.length) {slideIndex[no] = 1}
+  if (n < 1) {slideIndex[no] = x.length}
   for (i = 0; i < x.length; i++) {
     x[i].style.display = "none";  
   }
-  myIndex++;
-  if (myIndex > x.length) {myIndex = 1}    
-  x[myIndex-1].style.display = "block";  
-  setTimeout(carousel, 5000); // Change image every 2 seconds
+  x[slideIndex[no]-1].style.display = "block";  
 }
 </script>
