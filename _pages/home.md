@@ -28,9 +28,12 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
 -->
 
-<div class="w3-content w3-section" style="max-height:500px">
-  <img class="mySlidesPast" src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/workflow_workshops/Chakrabortty_Sept_19_2024/IMG_1379.JPG?raw=true" height="500">
-  <img class="mySlidesPast" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\stat_cafe\Wang_Oct_02_2024\StatCafe_Talk_Qiyuan Wang.png?raw=true" height="500">
+
+<div class="w3-content w3-display-container">
+  <img class="mySlides1" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\game_night\game_night_09_27_2024\image002.png?raw=true" height="300">
+  <img class="mySlides1" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\stat_cafe\Wang_Oct_02_2024\StatCafe_Talk_Qiyuan Wang.png?raw=true" height="300">
+  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 0)">&#10094;</button>
+  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 0)">&#10095;</button>
 </div>
 
 
@@ -39,8 +42,8 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
 
 <div class="w3-content w3-display-container">
-  <img class="mySlides2" src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/workflow_workshops/Chakrabortty_Sept_19_2024/IMG_1379.JPG?raw=true" height="500">
-  <img class="mySlides2" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\stat_cafe\Wang_Oct_02_2024\IMG_1544.JPG?raw=true" height="500">
+  <img class="mySlides2" src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/workflow_workshops/Chakrabortty_Sept_19_2024/IMG_1379.JPG?raw=true" height="300">
+  <img class="mySlides2" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\stat_cafe\Wang_Oct_02_2024\IMG_1544.JPG?raw=true" height="300">
   <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 1)">&#10094;</button>
   <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 1)">&#10095;</button>
 </div>
