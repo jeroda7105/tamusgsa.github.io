@@ -22,7 +22,7 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 <img src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\stat_cafe\Wang_Oct_02_2024\StatCafe_Talk_Qiyuan Wang.png?raw=true" alt="flyer" width="200"/> <br>
 
 
- ## Past Events
+## Past Events
 
 <div class="w3-content w3-section" style="max-width:500px">
   <img class="mySlidesPast" src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/workflow_workshops/Chakrabortty_Sept_19_2024/IMG_1379.JPG?raw=true" width="200">
