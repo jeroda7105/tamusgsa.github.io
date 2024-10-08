@@ -1,6 +1,6 @@
 ---
 permalink: /people/
-title: "People"
+title: "2024 - 2025 SGSA Officers"
 layout: single
 author_profile: true
 classes: wide
@@ -8,7 +8,7 @@ classes: wide
 
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
-## 2024 - 2025 SGSA Officers
+<!-- ## 2024 - 2025 SGSA Officers -->
 
 <div>
 <p> President - Gozde Sert (gozdesert@stat.tamu.edu) </p> 
