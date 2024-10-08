@@ -16,7 +16,7 @@ header:
 The Statistics Graduate Student Association, (SGSA), is an organization that provides the best possible environment to encourage the interaction between students and faculty by bestowing forums for students to connect with faculty as they discuss their current research, encouraging participation in academic events outside of the traditional classroom setting, and by giving back to the community that supports all of us in the A&M family.
 
 ## Upcoming Events
-
+<!--
 - [SGSA Game Night, 9/27/2024, 5:00pm-7:00pm at the Fisher Bowl](https://urldefense.com/v3/__https://forms.gle/Mp7yF6DTNeZJavoS7__;!!KwNVnqRv!BaaEuGlheW4VZxx5D5aDXPnYPdYYhvUc7CfJdL7G1uZhgiX-ddkLIPNvGQ0iM9IO2StudWWbKCG5LnmdaMLkFe2gij2_hxU$) 
 
 <img src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\game_night\game_night_09_27_2024\image002.png?raw=true" alt="flyer" width="200"/> <br>
@@ -26,10 +26,34 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
 <img src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\stat_cafe\Wang_Oct_02_2024\StatCafe_Talk_Qiyuan Wang.png?raw=true" alt="flyer" width="200"/> <br>
 
+-->
+
+
+<div class="w3-content w3-section" style="max-height:500px">
+  <img class="mySlidesUpcoming" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\game_night\game_night_09_27_2024\image002.png?raw=true" height="500">
+  <img class="mySlidesUpcoming" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\stat_cafe\Wang_Oct_02_2024\StatCafe_Talk_Qiyuan Wang.png?raw=true" height="500">
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlidesUpcoming");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(carousel, 5000); // Change image every 2 seconds
+}
+</script>
+
 
 ## Past Events
 
-<div class="w3-content w3-section" style="max-height:1000px">
+<div class="w3-content w3-section" style="max-height:500px">
   <img class="mySlidesPast" src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/workflow_workshops/Chakrabortty_Sept_19_2024/IMG_1379.JPG?raw=true" height="500">
   <img class="mySlidesPast" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\stat_cafe\Wang_Oct_02_2024\StatCafe_Talk_Qiyuan Wang.png?raw=true" height="500">
 
@@ -46,6 +70,6 @@ function carousel() {
   myIndex++;
   if (myIndex > x.length) {myIndex = 1}    
   x[myIndex-1].style.display = "block";  
-  setTimeout(carousel, 2000); // Change image every 2 seconds
+  setTimeout(carousel, 5000); // Change image every 2 seconds
 }
 </script>
