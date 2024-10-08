@@ -33,6 +33,7 @@ toc: true
 classes: wide
 ---
 
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 <!-- excerpt: "TAMU SGSA is a student association." -->
 
