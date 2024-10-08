@@ -3,9 +3,9 @@ layout: splash
 title: " "
 permalink: /
 hidden: true
-#header:
-#  overlay_color: "#ffffff"
-#  overlay_image: /assets/images/sgsa-officers/officers2023.JPG
+header:
+  overlay_color: "#ffffff"
+  overlay_image: /assets/images/sgsa_logos/sgsa_logo_1.png
 ---
 
 ## About us
@@ -21,5 +21,7 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
 -->
 
- 
+ ## Previous Events
+
+
 
