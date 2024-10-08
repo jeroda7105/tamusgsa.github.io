@@ -17,6 +17,11 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
 ## Upcoming Events
 
+- [SGSA Game Night, 9/27/2024, 5:00pm-7:00pm at the Fisher Bowl](https://urldefense.com/v3/__https://forms.gle/Mp7yF6DTNeZJavoS7__;!!KwNVnqRv!BaaEuGlheW4VZxx5D5aDXPnYPdYYhvUc7CfJdL7G1uZhgiX-ddkLIPNvGQ0iM9IO2StudWWbKCG5LnmdaMLkFe2gij2_hxU$) 
+
+<img src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\game_night\game_night_09_27_2024\image002.png?raw=true" alt="flyer" width="200"/> <br>
+
+
  - [Stat Cafe - Qiyuan Wang, 10/2/2024, 11:30am-12:30pm at BLOC 411](https://urldefense.com/v3/__https://docs.google.com/forms/d/e/1FAIpQLSfXyUsx8bJsenleDXU7jFDU7SO5mSlgg195jmQqUI2sAQoLdQ/viewform?usp=sf_link__;!!KwNVnqRv!H2JhzY_xFod2p5vtAbUMa-KAUP4ZyFbsocZ0XuZIDAarETUZSz4Y-0P7uWbly4fxOLPGID009pRY02Tu$) 
 
 <img src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\stat_cafe\Wang_Oct_02_2024\StatCafe_Talk_Qiyuan Wang.png?raw=true" alt="flyer" width="200"/> <br>
@@ -24,9 +29,9 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
 ## Past Events
 
-<div class="w3-content w3-section" style="max-width:500px">
-  <img class="mySlidesPast" src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/workflow_workshops/Chakrabortty_Sept_19_2024/IMG_1379.JPG?raw=true" width="200">
-  <img class="mySlidesPast" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\stat_cafe\Wang_Oct_02_2024\StatCafe_Talk_Qiyuan Wang.png?raw=true" width="200">
+<div class="w3-content w3-section" style="max-height:1000px">
+  <img class="mySlidesPast" src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/workflow_workshops/Chakrabortty_Sept_19_2024/IMG_1379.JPG?raw=true" height="500">
+  <img class="mySlidesPast" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\stat_cafe\Wang_Oct_02_2024\StatCafe_Talk_Qiyuan Wang.png?raw=true" height="500">
 
 <script>
 var myIndex = 0;
