@@ -12,6 +12,10 @@ header:
 <style>
 h6 {font-size: 18px;}
 p {font-size: 18px;}
+.mySlides1 {display:none}
+.mySlides2 {display:none}
+.w3-left, .w3-right, .w3-badge {cursor:pointer}
+.w3-badge {height:13px;width:13px;padding:0}
 </style>
 
 
@@ -96,7 +100,7 @@ function showDivs(n, no) {
   var i;
   var x = document.getElementsByClassName(slideId[no]);
   var dots = document.getElementsByClassName(demoId[no]);
-   if (n > x.length) {slideIndex[no] = 1}
+  if (n > x.length) {slideIndex[no] = 1}
   if (n < 1) {slideIndex[no] = x.length}
   for (i = 0; i < x.length; i++) {
     x[i].style.display = "none";  
