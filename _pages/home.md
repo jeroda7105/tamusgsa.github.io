@@ -81,7 +81,7 @@ function plusDivs(n, no) {
 }
 
 function currentDiv(n, no) {
-  showDivs(slideIndex = n, no);
+  showDivs(slideIndex[no] = n, no);
 }
 
 /* function showDivs(n, no) {
