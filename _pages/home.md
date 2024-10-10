@@ -56,12 +56,14 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 </div>
 
 
-### Past Events
+### Past Event Gallery
 
 <div class="w3-content w3-display-container" style="width:60%">
-  
+  <img class="mySlides2" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\halloween_potluck_2023\IMG_0411.JPG?raw=true" height="25">
+  <img class="mySlides2" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\game_night\game_night_2_9_2024\new_IMG_6501.jpg?raw=true" height="25">
   <img class="mySlides2" src="https://jeroda7105.github.io/tamusgsa.github.io/assets\images\stat_cafe\Carroll_Jan_22_2024\IMG_8648.jpg?raw=true" height="25">
   <img class="mySlides2" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\workflow_workshops\Vidakovic_Feb_07_2024\IMG_6480.jpeg?raw=true" height="25">
+  <img class="mySlides2" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\fac-app-bbq-24\PXL_20240413_225929466_MP.jpg?raw=true" height="25">
   <!-- <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 1)">&#10094;</button>
   <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 1)">&#10095;</button> -->
     <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
@@ -69,6 +71,9 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
     <div class="w3-right w3-hover-text-white" onclick="plusDivs(1, 1)">&#10095;</div>
     <span class="w3-badge demo2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(1, 1)"></span>
     <span class="w3-badge demo2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(2, 1)"></span>
+    <span class="w3-badge demo2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(3, 1)"></span>
+    <span class="w3-badge demo2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(4, 1)"></span>
+    <span class="w3-badge demo2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(5, 1)"></span>
   </div>
 </div>
 
