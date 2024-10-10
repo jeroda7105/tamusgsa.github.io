@@ -12,7 +12,7 @@ header:
 <style>
 h1{font-size:64px;}
 h2{font-size:48px;}
-h3{font-size:36px;}
+h3{font-size:40px;}
 h4{font-size:24px;}
 h5{font-size:20px;}
 h6 {font-size: 18px;}
@@ -24,11 +24,11 @@ p {font-size: 18px;}
 </style>
 
 
-## About Us
+### About Us
 
 The Statistics Graduate Student Association, (SGSA), is an organization that provides the best possible environment to encourage the interaction between students and faculty by bestowing forums for students to connect with faculty as they discuss their current research, encouraging participation in academic events outside of the traditional classroom setting, and by giving back to the community that supports all of us in the A&M family.
 
-## Upcoming Events
+### Upcoming Events
 <!--
 - [SGSA Game Night, 9/27/2024, 5:00pm-7:00pm at the Fisher Bowl](https://urldefense.com/v3/__https://forms.gle/Mp7yF6DTNeZJavoS7__;!!KwNVnqRv!BaaEuGlheW4VZxx5D5aDXPnYPdYYhvUc7CfJdL7G1uZhgiX-ddkLIPNvGQ0iM9IO2StudWWbKCG5LnmdaMLkFe2gij2_hxU$) 
 
@@ -56,7 +56,7 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 </div>
 
 
-## Past Events
+### Past Events
 
 <div class="w3-content w3-display-container" style="width:40%">
   
