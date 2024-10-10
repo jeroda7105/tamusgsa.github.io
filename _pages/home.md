@@ -13,10 +13,10 @@ header:
 h1{font-size:64px;}
 h2{font-size:48px;}
 h3{font-size:40px;}
-h4{font-size:26px;}
-h5{font-size:24px;}
-h6 {font-size: 20px;}
-p {font-size: 20px;}
+h4{font-size:30px;}
+h5{font-size:26px;}
+h6 {font-size: 24px;}
+p {font-size: 22px;}
 .mySlides1 {display:none}
 .mySlides2 {display:none}
 .w3-left, .w3-right, .w3-badge {cursor:pointer}
@@ -42,7 +42,7 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 -->
 
 
-<div class="w3-content w3-display-container" style="width:80%">
+<div class="w3-content w3-display-container" style="width:60%">
   <img class="mySlides1" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\game_night\game_night_09_27_2024\image002.png?raw=true" height="25">
   <img class="mySlides1" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\stat_cafe\Wang_Oct_02_2024\StatCafe_Talk_Qiyuan Wang.png?raw=true" height="25">
   <!-- <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 0)">&#10094;</button>
@@ -58,7 +58,7 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
 ### Past Events
 
-<div class="w3-content w3-display-container" style="width:80%">
+<div class="w3-content w3-display-container" style="width:60%">
   
   <img class="mySlides2" src="https://jeroda7105.github.io/tamusgsa.github.io/assets\images\stat_cafe\Carroll_Jan_22_2024\IMG_8648.jpg?raw=true" height="25">
   <img class="mySlides2" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\workflow_workshops\Vidakovic_Feb_07_2024\IMG_6480.jpeg?raw=true" height="25">
