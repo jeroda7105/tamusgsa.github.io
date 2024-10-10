@@ -10,6 +10,11 @@ header:
 
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <style>
+h1{font-size:64px;}
+h2{font-size:48px;}
+h3{font-size:36px;}
+h4{font-size:24px;}
+h5{font-size:20px;}
 h6 {font-size: 18px;}
 p {font-size: 18px;}
 .mySlides1 {display:none}
@@ -19,11 +24,11 @@ p {font-size: 18px;}
 </style>
 
 
-### About Us
+## About Us
 
 The Statistics Graduate Student Association, (SGSA), is an organization that provides the best possible environment to encourage the interaction between students and faculty by bestowing forums for students to connect with faculty as they discuss their current research, encouraging participation in academic events outside of the traditional classroom setting, and by giving back to the community that supports all of us in the A&M family.
 
-### Upcoming Events
+## Upcoming Events
 <!--
 - [SGSA Game Night, 9/27/2024, 5:00pm-7:00pm at the Fisher Bowl](https://urldefense.com/v3/__https://forms.gle/Mp7yF6DTNeZJavoS7__;!!KwNVnqRv!BaaEuGlheW4VZxx5D5aDXPnYPdYYhvUc7CfJdL7G1uZhgiX-ddkLIPNvGQ0iM9IO2StudWWbKCG5LnmdaMLkFe2gij2_hxU$) 
 
@@ -37,7 +42,7 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 -->
 
 
-<div class="w3-content w3-display-container" style="width:50%">
+<div class="w3-content w3-display-container" style="width:40%">
   <img class="mySlides1" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\game_night\game_night_09_27_2024\image002.png?raw=true" height="25">
   <img class="mySlides1" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\stat_cafe\Wang_Oct_02_2024\StatCafe_Talk_Qiyuan Wang.png?raw=true" height="25">
   <!-- <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 0)">&#10094;</button>
@@ -51,11 +56,10 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 </div>
 
 
-### Past Events
+## Past Events
 
-
-
-<div class="w3-content w3-display-container" style="width:50%">
+<div class="w3-content w3-display-container" style="width:40%">
+  
   <img class="mySlides2" src="https://jeroda7105.github.io/tamusgsa.github.io/assets\images\stat_cafe\Carroll_Jan_22_2024\IMG_8648.jpg?raw=true" height="25">
   <img class="mySlides2" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\workflow_workshops\Vidakovic_Feb_07_2024\IMG_6480.jpeg?raw=true" height="25">
   <!-- <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 1)">&#10094;</button>
