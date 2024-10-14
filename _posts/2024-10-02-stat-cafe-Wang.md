@@ -67,7 +67,8 @@ and discuss some of the diagnostics that become amenable to measurement.
 ### Presentation
 <iframe src="https://drive.google.com/file/d/1IuvvSetqTF569WFK_1EbN-ogVX25uzjn/preview" width="640" height="480" allow="autoplay"></iframe>
 
-### Recording (Coming Soon)
+### Recording
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wgM7NcA3p6I?si=P-oMQNdgvD64d5R8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### Gallery
