@@ -42,5 +42,5 @@ p {font-size: 22px;}
 
 <p> Masters Student Representative - Brian Park (brian1270@tamu.edu) </p>
 
-<p> Social Representative - Robert Lee (robertdylee@tamu.edu) </p>
+<p> Communications Chair - Robert Lee (robertdylee@tamu.edu) </p>
 </div>
