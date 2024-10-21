@@ -44,7 +44,7 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
 <div class="w3-content w3-display-container" style="width:60%">
   <img class="mySlides1" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\stat_cafe\Peng_10_23_2024\StatCafe_Talk_Pengxi_Yu.png?raw=true" height="25">
-  <img class="mySlides1" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\game_night\game_night_09_27_2024\image002.png?raw=true" height="25">
+  <img class="mySlides1" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\images\halloween-bbq-24\halloween_party_flyer.png?raw=true" height="25">
   <!-- <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 0)">&#10094;</button>
   <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 0)">&#10095;</button> -->
   <div class="w3-center w3-container w3-section w3-large w3-text-black w3-display-bottommiddle" style="width:100%">
