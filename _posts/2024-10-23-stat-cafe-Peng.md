@@ -43,7 +43,6 @@ and clinically significant spatial “topics”, such as tertiary lymphoid struc
 ### Presentation
 <iframe src="https://drive.google.com/file/d/1NGp8KngoWc6tR3FTy2vXt4BFaOO4fxpN/preview" width="640" height="480" allow="autoplay"></iframe>
 
-### Recording (Coming Soon)
 
 
 ### Gallery
