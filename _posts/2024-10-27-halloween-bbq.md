@@ -29,9 +29,6 @@ layouts_gallery:
 - url: /assets/images/halloween-bbq-24/IMG_5227.jpg
   image_path: /assets/images/halloween-bbq-24/IMG_5227.jpg
   alt: "IMG_5227.jpg"
-- url: /assets/images/halloween-bbq-24/IMG_5217.jpeg
-  image_path: /assets/images/halloween-bbq-24/IMG_5217.jpeg
-  alt: "IMG_5217.jpeg"
 - url: /assets/images/halloween-bbq-24/IMG_5517.jpeg
   image_path: /assets/images/halloween-bbq-24/IMG_5517.jpeg
   alt: "IMG_5517.jpeg"
