@@ -73,7 +73,7 @@ layouts_gallery:
   alt: "IMG_8883.jpg"
 ---
 
-<img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/halloween-bbq-24/IMG_5203.jpg" alt="Header" width="900"> 
+<img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/halloween-bbq-24/IMG_5203.jpg?raw=true" alt="Header" width="900"> 
 
 Halloween is around the corner, and it’s time to gather for some fun and treats! On behalf of SGSA, I am thrilled to announce that we are organizing a Halloween Party this year at Pavilion A of Tiffany Park on Sunday, October 27 from 4:00 – 7:00 PM. 
 
