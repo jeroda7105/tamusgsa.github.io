@@ -1,6 +1,5 @@
 ---
 title: "2024 - Halloween BBQ"
-excerpt: 
 layout: single
 classes: wide
 category:
