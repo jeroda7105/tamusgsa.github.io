@@ -14,7 +14,7 @@ category:
 
 ### Arseven Statistics Department Computing Cluster 
 - Time: Thursday 11/14/2024 from 1:00 PM Onwards
-- Location: BLOC 448
+- Location: BLOC 503
 
 
 
