@@ -41,6 +41,9 @@ does transformer learn and causal inference.
 <iframe src="https://drive.google.com/file/d/1Kps7iRbp-bYJDUqNKfYy7PibeXBoRPl-/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
+### Recording
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uv9Ok7YTO4U?si=4PhMRzHkL-Hughlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <!--
 ### Gallery
 
