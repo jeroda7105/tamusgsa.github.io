@@ -67,8 +67,8 @@ resources!
 ### Recording (Coming Soon)
 
 
-<!--
+
 ### Gallery 
 
 {% include gallery id="layouts_gallery" %}
--->
+
