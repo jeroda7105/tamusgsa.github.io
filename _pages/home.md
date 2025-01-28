@@ -28,10 +28,13 @@ p {font-size: 22px;}
 
 The Statistics Graduate Student Association, (SGSA), is an organization that provides the best possible environment to encourage the interaction between students and faculty by bestowing forums for students to connect with faculty as they discuss their current research, encouraging participation in academic events outside of the traditional classroom setting, and by giving back to the community that supports all of us in the A&M family.
 
-[Slack Channel](https://join.slack.com/t/tamustatistic-fdy2267/shared_invite/zt-2yw4ujwyp-LkfgZFVwYxsFIOtR8iYgog)
-[Discord Channel](https://discord.gg/hZmzHb5k)
+[Slack Channel](<https://join.slack.com/t/tamustatistic-fdy2267/shared_invite/zt-2yw4ujwyp-LkfgZFVwYxsFIOtR8iYgog>)
+[Discord Channel](<https://discord.gg/hZmzHb5k>)
 
 ### Upcoming Events
+
+- 2/3/25: Stat Cafe - Jiyoung Park
+
 <!--
 - [SGSA Game Night, 9/27/2024, 5:00pm-7:00pm at the Fisher Bowl](https://urldefense.com/v3/__https://forms.gle/Mp7yF6DTNeZJavoS7__;!!KwNVnqRv!BaaEuGlheW4VZxx5D5aDXPnYPdYYhvUc7CfJdL7G1uZhgiX-ddkLIPNvGQ0iM9IO2StudWWbKCG5LnmdaMLkFe2gij2_hxU$) 
 
@@ -44,12 +47,13 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
 -->
 
-
+<!--
 <div class="w3-content w3-display-container" style="width:60%">
   <img class="mySlides1" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\workflow_workshops\Bruce_Nov_14_2024\Bruce_WW_11_14_Flyer.png?raw=true" height="25">
   <img class="mySlides1" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\halloween-bbq-24\halloween_party_flyer.png?raw=true" height="25">
   <!-- <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 0)">&#10094;</button>
   <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 0)">&#10095;</button> -->
+<!--  
   <div class="w3-center w3-container w3-section w3-large w3-text-black w3-display-bottommiddle" style="width:100%">
     <div class="w3-left w3-hover-text-white" onclick="plusDivs(-1, 0)">&#10094;</div>
     <div class="w3-right w3-hover-text-white" onclick="plusDivs(1, 0)">&#10095;</div>
@@ -57,7 +61,7 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
     <span class="w3-badge demo1 w3-border w3-transparent w3-hover-white" onclick="currentDiv(2, 0)"></span>
   </div>
 </div>
-
+-->
 
 ### Past Events
 
