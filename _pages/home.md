@@ -28,6 +28,9 @@ p {font-size: 22px;}
 
 The Statistics Graduate Student Association, (SGSA), is an organization that provides the best possible environment to encourage the interaction between students and faculty by bestowing forums for students to connect with faculty as they discuss their current research, encouraging participation in academic events outside of the traditional classroom setting, and by giving back to the community that supports all of us in the A&M family.
 
+[Slack Channel](https://join.slack.com/t/tamustatistic-fdy2267/shared_invite/zt-2yw4ujwyp-LkfgZFVwYxsFIOtR8iYgog)
+[Discord Channel](https://discord.gg/hZmzHb5k)
+
 ### Upcoming Events
 <!--
 - [SGSA Game Night, 9/27/2024, 5:00pm-7:00pm at the Fisher Bowl](https://urldefense.com/v3/__https://forms.gle/Mp7yF6DTNeZJavoS7__;!!KwNVnqRv!BaaEuGlheW4VZxx5D5aDXPnYPdYYhvUc7CfJdL7G1uZhgiX-ddkLIPNvGQ0iM9IO2StudWWbKCG5LnmdaMLkFe2gij2_hxU$) 
