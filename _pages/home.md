@@ -90,7 +90,7 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 var slideIndex = [1,1];
 var slideId = ["mySlides1", "mySlides2"]
 var demoId = ["demo1", "demo2"]
-showDivs(1, 0);
+// showDivs(1, 0);
 showDivs(1, 1);
 
 function plusDivs(n, no) {
