@@ -20,7 +20,7 @@ layouts_gallery:
 
 ###  Robust Estimation in metric spaces: Achieving Exponential Concentration with a Frechet Median
 
-- Time: Wednesday 2/3/2025 from 11:30 AM to 12:30 PM
+- Time: Monday 2/3/2025 from 11:30 AM to 12:30 PM
 - Location: BLOC 457
 
 ### Description
