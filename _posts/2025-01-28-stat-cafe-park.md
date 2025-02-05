@@ -27,9 +27,9 @@ layouts_gallery:
   - url: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1981.JPG
     image_path: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1981.JPG
     alt: "IMG_1981.JPG"
-  - url: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1982.JPG
-    image_path: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1982.JPG
-    alt: "IMG_1982.JPG"
+  - url: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1989.JPG
+    image_path: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1989.JPG
+    alt: "IMG_1989.JPG"
   - url: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1984.JPG
     image_path: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1984.JPG
     alt: "IMG_1984.JPG"
@@ -54,7 +54,7 @@ layouts_gallery:
 ---
 
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Park_Feb_03_2025/IMG_1989.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Park_Feb_03_2025/IMG_1982.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
 
 
 ###  Robust Estimation in metric spaces: Achieving Exponential Concentration with a Frechet Median
