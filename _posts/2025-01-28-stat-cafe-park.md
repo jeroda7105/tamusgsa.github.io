@@ -70,8 +70,8 @@ There is growing interest in developing statistical estimators that achieve expo
 <iframe src="https://drive.google.com/file/d/1tN9MfS-UIcedYkMafJPG1VxsRcSM0t8T/preview" width="640" height="480" allow="autoplay"></iframe>
 -->
 
-<!-- ### Recording -->
-
+### Recording 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_2SckYpHKyo?si=yStnY7-tB01lWJTv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Gallery
 
