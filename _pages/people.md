@@ -2,7 +2,7 @@
 permalink: /people/
 layout: splash
 author_profile: true
-title: false
+hidden: true
 classes: wide
 header:
   overlay_color: "#ffffff"
