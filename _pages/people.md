@@ -1,7 +1,7 @@
 ---
 permalink: /people/
 layout: splash
-author_profile: true
+title: " "
 hidden: true
 classes: wide
 header:
