@@ -3,6 +3,9 @@ permalink: /people/
 layout: splash
 author_profile: true
 classes: wide
+header:
+  overlay_color: "#ffffff"
+  overlay_image: /assets/images/sgsa-officers/officers2024temp.JPG
 ---
 
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -16,11 +19,12 @@ h6 {font-size: 24px;}
 p {font-size: 22px;}
 </style>
 
-<!-- ## 2024 - 2025 SGSA Officers -->
+<!-- ## 2024 - 2025 SGSA Officers 
 
 <div style="display:table-cell; vertical-align:middle; text-align:center">
 <img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/sgsa-officers/officers2024temp.JPG" alt="group" width="1000"/> 
 </div>
+-->
 
 <br>
 
