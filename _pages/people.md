@@ -1,7 +1,6 @@
 ---
 permalink: /people/
-title: "2024 - 2025 SGSA Officers"
-layout: single
+layout: splash
 author_profile: true
 classes: wide
 ---
@@ -25,6 +24,7 @@ p {font-size: 22px;}
 
 <br>
 
+## 2024 - 2025 SGSA Officers
 
 <div>
 <img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/sgsa-officers/individual_officers_2024/gozde_portrait.JPG" alt="Gozde" width="200"/> <br>
