@@ -1,6 +1,7 @@
 ---
 permalink: /people/
-layout: splash
+layout: default
+author_profile: true
 classes: wide
 header:
   overlay_color: "#ffffff"
