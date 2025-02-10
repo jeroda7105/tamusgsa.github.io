@@ -4,9 +4,6 @@ title: "2024 - 2025 SGSA Officers"
 layout: single
 author_profile: true
 classes: wide
-header:
-  overlay_color: "#ffffff"
-  overlay_image: /assets/images/sgsa-officers/officers2024temp.JPG
 ---
 
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -22,7 +19,9 @@ p {font-size: 22px;}
 
 <!-- ## 2024 - 2025 SGSA Officers -->
 
-
+<div style="display:table-cell; vertical-align:middle; text-align:center">
+<img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/sgsa-officers/officers2024temp.JPG" alt="Gozde" width="500"/> 
+</div>
 
 <div>
 <img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/sgsa-officers/individual_officers_2024/gozde_portrait.JPG" alt="Gozde" width="200"/> <br>
