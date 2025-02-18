@@ -9,6 +9,24 @@ layouts_gallery:
   - url: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_1997.JPG
     image_path: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_1997.JPG
     alt: "IMG_1997.JPG"
+  - url: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_1998.JPG
+    image_path: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_1998.JPG
+    alt: "IMG_1998.JPG"
+  - url: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_1999.JPG
+    image_path: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_1999.JPG
+    alt: "IMG_1999.JPG"
+  - url: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2002.JPG
+    image_path: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2002.JPG
+    alt: "IMG_2002.JPG"
+  - url: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2003.JPG
+    image_path: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2003.JPG
+    alt: "IMG_2003.JPG"
+  - url: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2004.JPG
+    image_path: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2004.JPG
+    alt: "IMG_2004.JPG"
+    - url: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2006.JPG
+    image_path: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2006.JPG
+    alt: "IMG_2006.JPG"
 ---
 
 
@@ -34,24 +52,6 @@ The related papers can be found at:
 <!--
 ### Presentation
 <iframe src="https://drive.google.com/file/d/1tN9MfS-UIcedYkMafJPG1VxsRcSM0t8T/preview" width="640" height="480" allow="autoplay"></iframe>
-  - url: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_1998.JPG
-    image_path: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_1998.JPG
-    alt: "IMG_1998.JPG"
-  - url: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_1999.JPG
-    image_path: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_1999.JPG
-    alt: "IMG_1999.JPG"
-  - url: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2002.JPG
-    image_path: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2002.JPG
-    alt: "IMG_2002.JPG"
-  - url: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2003.JPG
-    image_path: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2003.JPG
-    alt: "IMG_2003.JPG"
-  - url: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2004.JPG
-    image_path: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2004.JPG
-    alt: "IMG_2004.JPG"
-    - url: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2006.JPG
-    image_path: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2006.JPG
-    alt: "IMG_2006.JPG"
 -->
 
 ### Recording
