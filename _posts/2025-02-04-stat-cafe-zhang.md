@@ -6,17 +6,32 @@ classes: wide
 category: 
   - Stat Cafe
 layouts_gallery:
-  - url: /assets/images/stat_cafe/Zhang_Sept_11_2024/IMG_1216.jpg
-    image_path: /assets/images/stat_cafe/Zhang_Sept_11_2024/IMG_1216.jpg
-    alt: "IMG_1216.jpg"
-  - url: /assets/images/stat_cafe/Zhang_Sept_11_2024/IMG_1222.jpg
-    image_path: /assets/images/stat_cafe/Zhang_Sept_11_2024/IMG_1222.jpg
-    alt: "IMG_1222.jpg"
+  - url: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_1997.JPG
+    image_path: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_1997.JPG
+    alt: "IMG_1997.JPG"
+  - url: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_1998.JPG
+    image_path: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_1998.JPG
+    alt: "IMG_1998.JPG"
+  - url: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_1999.JPG
+    image_path: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_1999.JPG
+    alt: "IMG_1999.JPG"
+  - url: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2002.JPG
+    image_path: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2002.JPG
+    alt: "IMG_2002.JPG"
+  - url: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2003.JPG
+    image_path: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2003.JPG
+    alt: "IMG_2003.JPG"
+  - url: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2004.JPG
+    image_path: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2004.JPG
+    alt: "IMG_2004.JPG"
+    - url: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2006.JPG
+    image_path: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2006.JPG
+    alt: "IMG_2006.JPG"
 ---
 
-<!--
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Zhang_Sept_11_2024/IMG_1221.jpg?raw=true" alt="Header" width="315" style="float: right;"/> 
--->
+
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2008.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
+
 
 ###  E-values, Multiple Testing and Beyond
 
@@ -36,16 +51,16 @@ The related papers can be found at:
 
 <!--
 ### Presentation
-<iframe src="https://drive.google.com/file/d/1tN9MfS-UIcedYkMafjpg1VxsRcSM0t8T/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1tN9MfS-UIcedYkMafJPG1VxsRcSM0t8T/preview" width="640" height="480" allow="autoplay"></iframe>
 -->
 
 ### Recording
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YjR7OlZPy2I?si=fbJmXI60nApV2h8H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-<!--
-### Gallery
+
+### Gallery (Photos taken by Samantha Williams)
 
 {% include gallery id="layouts_gallery" %}
--->
+
 
