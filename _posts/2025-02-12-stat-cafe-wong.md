@@ -18,6 +18,21 @@ layouts_gallery:
   - url: /assets/images/stat_cafe/Wong_Feb_17_2025/IMG_2018.JPG
     image_path: /assets/images/stat_cafe/Wong_Feb_17_2025/IMG_2018.JPG
     alt: "IMG_2018.JPG"
+  - url: /assets/images/stat_cafe/Wong_Feb_17_2025/IMG_2019.JPG
+    image_path: /assets/images/stat_cafe/Wong_Feb_17_2025/IMG_2019.JPG
+    alt: "IMG_2019.JPG"
+  - url: /assets/images/stat_cafe/Wong_Feb_17_2025/IMG_2022.JPG
+    image_path: /assets/images/stat_cafe/Wong_Feb_17_2025/IMG_2022.JPG
+    alt: "IMG_2022.JPG"
+  - url: /assets/images/stat_cafe/Wong_Feb_17_2025/IMG_2028.JPG
+    image_path: /assets/images/stat_cafe/Wong_Feb_17_2025/IMG_2028.JPG
+    alt: "IMG_2028.JPG"
+  - url: /assets/images/stat_cafe/Wong_Feb_17_2025/IMG_2029.JPG
+    image_path: /assets/images/stat_cafe/Wong_Feb_17_2025/IMG_2029.JPG
+    alt: "IMG_2029.JPG"
+  - url: /assets/images/stat_cafe/Wong_Feb_17_2025/IMG_2032.JPG
+    image_path: /assets/images/stat_cafe/Wong_Feb_17_2025/IMG_2032.JPG
+    alt: "IMG_2032.JPG"
 ---
 
 
