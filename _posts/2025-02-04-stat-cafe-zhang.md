@@ -30,7 +30,7 @@ layouts_gallery:
 ---
 
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2008.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
+<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2008.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
 
 
 ###  E-values, Multiple Testing and Beyond
