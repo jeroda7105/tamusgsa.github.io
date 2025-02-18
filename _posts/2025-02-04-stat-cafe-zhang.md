@@ -24,7 +24,7 @@ layouts_gallery:
   - url: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2004.JPG
     image_path: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2004.JPG
     alt: "IMG_2004.JPG"
-    - url: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2006.JPG
+  - url: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2006.JPG
     image_path: /assets/images/stat_cafe/Zhang_Feb_10_2025/IMG_2006.JPG
     alt: "IMG_2006.JPG"
 ---
