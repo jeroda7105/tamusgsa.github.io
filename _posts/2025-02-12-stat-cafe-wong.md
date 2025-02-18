@@ -5,11 +5,24 @@ layout: single
 classes: wide
 category: 
   - Stat Cafe
+layouts_gallery:
+  - url: /assets/images/stat_cafe/Wong_Feb_17_2025/IMG_2011.JPG
+    image_path: /assets/images/stat_cafe/Wong_Feb_17_2025/IMG_2011.JPG
+    alt: "IMG_2011.JPG"
+  - url: /assets/images/stat_cafe/Wong_Feb_17_2025/IMG_2016.JPG
+    image_path: /assets/images/stat_cafe/Wong_Feb_17_2025/IMG_2016.JPG
+    alt: "IMG_2016.JPG"
+  - url: /assets/images/stat_cafe/Wong_Feb_17_2025/IMG_2017.JPG
+    image_path: /assets/images/stat_cafe/Wong_Feb_17_2025/IMG_2017.JPG
+    alt: "IMG_2017.JPG"
+  - url: /assets/images/stat_cafe/Wong_Feb_17_2025/IMG_2018.JPG
+    image_path: /assets/images/stat_cafe/Wong_Feb_17_2025/IMG_2018.JPG
+    alt: "IMG_2018.JPG"
 ---
 
-<!--
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Wong_Feb_17_2025/IMG_1221.jpg?raw=true" alt="Header" width="315" style="float: right;"/> 
--->
+
+<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Wong_Feb_17_2025/IMG_2010.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
+
 
 ###  Balancing Weights for Offline Reinforcement Learning
 
@@ -31,9 +44,6 @@ Offline policy evaluation is considered a fundamental and challenging problem in
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YjR7OlZPy2I?si=fbJmXI60nApV2h8H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
 
-<!--
-### Gallery
+### Gallery (Photos taken by Samantha Williams)
 
 {% include gallery id="layouts_gallery" %}
--->
-
