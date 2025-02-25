@@ -68,7 +68,7 @@ Finding an unconstrained and statistically interpretable reparameterization of a
 -->
 
 
-### Gallery (Photos taken by Samantha Williams)
+### Gallery (Photos by Samantha Williams)
 
 {% include gallery id="layouts_gallery" %}
 
