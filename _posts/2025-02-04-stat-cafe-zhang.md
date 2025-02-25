@@ -59,7 +59,7 @@ The related papers can be found at:
 
 
 
-### Gallery (Photos taken by Samantha Williams)
+### Gallery (Photos by Samantha Williams)
 
 {% include gallery id="layouts_gallery" %}
 
