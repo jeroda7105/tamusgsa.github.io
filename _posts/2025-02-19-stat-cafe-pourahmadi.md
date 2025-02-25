@@ -42,7 +42,7 @@ layouts_gallery:
 ---
 
 
-<img src=https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Pourahmadi_Feb_24_2025/IMG_2058.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
+<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Pourahmadi_Feb_24_2025/IMG_2058.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
 
 
 
