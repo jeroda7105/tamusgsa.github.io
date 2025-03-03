@@ -63,10 +63,10 @@ The method consists of three main steps: (1) finetuning a pretrained deep neural
 <iframe src="https://drive.google.com/file/d/1tN9MfS-UIcedYkMafjpg1VxsRcSM0t8T/preview" width="640" height="480" allow="autoplay"></iframe>
 -->
 
-<!--
+
 ### Recording
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YjR7OlZPy2I?si=fbJmXI60nApV2h8H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
--->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z1zhm0ouBis?si=x_jWa6QKNcCFhXZ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ### Gallery (Photos by Samantha Williams)
 
