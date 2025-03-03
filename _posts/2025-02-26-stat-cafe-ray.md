@@ -5,18 +5,52 @@ layout: single
 classes: wide
 category: 
   - Stat Cafe
+layouts_gallery:
+  - url: /assets/images/stat_cafe/Ray_Mar_03_2025/IMG_2062.JPG
+    image_path: /assets/images/stat_cafe/Ray_Mar_03_2025/IMG_2062.JPG
+    alt: "IMG_2062.JPG"
+  - url: /assets/images/stat_cafe/Ray_Mar_03_2025/IMG_2063.JPG
+    image_path: /assets/images/stat_cafe/Ray_Mar_03_2025/IMG_2063.JPG
+    alt: "IMG_2063.JPG"
+  - url: /assets/images/stat_cafe/Ray_Mar_03_2025/IMG_2064.JPG
+    image_path: /assets/images/stat_cafe/Ray_Mar_03_2025/IMG_2064.JPG
+    alt: "IMG_2064.JPG"
+  - url: /assets/images/stat_cafe/Ray_Mar_03_2025/IMG_2065.JPG
+    image_path: /assets/images/stat_cafe/Ray_Mar_03_2025/IMG_2065.JPG
+    alt: "IMG_2065.JPG"
+  - url: /assets/images/stat_cafe/Ray_Mar_03_2025/IMG_2066.JPG
+    image_path: /assets/images/stat_cafe/Ray_Mar_03_2025/IMG_2066.JPG
+    alt: "IMG_2066.JPG"
+  - url: /assets/images/stat_cafe/Ray_Mar_03_2025/IMG_2067.JPG
+    image_path: /assets/images/stat_cafe/Ray_Mar_03_2025/IMG_2067.JPG
+    alt: "IMG_2067.JPG"
+  - url: /assets/images/stat_cafe/Ray_Mar_03_2025/IMG_2068.JPG
+    image_path: /assets/images/stat_cafe/Ray_Mar_03_2025/IMG_2068.JPG
+    alt: "IMG_2068.JPG"
+  - url: /assets/images/stat_cafe/Ray_Mar_03_2025/IMG_2069.JPG
+    image_path: /assets/images/stat_cafe/Ray_Mar_03_2025/IMG_2069.JPG
+    alt: "IMG_2069.JPG"
+  - url: /assets/images/stat_cafe/Ray_Mar_03_2025/IMG_2070.JPG
+    image_path: /assets/images/stat_cafe/Ray_Mar_03_2025/IMG_2070.JPG
+    alt: "IMG_2070.JPG"
+  - url: /assets/images/stat_cafe/Ray_Mar_03_2025/IMG_2071.JPG
+    image_path: /assets/images/stat_cafe/Ray_Mar_03_2025/IMG_2071.JPG
+    alt: "IMG_2071.JPG"
+  - url: /assets/images/stat_cafe/Ray_Mar_03_2025/IMG_2073.JPG
+    image_path: /assets/images/stat_cafe/Ray_Mar_03_2025/IMG_2073.JPG
+    alt: "IMG_2073.JPG"
 ---
 
-<!--
-<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Ray_Mar_03_2025/IMG_2058_copy.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
--->
+
+<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Ray_Mar_03_2025/IMG_2061.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
+
 
 
 ### Deep Clustering of Remote Sensing Scenes through Heterogeneous Transfer Learning 
 
 - Time: Monday 3/3/2025 from 11:30 AM to 12:30 PM
 - Location: BLOC 457
-- Pizza provided
+- Sandwiches provided
 
 
 [RSVP Link](<https://urldefense.com/v3/__https://forms.gle/Ap66f8VwRwLw6TR67__;!!KwNVnqRv!GSMTD6JbVbOOZqyUR_oKGvurQD_t-ikYYBfzOdJj4-w8BZFJ3yXbHuIGx7gHHdVlXJalsvUDPfp6P_0g7Q1p1A$>)
@@ -34,8 +68,7 @@ The method consists of three main steps: (1) finetuning a pretrained deep neural
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YjR7OlZPy2I?si=fbJmXI60nApV2h8H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
 
-<!--
 ### Gallery (Photos by Samantha Williams)
 
 {% include gallery id="layouts_gallery" %}
--->
+
