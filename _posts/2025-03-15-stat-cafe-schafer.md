@@ -5,11 +5,27 @@ layout: single
 classes: wide
 category: 
   - Stat Cafe
+layouts_gallery:
+  - url: /assets/images/stat_cafe/Schafer_Mar_17_2025/IMG_4041.jpg
+    image_path: /assets/images/stat_cafe/Schafer_Mar_17_2025/IMG_4041.jpg
+    alt: "IMG_4041.jpg"
+  - url: /assets/images/stat_cafe/Schafer_Mar_17_2025/IMG_4042.jpg
+    image_path: /assets/images/stat_cafe/Schafer_Mar_17_2025/IMG_4042.jpg
+    alt: "IMG_4042.jpg"
+  - url: /assets/images/stat_cafe/Schafer_Mar_17_2025/IMG_4043.jpg
+    image_path: /assets/images/stat_cafe/Schafer_Mar_17_2025/IMG_4043.jpg
+    alt: "IMG_4043.jpg"
+  - url: /assets/images/stat_cafe/Schafer_Mar_17_2025/IMG_4045.jpg
+    image_path: /assets/images/stat_cafe/Schafer_Mar_17_2025/IMG_4045.jpg
+    alt: "IMG_4045.jpg"
+  - url: /assets/images/stat_cafe/Schafer_Mar_17_2025/IMG_4046.jpg
+    image_path: /assets/images/stat_cafe/Schafer_Mar_17_2025/IMG_4046.jpg
+    alt: "IMG_4046.jpg"
 ---
 
-<!--
-<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Ray_Mar_03_2025/IMG_2061.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
--->
+
+<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Schafer_Mar_17_2025/IMG_4044.jpg?raw=true" alt="Header" width="315" style="float: right;"/> 
+
 
 
 ### Innovative Bayesian Approaches for Robust Trend Filtering and Changepoint Detection in Complex Time Series
@@ -31,9 +47,9 @@ Accurately detecting trends and changepoints in time series is essential across 
 <!--
 ### Recording
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z1zhm0ouBis?si=x_jWa6QKNcCFhXZ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+-->
 
-
-### Gallery (Photos by Samantha Williams)
+### Gallery
 
 {% include gallery id="layouts_gallery" %}
--->
+
