@@ -44,10 +44,9 @@ Accurately detecting trends and changepoints in time series is essential across 
 <iframe src="https://drive.google.com/file/d/1tN9MfS-UIcedYkMafjpg1VxsRcSM0t8T/preview" width="640" height="480" allow="autoplay"></iframe>
 -->
 
-<!--
+
 ### Recording
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z1zhm0ouBis?si=x_jWa6QKNcCFhXZ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
--->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jEcWYSiLkQU?si=R-NyovAX466xlHP_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Gallery
 
