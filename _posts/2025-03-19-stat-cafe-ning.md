@@ -5,11 +5,42 @@ layout: single
 classes: wide
 category: 
   - Stat Cafe
+layouts_gallery:
+  - url: /assets/images/stat_cafe/Ning_Mar_24_2025/IMG_2147.JPG
+    image_path: /assets/images/stat_cafe/Ning_Mar_24_2025/IMG_2147.JPG
+    alt: "IMG_2147.JPG"
+  - url: /assets/images/stat_cafe/Ning_Mar_24_2025/IMG_2150.JPG
+    image_path: /assets/images/stat_cafe/Ning_Mar_24_2025/IMG_2150.JPG
+    alt: "IMG_2150.JPG"
+  - url: /assets/images/stat_cafe/Ning_Mar_24_2025/IMG_2151.JPG
+    image_path: /assets/images/stat_cafe/Ning_Mar_24_2025/IMG_2151.JPG
+    alt: "IMG_2151.JPG"
+  - url: /assets/images/stat_cafe/Ning_Mar_24_2025/IMG_2152.JPG
+    image_path: /assets/images/stat_cafe/Ning_Mar_24_2025/IMG_2152.JPG
+    alt: "IMG_2152.JPG"
+  - url: /assets/images/stat_cafe/Ning_Mar_24_2025/IMG_2153.JPG
+    image_path: /assets/images/stat_cafe/Ning_Mar_24_2025/IMG_2153.JPG
+    alt: "IMG_2153.JPG"
+  - url: /assets/images/stat_cafe/Ning_Mar_24_2025/IMG_2154.JPG
+    image_path: /assets/images/stat_cafe/Ning_Mar_24_2025/IMG_2154.JPG
+    alt: "IMG_2154.JPG"
+  - url: /assets/images/stat_cafe/Ning_Mar_24_2025/IMG_2155.JPG
+    image_path: /assets/images/stat_cafe/Ning_Mar_24_2025/IMG_2155.JPG
+    alt: "IMG_2155.JPG"
+  - url: /assets/images/stat_cafe/Ning_Mar_24_2025/IMG_2156.JPG
+    image_path: /assets/images/stat_cafe/Ning_Mar_24_2025/IMG_2156.JPG
+    alt: "IMG_2156.JPG"
+  - url: /assets/images/stat_cafe/Ning_Mar_24_2025/IMG_2157.JPG
+    image_path: /assets/images/stat_cafe/Ning_Mar_24_2025/IMG_2157.JPG
+    alt: "IMG_2157.JPG"
+  - url: /assets/images/stat_cafe/Ning_Mar_24_2025/IMG_2160.JPG
+    image_path: /assets/images/stat_cafe/Ning_Mar_24_2025/IMG_2160.JPG
+    alt: "IMG_2160.JPG"
 ---
 
-<!-- 
-<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Schafer_Mar_17_2025/IMG_4044.jpg?raw=true" alt="Header" width="315" style="float: right;"/> 
--->
+ 
+<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Ning_Mar_24_2025/IMG_2158.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
+
 
 
 ### Scalable Bayesian Inference for Large Language Model Analysis
@@ -33,8 +64,8 @@ Understanding and controlling large language models (LLMs) remains a fundamental
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jEcWYSiLkQU?si=R-NyovAX466xlHP_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
 
-<!-- 
-### Gallery
+ 
+### Gallery (Photos by Samantha Williams)
 
 {% include gallery id="layouts_gallery" %}
--->
+
