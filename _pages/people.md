@@ -68,5 +68,5 @@ p {font-size: 22px;}
 <p> Masters Student Representative - Brian Park (brian1270@tamu.edu) </p>
 
 <img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/sgsa-officers/individual_officers_2024/robert_portrait.JPG" alt="Robert" width="200"/> <br>
-<p> Communications Chair - Robert Lee (robertdylee@tamu.edu) </p>
+<p> Social Media Manager - Robert Lee (robertdylee@tamu.edu) </p>
 </div>
