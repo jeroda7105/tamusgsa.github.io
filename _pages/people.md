@@ -65,7 +65,7 @@ p {font-size: 22px;}
 <p> Department Delegate - Eric Gao (eric2018@tamu.edu) </p> 
 
 <img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/sgsa-officers/individual_officers_2024/brian_portrait.png" alt="Brian" width="200"/> <br>
-<p> Masters Student Representative - Brian Park (brian1270@tamu.edu) </p>
+<p> Master's Student Coordinator - Brian Park (brian1270@tamu.edu) </p>
 
 <img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/sgsa-officers/individual_officers_2024/robert_portrait.JPG" alt="Robert" width="200"/> <br>
 <p> Social Media Manager - Robert Lee (robertdylee@tamu.edu) </p>
