@@ -98,7 +98,7 @@ Community detection—the task of clustering the nodes of a graph into meaningfu
 -->
 
 
-### Gallery (Photos by Samantha Williams)
+### Gallery (with photos by Samantha Williams)
 
 {% include gallery id="layouts_gallery" %}
 
