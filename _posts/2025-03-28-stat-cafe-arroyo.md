@@ -6,6 +6,18 @@ classes: wide
 category: 
   - Stat Cafe
 layouts_gallery:
+  - url: /assets/images/stat_cafe/Arroyo_Mar_31_2025/f32ac338-7662-40c0-aa00-f67118047a72.jpg
+    image_path: /assets/images/stat_cafe/Arroyo_Mar_31_2025/f32ac338-7662-40c0-aa00-f67118047a72.jpg
+    alt: "f32ac338-7662-40c0-aa00-f67118047a72.jpg"
+  - url: /assets/images/stat_cafe/Arroyo_Mar_31_2025/07e61d46-d3ce-40ad-99b0-11d719ff25ce.jpg
+    image_path: /assets/images/stat_cafe/Arroyo_Mar_31_2025/07e61d46-d3ce-40ad-99b0-11d719ff25ce.jpg
+    alt: "07e61d46-d3ce-40ad-99b0-11d719ff25ce.jpg"
+  - url: /assets/images/stat_cafe/Arroyo_Mar_31_2025/179e0f2a-dd06-4ba5-b3b6-c6d155e58757.jpg
+    image_path: /assets/images/stat_cafe/Arroyo_Mar_31_2025/179e0f2a-dd06-4ba5-b3b6-c6d155e58757.jpg
+    alt: "179e0f2a-dd06-4ba5-b3b6-c6d155e58757.jpg"
+  - url: /assets/images/stat_cafe/Arroyo_Mar_31_2025/ae82dcb1-8b26-4c1a-ad68-f2f487dd18ca.jpg
+    image_path: /assets/images/stat_cafe/Arroyo_Mar_31_2025/ae82dcb1-8b26-4c1a-ad68-f2f487dd18ca.jpg
+    alt: "ae82dcb1-8b26-4c1a-ad68-f2f487dd18ca.jpg"
   - url: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2161.JPG
     image_path: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2161.JPG
     alt: "IMG_2161.JPG"
