@@ -5,11 +5,63 @@ layout: single
 classes: wide
 category: 
   - Stat Cafe
+layouts_gallery:
+  - url: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2161.JPG
+    image_path: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2161.JPG
+    alt: "IMG_2161.JPG"
+  - url: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2162.JPG
+    image_path: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2162.JPG
+    alt: "IMG_2162.JPG"
+  - url: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2163.JPG
+    image_path: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2163.JPG
+    alt: "IMG_2163.JPG"
+  - url: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2164.JPG
+    image_path: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2164.JPG
+    alt: "IMG_2164.JPG"
+  - url: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2165.JPG
+    image_path: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2165.JPG
+    alt: "IMG_2165.JPG"
+  - url: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2166.JPG
+    image_path: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2166.JPG
+    alt: "IMG_2166.JPG"
+  - url: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2167.JPG
+    image_path: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2167.JPG
+    alt: "IMG_2167.JPG"
+  - url: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2169.JPG
+    image_path: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2169.JPG
+    alt: "IMG_2169.JPG"
+  - url: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2170.JPG
+    image_path: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2170.JPG
+    alt: "IMG_2170.JPG"
+  - url: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2171.JPG
+    image_path: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2171.JPG
+    alt: "IMG_2171.JPG"
+  - url: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2172.JPG
+    image_path: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2172.JPG
+    alt: "IMG_2172.JPG"
+  - url: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2173.JPG
+    image_path: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2173.JPG
+    alt: "IMG_2173.JPG"
+  - url: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2174.JPG
+    image_path: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2174.JPG
+    alt: "IMG_2174.JPG"
+  - url: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2175.JPG
+    image_path: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2175.JPG
+    alt: "IMG_2175.JPG"
+  - url: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2176.JPG
+    image_path: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2176.JPG
+    alt: "IMG_2176.JPG"
+  - url: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2177.JPG
+    image_path: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2177.JPG
+    alt: "IMG_2177.JPG"
+  - url: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2178.JPG
+    image_path: /assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2178.JPG
+    alt: "IMG_2178.JPG"
 ---
 
- <!--
-<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2158.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
--->
+
+<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2168.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
+
 
 
 ### Spectral Clustering in Networks: Overview and Novel Approaches
@@ -33,8 +85,8 @@ Community detection—the task of clustering the nodes of a graph into meaningfu
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jEcWYSiLkQU?si=R-NyovAX466xlHP_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
 
-<!--
+
 ### Gallery (Photos by Samantha Williams)
 
 {% include gallery id="layouts_gallery" %}
--->
+
