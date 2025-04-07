@@ -5,11 +5,36 @@ layout: single
 classes: wide
 category: 
   - Stat Cafe
+layouts_gallery:
+  - url: /assets/images/stat_cafe/Coulter_Apr_07_2025/IMG_2180.JPG
+    image_path: /assets/images/stat_cafe/Coulter_Apr_07_2025/IMG_2180.JPG
+    alt: "IMG_2180.JPG"
+  - url: /assets/images/stat_cafe/Coulter_Apr_07_2025/IMG_2181.JPG
+    image_path: /assets/images/stat_cafe/Coulter_Apr_07_2025/IMG_2181.JPG
+    alt: "IMG_2181.JPG"
+  - url: /assets/images/stat_cafe/Coulter_Apr_07_2025/IMG_2182.JPG
+    image_path: /assets/images/stat_cafe/Coulter_Apr_07_2025/IMG_2182.JPG
+    alt: "IMG_2182.JPG"
+  - url: /assets/images/stat_cafe/Coulter_Apr_07_2025/IMG_2183.JPG
+    image_path: /assets/images/stat_cafe/Coulter_Apr_07_2025/IMG_2183.JPG
+    alt: "IMG_2183.JPG"
+  - url: /assets/images/stat_cafe/Coulter_Apr_07_2025/IMG_2184.JPG
+    image_path: /assets/images/stat_cafe/Coulter_Apr_07_2025/IMG_2184.JPG
+    alt: "IMG_2184.JPG"
+  - url: /assets/images/stat_cafe/Coulter_Apr_07_2025/IMG_2185.JPG
+    image_path: /assets/images/stat_cafe/Coulter_Apr_07_2025/IMG_2185.JPG
+    alt: "IMG_2185.JPG"
+  - url: /assets/images/stat_cafe/Coulter_Apr_07_2025/IMG_2189.JPG
+    image_path: /assets/images/stat_cafe/Coulter_Apr_07_2025/IMG_2189.JPG
+    alt: "IMG_2189.JPG"
+  - url: /assets/images/stat_cafe/Coulter_Apr_07_2025/IMG_2192.JPG
+    image_path: /assets/images/stat_cafe/Coulter_Apr_07_2025/IMG_2192.JPG
+    alt: "IMG_2192.JPG"
 ---
 
-<!--
-<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Arroyo_Mar_31_2025/IMG_2168.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
--->
+
+<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Coulter_Apr_07_2025/IMG_2179.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
+
 
 
 ### fastfrechet and distQTL: New R Packages For Distributional Regression (And Bonus Topic*)
@@ -32,8 +57,8 @@ Regression methods with complex-structured responses, such as empirical distribu
 ### Recording
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4k2Cp6_qF8w?si=KPxNBAuZWUIRiC9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<!--
+
 ### Gallery (with photos by Samantha Williams)
 
 {% include gallery id="layouts_gallery" %}
--->
+
