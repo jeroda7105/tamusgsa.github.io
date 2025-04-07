@@ -28,10 +28,9 @@ Regression methods with complex-structured responses, such as empirical distribu
 <iframe src="https://drive.google.com/file/d/1tN9MfS-UIcedYkMafjpg1VxsRcSM0t8T/preview" width="640" height="480" allow="autoplay"></iframe>
 -->
 
-<!-- 
+
 ### Recording
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jEcWYSiLkQU?si=R-NyovAX466xlHP_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
--->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4k2Cp6_qF8w?si=KPxNBAuZWUIRiC9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <!--
 ### Gallery (with photos by Samantha Williams)
