@@ -43,7 +43,7 @@ layouts_gallery:
 
 
 
-<img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/workflow_workshops/Berger_Apr_08_2025/IMG_8611jpg?raw=true" alt="Header" width="315" style="float: right;"> 
+<img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/workflow_workshops/Berger_Apr_08_2025/IMG_8611.jpg?raw=true" alt="Header" width="315" style="float: right;"> 
 
 
 
