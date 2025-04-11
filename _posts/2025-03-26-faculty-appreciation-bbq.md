@@ -6,6 +6,9 @@ classes: wide
 category:
   - BBQ
 layouts_gallery:
+  - url: /assets/images/fac-app-bbq-25/Photos/IMG_9879.jpg
+    image_path: /assets/images/fac-app-bbq-25/Photos/IMG_9879.jpg
+    alt: "IMG_9879.jpg"
   - url: /assets/images/fac-app-bbq-25/Photos/Copy%20of%20IMG_0088.JPG
     image_path: /assets/images/fac-app-bbq-25/Photos/Copy%20of%20IMG_0088.JPG
     alt: "Copy of IMG_0088.JPG"
@@ -75,6 +78,27 @@ layouts_gallery:
   - url: /assets/images/fac-app-bbq-25/Photos/dce6ea71-a2ce-43f5-8d89-233aa6c8f298.JPG
     image_path: /assets/images/fac-app-bbq-25/Photos/dce6ea71-a2ce-43f5-8d89-233aa6c8f298.JPG
     alt: "dce6ea71-a2ce-43f5-8d89-233aa6c8f298.JPG"
+  - url: /assets/images/fac-app-bbq-25/Photos/IMG_9874.jpg
+    image_path: /assets/images/fac-app-bbq-25/Photos/IMG_9874.jpg
+    alt: "IMG_9874.jpg"
+  - url: /assets/images/fac-app-bbq-25/Photos/IMG_9875.jpg
+    image_path: /assets/images/fac-app-bbq-25/Photos/IMG_9875.jpg
+    alt: "IMG_9875.jpg"
+  - url: /assets/images/fac-app-bbq-25/Photos/IMG_9876.jpg
+    image_path: /assets/images/fac-app-bbq-25/Photos/IMG_9876.jpg
+    alt: "IMG_9876.jpg"
+  - url: /assets/images/fac-app-bbq-25/Photos/IMG_9880.jpg
+    image_path: /assets/images/fac-app-bbq-25/Photos/IMG_9880.jpg
+    alt: "IMG_9880.jpg"
+  - url: /assets/images/fac-app-bbq-25/Photos/IMG_9884.jpg
+    image_path: /assets/images/fac-app-bbq-25/Photos/IMG_9884.jpg
+    alt: "IMG_9884.jpg"
+  - url: /assets/images/fac-app-bbq-25/Photos/IMG_9885.jpg
+    image_path: /assets/images/fac-app-bbq-25/Photos/IMG_9885.jpg
+    alt: "IMG_9885.jpg"
+  - url: /assets/images/fac-app-bbq-25/Photos/IMG_9886.jpg
+    image_path: /assets/images/fac-app-bbq-25/Photos/IMG_9886.jpg
+    alt: "IMG_9886.jpg"
 ---
 
 
