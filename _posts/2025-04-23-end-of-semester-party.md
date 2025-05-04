@@ -104,8 +104,8 @@ Food and refreshments will be provided. If you plan to attend, please RSVP by Fr
 
 
 
-<!--
+
 ### Gallery 
 {% include gallery id="layouts_gallery" %}
--->
+
 
