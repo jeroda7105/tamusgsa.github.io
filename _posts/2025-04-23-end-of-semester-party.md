@@ -3,7 +3,7 @@ title: "Spring 2025 End of Semester Party"
 layout: single
 classes: wide
 category:
-  - Other
+  - Game Night
 ---
 
 We’re almost at the finish line for this semester – let’s make the last day memorable! SGSA is thrilled to invite you to our End-of-Semester Party, happening on Tuesday, April 29, from 1:00 – 3:00 PM in the Fisher Bowl. We are planning for an exciting afternoon filled with lots of board games, trivia, and fun! 🎊😊
