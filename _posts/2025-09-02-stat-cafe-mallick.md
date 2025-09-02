@@ -29,8 +29,6 @@ Moreover, models can be highly useful, particularly when they provide insights o
 
 ### Our Speaker
 
-Our Speaker
-
 Dr. Bani K. Mallick is a Distinguished Professor, Regents Professor and Susan M. Arseven`75 Chair in Data Science and Computational Statistics in the Department of Statistics at Texas A&M University in College Station. He is the Director of the NSF TRIPODS Institute of Data science and the 
 Center for Statistical Bioinformatics. Dr. Mallick is well known for his contribution to the theory and practice of Bayesian Semiparametric methods and Uncertainty Quantification. He is an elected fellow of American Association for the Advancement of Science, American Statistical Association, Institute of Mathematical Statistics, International Statistical Institute and the Royal Statistical Society. He received the Distinguished research awards, Distinguished graduate student Mentoring award from Texas A&M University and the Young Researcher award from the International Indian Statistical 
 Association. Mallick’s areas of research include semiparametric classification and regression, hierarchical spatial modeling, inverse problem, uncertainty quantification and Bioinformatics. He has 
