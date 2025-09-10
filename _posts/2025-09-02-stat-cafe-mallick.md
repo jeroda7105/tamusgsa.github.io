@@ -18,7 +18,7 @@ layouts_gallery:
 ---
 
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Mallick_Sept_09_2025/IMG_0121.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
+<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Mallick_Sept_09_2025/IMG_0121.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
 
 
 
