@@ -23,7 +23,25 @@ layouts_gallery:
 -->
 
 
-### Fellowship Applications
+### Resources
+
+- [2025 NSF GRFP Webpage](<https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program>)
+
+- [Alex Lang Webpage: Statements from Previously Funded Applications](<https://www.alexhunterlang.com/nsf-fellowship>)
+
+- Advice from Previous Winners: 
+  - https://grad.msu.edu/sites/default/files/content/events/GRFP-advice.pdf
+  - https://web.archive.org/web/20240117135348/http://www.malloryladd.com/nsf-grfp-advice.html
+  - https://tsafavi.github.io/nsf-grfp.html
+
+
+### Presentations 
+
+<iframe src="https://drive.google.com/file/d/1gg4RG8AZG-IYl0a0tFPfUXdtAIclwh4Q/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
+<iframe src="https://drive.google.com/file/d/1NRn8Hhfiz8cRcyrUkj3MF5iwE8X5rSme/preview" width="640" height="480" allow="autoplay"></iframe>
+
 
 ### Summary
 
@@ -97,26 +115,6 @@ Whenever they release the solicitation make sure to read it because they will ha
 
 Do you mind reviewing this/ adding this to the website?
 Maybe we can get rid of the date the workshop was held (since it's different every year) and circulate our website link every year during the application season.
-
-### Resources
-
-- [2025 NSF GRFP Webpage](<https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program>)
-
-- [Alex Lang Webpage: Statements from Previously Funded Applications](<https://www.alexhunterlang.com/nsf-fellowship>)
-
-- Advice from Previous Winners: 
-  - https://grad.msu.edu/sites/default/files/content/events/GRFP-advice.pdf
-  - https://web.archive.org/web/20240117135348/http://www.malloryladd.com/nsf-grfp-advice.html
-  - https://tsafavi.github.io/nsf-grfp.html
-
-
-### Presentations 
-
-<iframe src="https://drive.google.com/file/d/1gg4RG8AZG-IYl0a0tFPfUXdtAIclwh4Q/preview" width="640" height="480" allow="autoplay"></iframe>
-
-
-<iframe src="https://drive.google.com/file/d/1NRn8Hhfiz8cRcyrUkj3MF5iwE8X5rSme/preview" width="640" height="480" allow="autoplay"></iframe>
-
 
 
 
