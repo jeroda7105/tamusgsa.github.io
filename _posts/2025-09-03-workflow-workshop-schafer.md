@@ -67,9 +67,9 @@ Deadline
 
 October 30th, 2025 (letters of recommendation due ~ 2 weeks later) 
 
-https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program
+<https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program>
 
-Eligibility: https://www.nsf.gov/funding/information/faq-graduate-research-fellowship-program-grfp/nsf23-154#question-2 
+Eligibility: <https://www.nsf.gov/funding/information/faq-graduate-research-fellowship-program-grfp/nsf23-154#question-2> 
 
 Application Package 
 
