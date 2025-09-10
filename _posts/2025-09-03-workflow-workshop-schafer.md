@@ -108,13 +108,10 @@ If you need help with coming up ideas for research project, ask your recommender
 
 Have your recommenders or faculties review your statements (Dr. Schafer is happy to review your material). 
 
-Dr. Vidakovic (brani@stat.tamu.edu) will be a good person to talk to, because he was the director of Math and Science for NSF.  
+Dr. Vidakovic (brani@stat.tamu.edu) will be a good person to talk to, because he was a program director for Math and Physical Sciences at the NSF.  
 
 Whenever they release the solicitation make sure to read it because they will have all the standards for the applications.  
 
-
-Do you mind reviewing this/ adding this to the website?
-Maybe we can get rid of the date the workshop was held (since it's different every year) and circulate our website link every year during the application season.
 
 
 
