@@ -30,9 +30,9 @@ layouts_gallery:
 - [Alex Lang Webpage: Statements from Previously Funded Applications](<https://www.alexhunterlang.com/nsf-fellowship>)
 
 - Advice from Previous Winners: 
-  - https://grad.msu.edu/sites/default/files/content/events/GRFP-advice.pdf
-  - https://web.archive.org/web/20240117135348/http://www.malloryladd.com/nsf-grfp-advice.html
-  - https://tsafavi.github.io/nsf-grfp.html
+  - <https://grad.msu.edu/sites/default/files/content/events/GRFP-advice.pdf>
+  - <https://web.archive.org/web/20240117135348/http://www.malloryladd.com/nsf-grfp-advice.html>
+  - <https://tsafavi.github.io/nsf-grfp.html>
 
 
 ### Presentations 
