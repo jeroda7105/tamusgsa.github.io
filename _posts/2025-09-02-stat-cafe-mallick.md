@@ -5,11 +5,21 @@ layout: single
 classes: wide
 category: 
   - Stat Cafe
+layouts_gallery:
+  - url: /assets/images/stat_cafe/Mallick_Sept_09_2025/IMG_0127.JPG
+    image_path: /assets/images/stat_cafe/Mallick_Sept_09_2025/IMG_0127.JPG
+    alt: "IMG_0127.JPG"
+  - url: /assets/images/stat_cafe/Mallick_Sept_09_2025/Untitled-design.JPG
+    image_path: /assets/images/stat_cafe/Mallick_Sept_09_2025/Untitled-design.JPG
+    alt: "Untitled-design.JPG"
+  - url: /assets/images/stat_cafe/Mallick_Sept_09_2025/Untitled-design-2.JPG
+    image_path: /assets/images/stat_cafe/Mallick_Sept_09_2025/Untitled-design-2.JPG
+    alt: "Untitled-design-2.JPG"
 ---
 
-<!--
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Lee_Apr_14_2025/IMG_2229.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
--->
+
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Mallick_Sept_09_2025/IMG_0121.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
+
 
 
 ### Bayesian Local Models Using Partitions
@@ -45,8 +55,8 @@ coauthored or co-edited six books and more than 200 research articles.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4k2Cp6_qF8w?si=KPxNBAuZWUIRiC9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
 
-<!--
-### Gallery (with photos by Samantha Williams)
+
+### Gallery
 
 {% include gallery id="layouts_gallery" %}
--->
+
