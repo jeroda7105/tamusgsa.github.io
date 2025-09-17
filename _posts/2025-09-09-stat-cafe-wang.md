@@ -5,11 +5,21 @@ layout: single
 classes: wide
 category: 
   - Stat Cafe
+layouts_gallery:
+  - url: /assets/images/stat_cafe/Wang_Sept_16_2025/IMG_5808.jpg
+    image_path: /assets/images/stat_cafe/Wang_Sept_16_2025/IMG_5808.jpg
+    alt: "IMG_5808.jpg"
+  - url: /assets/images/stat_cafe/Wang_Sept_16_2025/IMG_5811.jpg
+    image_path: /assets/images/stat_cafe/Wang_Sept_16_2025/IMG_5811.jpg
+    alt: "IMG_5811.jpg"
+  - url: /assets/images/stat_cafe/Wang_Sept_16_2025/IMG_5813.jpg
+    image_path: /assets/images/stat_cafe/Wang_Sept_16_2025/IMG_5813.jpg
+    alt: "IMG_5813.jpg"
 ---
 
-<!--
-<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Lee_Apr_14_2025/IMG_2229.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
--->
+
+<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Wang_Sept_16_2025/IMG_5806.jpg?raw=true" alt="Header" width="315" style="float: right;"/> 
+
 
 
 ### Statistical Methods for Spatial and Imaging Data
@@ -42,8 +52,8 @@ Dr. Jade (Xiaoqing) Wang is an Assistant Professor of Statistics who joined this
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4k2Cp6_qF8w?si=KPxNBAuZWUIRiC9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
 
-<!--
-### Gallery (with photos by Samantha Williams)
+
+### Gallery
 
 {% include gallery id="layouts_gallery" %}
--->
+
