@@ -6,19 +6,19 @@ classes: wide
 category: 
   - Stat Cafe
 layouts_gallery:
-  - url: /assets/images/stat_cafe/Mallick_Sept_09_2025/IMG_0127.JPG
-    image_path: /assets/images/stat_cafe/Mallick_Sept_09_2025/IMG_0127.JPG
-    alt: "IMG_0127.JPG"
-  - url: /assets/images/stat_cafe/Mallick_Sept_09_2025/Untitled-design.JPG
-    image_path: /assets/images/stat_cafe/Mallick_Sept_09_2025/Untitled-design.JPG
-    alt: "Untitled-design.JPG"
-  - url: /assets/images/stat_cafe/Mallick_Sept_09_2025/Untitled-design-2.JPG
-    image_path: /assets/images/stat_cafe/Mallick_Sept_09_2025/Untitled-design-2.JPG
-    alt: "Untitled-design-2.JPG"
+  - url: /assets/images/stat_cafe/Mallick_Sept_09_2025/Photo1.JPG
+    image_path: /assets/images/stat_cafe/Mallick_Sept_09_2025/Photo1.JPG
+    alt: "Photo1.JPG"
+  - url: /assets/images/stat_cafe/Mallick_Sept_09_2025/Photo2.JPG
+    image_path: /assets/images/stat_cafe/Mallick_Sept_09_2025/Photo2.JPG
+    alt: "Photo2.JPG"
+  - url: /assets/images/stat_cafe/Mallick_Sept_09_2025/Photo4.JPG
+    image_path: /assets/images/stat_cafe/Mallick_Sept_09_2025/Photo4.JPG
+    alt: "Photo4.JPG"
 ---
 
 
-<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Mallick_Sept_09_2025/IMG_0121.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
+<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Mallick_Sept_09_2025/Photo3.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
 
 
 
