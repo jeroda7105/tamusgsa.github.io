@@ -1,5 +1,5 @@
 ---
-title: "Meet the Professors: Coffee Chat, 10-2-2025"
+title: "Meet the Professors: Coffee Chat, 10/2/25"
 excerpt: "Meet the Professors: Coffee Chat"
 layout: single
 classes: wide
