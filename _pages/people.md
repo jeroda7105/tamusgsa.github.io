@@ -43,6 +43,8 @@ p {font-size: 22px;}
 <img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/sgsa-officers/individual_officers_2025/raymond_portrait.jpg" alt="Raymond" width="200"/> <br>
 <p> Secretary - Raymond Hinton (rhinton@tamu.edu) </p> 
 
+<img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/sgsa-officers/individual_officers_2025/carrie_portrait.jpg" alt="Carrie" width="200"/> <br>
+<p> Treasurer - Carrie Lei (jlei@tamu.edu) </p> 
 
 <img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/sgsa-officers/individual_officers_2025/zachary_portrait.jpg" alt="Zachary" width="200"/> <br>
 <p> Social Chair - Zachary Mackin (zachmackin@tamu.edu) </p> 
