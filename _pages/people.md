@@ -31,7 +31,7 @@ p {font-size: 22px;}
 
 <br>
 
-### 2024 - 2025 SGSA Officers
+### 2025 - 2026 SGSA Officers
 
 <div>
 <img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/sgsa-officers/individual_officers_2025/rebecca_portrait.JPG" alt="Rebecca" width="200"/> <br>
