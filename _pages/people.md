@@ -56,7 +56,7 @@ p {font-size: 22px;}
 <img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/sgsa-officers/individual_officers_2025/minjee_portrait.JPG" alt="Minjee" width="200"/> <br>
 <p> Workflow Workshop Organizer - Minjee Kim (minjeekim0804@tamu.edu) </p> 
 
-<img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/sgsa-officers/individual_officers_2025/jose_portrait.JPG" alt="Jose" width="200"/> <br>
+<img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/sgsa-officers/individual_officers_2025/jose_portrait.jpg" alt="Jose" width="200"/> <br>
 <p> Web Designer - Jose Rodriguez-Acosta (jeroda7105@tamu.edu) </p> 
 
 <img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/sgsa-officers/individual_officers_2025/linkedin_andros.jpg" alt="Jacob" width="200"/> <br>
