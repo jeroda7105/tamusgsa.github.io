@@ -6,7 +6,7 @@ hidden: true
 classes: wide
 header:
   overlay_color: "#ffffff"
-  overlay_image: /assets/images/sgsa-officers/officers2025.jpg
+  overlay_image: /assets/images/sgsa-officers/officers2025new.jpg
 ---
 
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
