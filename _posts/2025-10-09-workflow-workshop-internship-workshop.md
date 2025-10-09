@@ -29,7 +29,8 @@ Our panelists will share what the application process was like, what kind of pro
 - 4:00-4:20 Introductions
 - 4:20-4:40 General Q&A 
 - 4:40-5:00 Individual breakout with panelists 
-- The first half will cover their internship experiences and key lessons to success. In the second half, you'll get the chance to speak with each panelist one-on-one. Bring your resume or questions for personalized feedback! 
+
+The first half will cover their internship experiences and key lessons to success. In the second half, you'll get the chance to speak with each panelist one-on-one. Bring your resume or questions for personalized feedback! 
 
 <!--
 ### Materials
