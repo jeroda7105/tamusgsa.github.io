@@ -5,11 +5,25 @@ layout: single
 classes: wide
 category: 
   - Stat Cafe
+layouts_gallery:
+  - url: /assets/images/stat_cafe/Dey_Sept_23_2025/IMG_3147.JPG
+    image_path: /assets/images/stat_cafe/Dey_Sept_23_2025/IMG_3147.JPG
+    alt: "IMG_3147.JPG"
+  - url: /assets/images/stat_cafe/Dey_Sept_23_2025/IMG_3151.JPG
+    image_path: /assets/images/stat_cafe/Dey_Sept_23_2025/IMG_3151.JPG
+    alt: "IMG_3151.JPG"
+  - url: /assets/images/stat_cafe/Dey_Sept_23_2025/IMG_3160.JPG
+    image_path: /assets/images/stat_cafe/Dey_Sept_23_2025/IMG_3160.JPG
+    alt: "IMG_3160.JPG"
+  - url: /assets/images/stat_cafe/Dey_Sept_23_2025/IMG_3170.JPG
+    image_path: /assets/images/stat_cafe/Dey_Sept_23_2025/IMG_3170.JPG
+    alt: "IMG_3170.JPG"
+  - url: /assets/images/stat_cafe/Dey_Sept_23_2025/IMG_3181.JPG
+    image_path: /assets/images/stat_cafe/Dey_Sept_23_2025/IMG_3181.JPG
+    alt: "IMG_3181.JPG"
 ---
 
-<!--
-<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Mallick_Sept_09_2025/IMG_0121.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
--->
+<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Dey_Sept_23_2025/IMG_3166.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
 
 
 ### Innovations in Multivariate Stochastic Processes: Bridging Environment and Digital Health
@@ -41,8 +55,8 @@ Dr. Debangan Dey is an Assistant Professor in the Department of Statistics at Te
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4k2Cp6_qF8w?si=KPxNBAuZWUIRiC9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
 
-<!--
+
 ### Gallery
 
 {% include gallery id="layouts_gallery" %}
--->
+
