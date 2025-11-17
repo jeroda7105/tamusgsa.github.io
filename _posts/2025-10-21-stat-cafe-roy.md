@@ -5,11 +5,36 @@ layout: single
 classes: wide
 category: 
   - Stat Cafe
+layouts_gallery:
+  - url: /assets/images/stat_cafe/Roy_Oct_28_2025/IMG_3344.JPG
+    image_path: /assets/images/stat_cafe/Roy_Oct_28_2025/IMG_3344.JPG
+    alt: "IMG_3344.JPG"
+  - url: /assets/images/stat_cafe/Roy_Oct_28_2025/IMG_3348.JPG
+    image_path: /assets/images/stat_cafe/Roy_Oct_28_2025/IMG_3348.JPG
+    alt: "IMG_3348.JPG"
+  - url: /assets/images/stat_cafe/Roy_Oct_28_2025/IMG_3351.JPG
+    image_path: /assets/images/stat_cafe/Roy_Oct_28_2025/IMG_3351.JPG
+    alt: "IMG_3351.JPG"
+  - url: /assets/images/stat_cafe/Roy_Oct_28_2025/IMG_3352.JPG
+    image_path: /assets/images/stat_cafe/Roy_Oct_28_2025/IMG_3352.JPG
+    alt: "IMG_3352.JPG"
+  - url: /assets/images/stat_cafe/Roy_Oct_28_2025/IMG_3355.JPG
+    image_path: /assets/images/stat_cafe/Roy_Oct_28_2025/IMG_3355.JPG
+    alt: "IMG_3355.JPG"
+  - url: /assets/images/stat_cafe/Roy_Oct_28_2025/IMG_3356.JPG
+    image_path: /assets/images/stat_cafe/Roy_Oct_28_2025/IMG_3356.JPG
+    alt: "IMG_3356.JPG"
+  - url: /assets/images/stat_cafe/Roy_Oct_28_2025/IMG_3359.JPG
+    image_path: /assets/images/stat_cafe/Roy_Oct_28_2025/IMG_3359.JPG
+    alt: "IMG_3359.JPG"
+  - url: /assets/images/stat_cafe/Roy_Oct_28_2025/IMG_3366.JPG
+    image_path: /assets/images/stat_cafe/Roy_Oct_28_2025/IMG_3366.JPG
+    alt: "IMG_3366.JPG"
 ---
 
-<!--
-<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Sinha_Sept_30_2025/20250930_112253.jpg?raw=true" alt="Header" width="315" style="float: right;"/> 
--->
+
+<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Roy_Oct_28_2025/IMG_3361.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
+
 
 
 ### Bayesian Symbolic Trees for Structural Learning of Scientific Expressions

@@ -5,11 +5,29 @@ layout: single
 classes: wide
 category: 
   - Stat Cafe
+layouts_gallery:
+  - url: /assets/images/stat_cafe/Dey_Oct_21_2025/IMG_3327.JPG
+    image_path: /assets/images/stat_cafe/Dey_Oct_21_2025/IMG_3327.JPG
+    alt: "IMG_3327.JPG"
+  - url: /assets/images/stat_cafe/Dey_Oct_21_2025/IMG_3329.JPG
+    image_path: /assets/images/stat_cafe/Dey_Oct_21_2025/IMG_3329.JPG
+    alt: "IMG_3329.JPG"
+  - url: /assets/images/stat_cafe/Dey_Oct_21_2025/IMG_3331.JPG
+    image_path: /assets/images/stat_cafe/Dey_Oct_21_2025/IMG_3331.JPG
+    alt: "IMG_3331.JPG"
+  - url: /assets/images/stat_cafe/Dey_Oct_21_2025/IMG_3336.JPG
+    image_path: /assets/images/stat_cafe/Dey_Oct_21_2025/IMG_3336.JPG
+    alt: "IMG_3336.JPG"
+  - url: /assets/images/stat_cafe/Dey_Oct_21_2025/IMG_3339.JPG
+    image_path: /assets/images/stat_cafe/Dey_Oct_21_2025/IMG_3339.JPG
+    alt: "IMG_3339.JPG"
+  - url: /assets/images/stat_cafe/Dey_Oct_21_2025/IMG_3341.JPG
+    image_path: /assets/images/stat_cafe/Dey_Oct_21_2025/IMG_3341.JPG
+    alt: "IMG_3341.JPG"
 ---
 
-<!--
-<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Sinha_Sept_30_2025/20250930_112253.jpg?raw=true" alt="Header" width="315" style="float: right;"/> 
--->
+
+<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Dey_Oct_21_2025/IMG_3326.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
 
 
 ### TAVIE: A General Tangent Approximation Framework for Strongly Super-Gaussian Likelihoods
@@ -42,8 +60,8 @@ Dr. Pritam Dey is a Postdoctoral Researcher in the Department of Statistics at T
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4k2Cp6_qF8w?si=KPxNBAuZWUIRiC9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
 
-<!--
+
 ### Gallery
 
 {% include gallery id="layouts_gallery" %}
--->
+
