@@ -65,8 +65,8 @@ Somjit Roy is pursuing his doctoral degree in Statistics at Texas A&M University
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4k2Cp6_qF8w?si=KPxNBAuZWUIRiC9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
 
-<!--
+
 ### Gallery
 
 {% include gallery id="layouts_gallery" %}
--->
+
