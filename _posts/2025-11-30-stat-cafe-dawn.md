@@ -5,11 +5,33 @@ layout: single
 classes: wide
 category: 
   - Stat Cafe
+layouts_gallery:
+  - url: /assets/images/stat_cafe/Dawn_Dec_02_2025/IMG_0236.JPEG
+    image_path: /assets/images/stat_cafe/Dawn_Dec_02_2025/IMG_0236.JPEG
+    alt: "IMG_0236.JPEG"
+  - url: /assets/images/stat_cafe/Dawn_Dec_02_2025/IMG_0243.JPEG
+    image_path: /assets/images/stat_cafe/Dawn_Dec_02_2025/IMG_0243.JPEG
+    alt: "IMG_0243.JPEG"
+  - url: /assets/images/stat_cafe/Dawn_Dec_02_2025/IMG_0248.JPEG
+    image_path: /assets/images/stat_cafe/Dawn_Dec_02_2025/IMG_0248.JPEG
+    alt: "IMG_0248.JPEG"
+  - url: /assets/images/stat_cafe/Dawn_Dec_02_2025/IMG_0249.JPEG
+    image_path: /assets/images/stat_cafe/Dawn_Dec_02_2025/IMG_0249.JPEG
+    alt: "IMG_0249.JPEG"
+  - url: /assets/images/stat_cafe/Dawn_Dec_02_2025/20251202_112051.jpg
+    image_path: /assets/images/stat_cafe/Dawn_Dec_02_2025/20251202_112051.jpg
+    alt: "20251202_112051.jpg"
+  - url: /assets/images/stat_cafe/Dawn_Dec_02_2025/20251202_112113.jpg
+    image_path: /assets/images/stat_cafe/Dawn_Dec_02_2025/20251202_112113.jpg
+    alt: "20251202_112113.jpg"
+  - url: /assets/images/stat_cafe/Dawn_Dec_02_2025/20251202_112123.jpg
+    image_path: /assets/images/stat_cafe/Dawn_Dec_02_2025/20251202_112123.jpg
+    alt: "20251202_112123.jpg"
 ---
 
-<!--
-<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Sinha_Sept_30_2025/20250930_112253.jpg?raw=true" alt="Header" width="315" style="float: right;"/> 
--->
+
+<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Dawn_Dec_02_2025/IMG_0238.JPEG?raw=true" alt="Header" width="315" style="float: right;"/> 
+
 
 
 ### Covariate-assisted graph matching
@@ -43,8 +65,8 @@ Trisha Dawn is currently a doctoral candidate at the Department of Statistics at
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4k2Cp6_qF8w?si=KPxNBAuZWUIRiC9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
 
-<!--
+
 ### Gallery
 
 {% include gallery id="layouts_gallery" %}
--->
+
