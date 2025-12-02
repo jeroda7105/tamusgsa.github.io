@@ -1,6 +1,6 @@
 ---
-title: "Meet the Professors: Coffee Chat, 10/2/25"
-excerpt: "Meet the Professors: Coffee Chat"
+title: "Meet the Professors: Coffee Chat"
+excerpt: "Meet the Professors: Coffee Chat, 10/2/25"
 layout: single
 classes: wide
 category:
