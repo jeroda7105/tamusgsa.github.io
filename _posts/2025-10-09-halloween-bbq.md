@@ -5,9 +5,9 @@ classes: wide
 category:
   - BBQ
 layouts_gallery:
-- url: /assets/images/halloween-bbq-25/1000011242.jpg
-  image_path: /assets/images/halloween-bbq-25/1000011242.jpg
-  alt: "1000011242.jpg"
+  - url: /assets/images/halloween-bbq-25/1000011242.jpg
+    image_path: /assets/images/halloween-bbq-25/1000011242.jpg
+    alt: "1000011242.jpg"
 ---
 
 <!--
