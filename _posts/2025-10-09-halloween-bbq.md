@@ -4,6 +4,10 @@ layout: single
 classes: wide
 category:
   - BBQ
+layouts_gallery:
+- url: /assets/images/halloween-bbq-25/1000011242.jpg
+  image_path: /assets/images/halloween-bbq-25/1000011242.jpg
+  alt: "1000011242.jpg"
 ---
 
 <!--
@@ -19,9 +23,9 @@ Please RSVP using this [form](<https://urldefense.com/v3/__https://forms.gle/kcJ
 If you have any questions or special requests, please don’t hesitate to let us know. We will serve BBQ, but the amount of food will depend on the number of responses.
 
 
-<!--
+
 ### Gallery 
 
 {% include gallery id="layouts_gallery" %}
--->
+
 
