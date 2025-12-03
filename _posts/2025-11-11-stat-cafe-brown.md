@@ -5,11 +5,21 @@ layout: single
 classes: wide
 category: 
   - Stat Cafe
+layouts_gallery:
+  - url: /assets/images/stat_cafe/Brown_Nov_18_2025/IMG_2523.jpg
+    image_path: /assets/images/stat_cafe/Brown_Nov_18_2025/IMG_2523.jpg
+    alt: "IMG_2523.jpg"
+  - url: /assets/images/stat_cafe/Brown_Nov_18_2025/IMG_2524.jpg
+    image_path: /assets/images/stat_cafe/Brown_Nov_18_2025/IMG_2524.jpg
+    alt: "IMG_2524.jpg"
+  - url: /assets/images/stat_cafe/Brown_Nov_18_2025/IMG_2526.jpg
+    image_path: /assets/images/stat_cafe/Brown_Nov_18_2025/IMG_2526.jpg
+    alt: "IMG_2526.jpg"
 ---
 
-<!--
-<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Sinha_Sept_30_2025/20250930_112253.jpg?raw=true" alt="Header" width="315" style="float: right;"/> 
--->
+
+<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Brown_Nov_18_2025/IMG_2525.jpg?raw=true" alt="Header" width="315" style="float: right;"/> 
+
 
 
 ### Some Applications of Optimal Transport to Markov Chain Monte Carlo
@@ -40,8 +50,8 @@ Dr. Austin Brown is an Assistant Professor in the Department of Statistics at Te
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4k2Cp6_qF8w?si=KPxNBAuZWUIRiC9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
 
-<!--
+
 ### Gallery
 
 {% include gallery id="layouts_gallery" %}
--->
+
