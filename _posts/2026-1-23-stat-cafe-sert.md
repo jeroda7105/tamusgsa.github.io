@@ -20,7 +20,7 @@ category:
 
 [RSVP Link](<https://urldefense.com/v3/__https://forms.gle/Rmbx5GyJYW8B1f9XA__;!!KwNVnqRv!ETis6dIWWt9bFVr58y9gnjUVlokRzGo8uMP-uMQFKgUT77H5fCps44jPKoq0AfzJeU8LrsdhnfEKSNG9gjA0$>)
 
-[Zoom Link](<https://tamu.zoom.us/j/91033644108>)
+[Zoom Link](<https://tamu.zoom.us/j/96802422915>)
 
 ### Description
 
