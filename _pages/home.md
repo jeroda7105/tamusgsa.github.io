@@ -38,7 +38,7 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
 ### Upcoming Events
 
-- [1/28/26: Stat Cafe - Gözde Sert](<https://jeroda7105.github.io/tamusgsa.github.io/stat%20cafe/2026/1/23/stat-cafe-sert/>)
+- [1/28/26: Stat Cafe - Gözde Sert](<https://jeroda7105.github.io/tamusgsa.github.io/stat%20cafe/2026/01/23/stat-cafe-sert/>)
 
 
 <!--
