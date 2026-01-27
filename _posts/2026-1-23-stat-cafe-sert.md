@@ -14,8 +14,8 @@ category:
 
 ### Bayesian Semiparametric Causal Inference: Targeted Doubly Robust Estimation of Treatment Effects
 
-- Time: Wednesday 1/28/2026 from 12:30PM to 1:30 PM
-- Location: BLOC 457
+- Time: Friday, 1/30/2026 from 3:10PM to 4:30PM
+- Location: BLOC 448
 
 
 [RSVP Link](<https://urldefense.com/v3/__https://forms.gle/Rmbx5GyJYW8B1f9XA__;!!KwNVnqRv!ETis6dIWWt9bFVr58y9gnjUVlokRzGo8uMP-uMQFKgUT77H5fCps44jPKoq0AfzJeU8LrsdhnfEKSNG9gjA0$>)
