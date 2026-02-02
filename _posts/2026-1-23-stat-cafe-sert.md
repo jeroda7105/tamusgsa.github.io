@@ -5,11 +5,41 @@ layout: single
 classes: wide
 category: 
   - Stat Cafe
+layouts_gallery:
+  - url: /assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3375.JPG
+    image_path: /assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3375.JPG
+    alt: "IMG_3375.JPG"
+  - url: /assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3440.JPG
+    image_path: /assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3440.JPG
+    alt: "IMG_3440.JPG"
+  - url: /assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3435.JPG
+    image_path: /assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3435.JPG
+    alt: "IMG_3435.JPG"
+  - url: /assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3432.JPG
+    image_path: /assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3432.JPG
+    alt: "IMG_3432.JPG"
+  - url: /assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3432.JPG
+    image_path: /assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3432.JPG
+    alt: "IMG_3432.JPG"
+  - url: /assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3422.JPG
+    image_path: /assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3422.JPG
+    alt: "IMG_3422.JPG"
+  - url: /assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3415.JPG
+    image_path: /assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3415.JPG
+    alt: "IMG_3415.JPG"
+  - url: /assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3402.JPG
+    image_path: /assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3402.JPG
+    alt: "IMG_3402.JPG"
+  - url: /assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3398.JPG
+    image_path: /assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3398.JPG
+    alt: "IMG_3398.JPG"
+  - url: /assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3378.JPG
+    image_path: /assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3378.JPG
+    alt: "IMG_3378.JPG"
 ---
 
-<!--
-<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Dawn_Dec_02_2025/IMG_0238.JPEG?raw=true" alt="Header" width="315" style="float: right;"/> 
--->
+
+<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3426.JPG?raw=true" alt="Header" width="250" style="float: right;"/> 
 
 
 ### Bayesian Semiparametric Causal Inference: Targeted Doubly Robust Estimation of Treatment Effects
@@ -42,8 +72,8 @@ Gözde Sert is a Ph.D. candidate in Statistics at Texas A&M University, advised 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4k2Cp6_qF8w?si=KPxNBAuZWUIRiC9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
 
-<!--
+
 ### Gallery
 
 {% include gallery id="layouts_gallery" %}
--->
+
