@@ -1,14 +1,14 @@
 ---
 permalink: /tutoring/
-title: "Tutoring"
-layout: default
+title: "Tutors"
+layout: single
 author_profile: true
 classes: wide
 ---
 
 
 
-# Tutors
+
 
 Name | Email Address | Course Level(s) Open to Tutoring | Courses Especially Willing to Tutor | Available for Tutoring In-person or over Zoom |
 |----------|----------|----------|----------|----------|
