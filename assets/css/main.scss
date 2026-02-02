@@ -16,16 +16,18 @@ search: false
 }
 
 /* neutralize W3CSS fonts */
-html, body {
+.page__content {
   font-family: inherit;
   font-size: inherit;
 }
 
-.w3-button,
-.w3-container,
-.w3-content,
-.w3-panel {
-  font-family: inherit;
-  font-size: inherit;
+.page__content .w3-container,
+.page__content .w3-content,
+.page__content .w3-panel,
+.page__content .w3-button {
+  font-family: inherit !important;
+  font-size: inherit !important;
 }
+
+
 

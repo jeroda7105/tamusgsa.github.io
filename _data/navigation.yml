@@ -6,6 +6,8 @@ main:
     url: /people/
   - title: "Events"
     url: /events/
+  - title: "Tutoring"
+    url: /tutoring/
   - title: "Calendar"
     url: /calendar/
   - title: "About"

@@ -42,11 +42,11 @@ classes: wide
 # Tutoring
 
 
-| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
+| Email Address | Name | Column 3 | Column 4 | Column 5 |
 |----------|----------|----------|----------|----------|
-| Row 1 A  | Row 1 B  | Row 1 C  | Row 1 C  | Row 1 C  |
-| Row 2 A  | Row 2 B  | Row 2 C  | Row 1 C  | Row 1 C  |
-| Row 2 A  | Row 2 B  | Row 2 C  | Row 1 C  | Row 1 C  |
+| rrkulkarni@tamu.edu  | Radhika Kulkarni | Row 1 C  | Row 1 C  | Row 1 C  |
+| mell@stat.tamu.edu  | Madison Ell  | Row 2 C  | Row 1 C  | Row 1 C  |
+| eric2018@tamu.edu  | Eric Gao  | Row 2 C  | Row 1 C  | Row 1 C  |
 
 
 
