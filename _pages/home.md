@@ -11,13 +11,15 @@ header:
 
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <style>
-h1{font-size:64px;}
-h2{font-size:48px;}
-h3{font-size:40px;}
-h4{font-size:30px;}
-h5{font-size:26px;}
-h6 {font-size: 24px;}
-p {font-size: 22px;}
+h1{font-size:36px;}
+h2{font-size:32px;}
+h3{font-size:28px;}
+h4{font-size:24px;}
+h5{font-size:22px;}
+h6 {font-size: 20px;}
+p {font-size: 20px;}
+a {font-size: 22px}
+body {font-size: 20px}
 .mySlides1 {display:none}
 .mySlides2 {display:none}
 .w3-left, .w3-right, .w3-badge {cursor:pointer}
@@ -84,7 +86,7 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 </div>
 -->
 
-# Past Events
+### Past Events
 
 <div class="w3-content w3-display-container" style="width:60%">
   <img class="mySlides2" src="https://jeroda7105.github.io/tamusgsa.github.io\assets\images\fac-app-bbq-24\PXL_20240413_225929466_MP.jpg?raw=true" height="25">
