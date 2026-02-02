@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/sgsa_logos/sgsa_logo_1.png
 ---
 
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
 <style>
 .mySlides1 {display:none}
 .mySlides2 {display:none}
