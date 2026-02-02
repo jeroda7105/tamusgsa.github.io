@@ -1,6 +1,6 @@
 ---
 title: "Stat Cafe - Michael Price"
-excerpt: "Stationary Point Constrained Inference via DIffeomorphisms"
+excerpt: "Stationary Point Constrained Inference via Diffeomorphisms"
 layout: single
 classes: wide
 category: 
@@ -12,7 +12,7 @@ category:
 -->
 
 
-### Stationary Point Constrained Inference via DIffeomorphisms
+### Stationary Point Constrained Inference via Diffeomorphisms
 
 - Time: Thursday, 2/5/2026 from 2:10PM to 3:30PM
 - Location: BLOC 457
