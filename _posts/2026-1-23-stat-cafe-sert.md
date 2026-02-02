@@ -18,9 +18,9 @@ layouts_gallery:
   - url: /assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3432.JPG
     image_path: /assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3432.JPG
     alt: "IMG_3432.JPG"
-  - url: /assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3432.JPG
-    image_path: /assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3432.JPG
-    alt: "IMG_3432.JPG"
+  - url: /assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3424.JPG
+    image_path: /assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3424.JPG
+    alt: "IMG_3424.JPG"
   - url: /assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3422.JPG
     image_path: /assets/images/stat_cafe/Sert_Jan_30_2026/IMG_3422.JPG
     alt: "IMG_3422.JPG"
