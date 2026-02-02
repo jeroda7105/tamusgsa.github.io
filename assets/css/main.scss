@@ -14,3 +14,18 @@ search: false
   max-height: 70vh;
   background-size: contain;
 }
+
+/* neutralize W3CSS fonts */
+html, body {
+  font-family: inherit;
+  font-size: inherit;
+}
+
+.w3-button,
+.w3-container,
+.w3-content,
+.w3-panel {
+  font-family: inherit;
+  font-size: inherit;
+}
+
