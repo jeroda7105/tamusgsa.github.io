@@ -15,7 +15,7 @@ p {font-size: 22px;}
 
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <style>
-h1{font-size:36px;}
+h1{font-size:40px;}
 h2{font-size:32px;}
 h3{font-size:30px;}
 h4{font-size:28px;}

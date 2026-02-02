@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About us"
+permalink: /tutoring/
+title: "Tutoring"
 layout: single
 author_profile: true
 layouts_gallery:
@@ -31,10 +31,11 @@ layouts_gallery:
   - url: /assets/images/sgsa-officers/officers2024temp.JPG
     image_path: /assets/images/sgsa-officers/officers2024temp.JPG
     alt: "Officers: 2024-2025"
-last_modified_at: 2023-01-26T11:59:26-05:00
+last_modified_at: 2026-02-01T11:59:26-05:00
 toc: true
 classes: wide
 ---
+
 
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <style>
@@ -53,16 +54,8 @@ small {font-size: 22px}
 .w3-badge {height:13px;width:13px;padding:0}
 </style>
 
-<!-- excerpt: "TAMU SGSA is a student association." -->
+# Tutoring
 
-**The Statistics Graduate Student Association, (SGSA)**, is an organization that provides the best possible environment to encourage the interaction between students and faculty by bestowing forums for students to connect with faculty as they discuss their current research, encouraging participation in academic events outside of the traditional classroom setting, and by giving back to the community that supports all of us in the A&M family.
 
-{% include gallery id="layouts_gallery" caption="TAMU SGSA officers from `2014-2015`, `2015-2016`, `2016-2017`, `2017-2018`, `2018-2019`, `2019-2020`, `2022-2023`, `2023-2024`,
-`2024-2025`." %}
 
-# Documents
 
-- [Fall 2016 consultant](/assets/files/fall2016consultant.pdf)
-- [Fall 2016 Tutoring List](/assets/files/fall2016tutor.pdf)
-- [Spring 2016 Tutoring List](/assets/files/spring2016tutor.pdf)
-- [Fall 2015 Tutoring List](/assets/files/fall2015tutor.pdf)

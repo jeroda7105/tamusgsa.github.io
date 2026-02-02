@@ -9,16 +9,16 @@ header:
 ---
 
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-
-
 <style>
-h1{font-size:64px;}
-h2{font-size:48px;}
-h3{font-size:40px;}
-h4{font-size:30px;}
+h1{font-size:40px;}
+h2{font-size:32px;}
+h3{font-size:30px;}
+h4{font-size:28px;}
 h5{font-size:26px;}
 h6 {font-size: 24px;}
 p {font-size: 22px;}
+body {font-size: 22px;}
+small {font-size: 22px}
 .mySlides1 {display:none}
 .mySlides2 {display:none}
 .w3-left, .w3-right, .w3-badge {cursor:pointer}
@@ -26,17 +26,17 @@ p {font-size: 22px;}
 </style>
 
 
-### About Us
+# About Us
 
 The Statistics Graduate Student Association, (SGSA), is an organization that provides the best possible environment to encourage the interaction between students and faculty by bestowing forums for students to connect with faculty as they discuss their current research, encouraging participation in academic events outside of the traditional classroom setting, and by giving back to the community that supports all of us in the A&M family.
 
-### Socials
+# Socials
 
 - [Slack Channel](<https://join.slack.com/t/tamustatistic-fdy2267/shared_invite/zt-3noiagg1t-yRs9fgdVCpx9HZrLqcxNkw>)
 
 - [Discord Channel](<https://discord.gg/K7p8snTzHA>)
 
-### Upcoming Events
+# Upcoming Events
 
 - [Game Night - Tuesday, 2/10/26, 5:30pm in the Fisher Bowl](<https://jeroda7105.github.io/tamusgsa.github.io/game%20night/2026/01/29/game-night/>) 
 
