@@ -15,13 +15,13 @@ p {font-size: 22px;}
 
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <style>
-h1{font-size:64px;}
-h2{font-size:48px;}
-h3{font-size:40px;}
-h4{font-size:30px;}
-h5{font-size:26px;}
-h6 {font-size: 24px;}
-p {font-size: 22px;}
+h1{font-size:40px;}
+h2{font-size:36px;}
+h3{font-size:30px;}
+h4{font-size:26px;}
+h5{font-size:24px;}
+h6 {font-size: 22px;}
+p {font-size: 20px;}
 .mySlides1 {display:none}
 .mySlides2 {display:none}
 .w3-left, .w3-right, .w3-badge {cursor:pointer}
