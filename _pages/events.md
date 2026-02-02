@@ -17,10 +17,10 @@ p {font-size: 22px;}
 <style>
 h1{font-size:40px;}
 h2{font-size:32px;}
-h3{font-size:30px;}
-h4{font-size:28px;}
-h5{font-size:26px;}
-h6 {font-size: 24px;}
+h3{font-size:26px;}
+h4{font-size:20px;}
+h5{font-size:16px;}
+h6 {font-size: 14px;}
 p {font-size: 22px;}
 body {font-size: 22px;}
 small {font-size: 22px}
