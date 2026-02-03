@@ -1,6 +1,6 @@
 ---
 permalink: /tutoring/
-title: "Tutors"
+title: "Tutors (Paid Tutoring)"
 layout: single
 author_profile: true
 classes: wide
