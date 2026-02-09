@@ -5,11 +5,53 @@ layout: single
 classes: wide
 category: 
   - Stat Cafe
+layouts_gallery:
+  - url: /assets/images/stat_cafe/Price_Feb_05_2026/IMG_3444.JPG
+    image_path: /assets/images/stat_cafe/Price_Feb_05_2026/IMG_3444.JPG
+    alt: "IMG_3444.JPG"
+  - url: /assets/images/stat_cafe/Price_Feb_05_2026/IMG_3445.JPG
+    image_path: /assets/images/stat_cafe/Price_Feb_05_2026/IMG_3445.JPG
+    alt: "IMG_3445.JPG"
+  - url: /assets/images/stat_cafe/Price_Feb_05_2026/IMG_3446.JPG
+    image_path: /assets/images/stat_cafe/Price_Feb_05_2026/IMG_3446.JPG
+    alt: "IMG_3446.JPG"
+  - url: /assets/images/stat_cafe/Price_Feb_05_2026/IMG_3447.JPG
+    image_path: /assets/images/stat_cafe/Price_Feb_05_2026/IMG_3447.JPG
+    alt: "IMG_3447.JPG"
+  - url: /assets/images/stat_cafe/Price_Feb_05_2026/IMG_3450.JPG
+    image_path: /assets/images/stat_cafe/Price_Feb_05_2026/IMG_3450.JPG
+    alt: "IMG_3450.JPG"
+  - url: /assets/images/stat_cafe/Price_Feb_05_2026/IMG_3453.JPG
+    image_path: /assets/images/stat_cafe/Price_Feb_05_2026/IMG_3453.JPG
+    alt: "IMG_3453.JPG"
+  - url: /assets/images/stat_cafe/Price_Feb_05_2026/IMG_3455.JPG
+    image_path: /assets/images/stat_cafe/Price_Feb_05_2026/IMG_3455.JPG
+    alt: "IMG_3455.JPG"
+  - url: /assets/images/stat_cafe/Price_Feb_05_2026/IMG_3460.JPG
+    image_path: /assets/images/stat_cafe/Price_Feb_05_2026/IMG_3460.JPG
+    alt: "IMG_3460.JPG"
+  - url: /assets/images/stat_cafe/Price_Feb_05_2026/IMG_3470.JPG
+    image_path: /assets/images/stat_cafe/Price_Feb_05_2026/IMG_3470.JPG
+    alt: "IMG_3470.JPG"
+  - url: /assets/images/stat_cafe/Price_Feb_05_2026/IMG_3473.JPG
+    image_path: /assets/images/stat_cafe/Price_Feb_05_2026/IMG_3473.JPG
+    alt: "IMG_3473.JPG"
+  - url: /assets/images/stat_cafe/Price_Feb_05_2026/IMG_3476.JPG
+    image_path: /assets/images/stat_cafe/Price_Feb_05_2026/IMG_3476.JPG
+    alt: "IMG_3476.JPG"
+  - url: /assets/images/stat_cafe/Price_Feb_05_2026/IMG_3479.JPG
+    image_path: /assets/images/stat_cafe/Price_Feb_05_2026/IMG_3479.JPG
+    alt: "IMG_3479.JPG"
+  - url: /assets/images/stat_cafe/Price_Feb_05_2026/IMG_3493.JPG
+    image_path: /assets/images/stat_cafe/Price_Feb_05_2026/IMG_3493.JPG
+    alt: "IMG_3493.JPG"
+  - url: /assets/images/stat_cafe/Price_Feb_05_2026/IMG_3501.JPG
+    image_path: /assets/images/stat_cafe/Price_Feb_05_2026/IMG_3501.JPG
+    alt: "IMG_3501.JPG"
 ---
 
-<!--
-<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Dawn_Dec_02_2025/IMG_0238.JPEG?raw=true" alt="Header" width="315" style="float: right;"/> 
--->
+
+<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Price_Feb_05_2026/IMG_3508.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
 
 
 ### Stationary Point Constrained Inference via Diffeomorphisms
@@ -41,8 +83,9 @@ Michael Price is a third-year PhD student in the Department of Statistics at Tex
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4k2Cp6_qF8w?si=KPxNBAuZWUIRiC9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
 
-<!--
+
+
 ### Gallery
 
 {% include gallery id="layouts_gallery" %}
--->
+
