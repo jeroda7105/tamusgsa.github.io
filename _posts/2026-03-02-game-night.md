@@ -12,7 +12,7 @@ layouts_gallery:
 
 You’re invited to Graduate Student Game Night, a joint game night for Math and Stats graduate students!
 When: Thursday, March 5th, 4:00–6:00 PM
-Where: Fisher Bowl 
+Where: Fisher Bowl (BLOC 453)
 Food: Pizza!
 Hope to see you there! 
 
