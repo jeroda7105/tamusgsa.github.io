@@ -30,7 +30,7 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 # Upcoming Events
 
 
-- [Math and Stats Game Night - Thursday, 3/5/26, 4:00pm to 6:00pm in the Fisher Bowl (BLOC 453)](<https://jeroda7105.github.io/tamusgsa.github.io/game%20night/2026/03/02/game-night/>) 
+- [Joint Math and Stats Game Night - Thursday, 3/5/26, 4:00pm to 6:00pm in the Fisher Bowl (BLOC 453)](<https://jeroda7105.github.io/tamusgsa.github.io/game%20night/2026/03/02/game-night/>) 
 
 
 <!--

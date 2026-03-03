@@ -1,5 +1,5 @@
 ---
-title: "Math and Stats Game Night, 3-5-26"
+title: "Joint Math and Stats Game Night, 3-5-26"
 layout: single
 classes: wide
 category:
