@@ -13,8 +13,8 @@ category:
 
 ### Uncertainty-Aware Neural Multivariate Geostatistics
 
-- Time: Wednesday, 3/25/2026 from 11:15AM to 12:30PM
-- Location: BLOC 457
+- Time: Wednesday, 3/25/2026 from 11:30AM to 1:00PM
+- Location: BLOC 503
 
 
 [RSVP Link](https://urldefense.com/v3/__https://forms.gle/TnjWBB9cjHNStFBKA__;!!KwNVnqRv!BXMKkRuq169yNJZt8gPCWhIulGfgN8dJZ5jQnQtN7UDrXwo_huzYvdaVZVwhAe6sfwio30vs99lhm81PdGJY$>)
