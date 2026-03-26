@@ -23,7 +23,7 @@ category:
 
 ### Description
 
-We propose Deep Neural Coregionalization (DNC), a scalable framework for uncertainty-aware multivariate geostatistics. DNC models multivariate spatial effects using spatially varying latent factors and loadings, assigning deep Gaussian process priors to both components. This structure learns shared latent spatial patterns together with response-specific, location-dependent mixing weights, enabling flexible nonlinear and spatially varying cross-variable associations. We develop a variational formulation linking deep Gaussian processes to deep neural networks, showing that maximizing the ELBO corresponds to training DNNs with weight decay and Monte Carlo dropout. The approach supports efficient mini-batch optimization without MCMC, producing calibrated credible surfaces for prediction and spatial effect estimation.
+Spatial transcriptomics technologies are scaling to millions of spots, but existing deconvolution methods face computational bottlenecks. I'll introduce FlashDeconv, which uses leverage-score importance sampling and randomized sketching to achieve linear O(N) complexity—processing 1 million spots in ~3 minutes without GPU. I'll also discuss how this efficiency enables discovery of resolution-dependent artifacts in high-resolution platforms like Visium HD.
 
 
 ### Our Speaker
