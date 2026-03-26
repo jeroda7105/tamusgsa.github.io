@@ -1,6 +1,6 @@
 ---
-title: "Stat Cafe - Dr. Yeseul Jeon"
-excerpt: "Uncertainty-Aware Neural Multivariate Geostatistics"
+title: "Stat Cafe - Chen Yang"
+excerpt: "FlashDeconv: Atlas-scale Spatial Deconvolution via Structure-Preserving Sketching"
 layout: single
 classes: wide
 category: 
@@ -11,13 +11,13 @@ category:
 <img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Price_Feb_05_2026/IMG_3508.JPG?raw=true" alt="Header" width="250" style="float: right;"/> 
 -->
 
-### Uncertainty-Aware Neural Multivariate Geostatistics
+### FlashDeconv: Atlas-scale Spatial Deconvolution via Structure-Preserving Sketching
 
-- Time: Wednesday, 3/25/2026 from 11:30AM to 1:00PM
+- Time: Wednesday, 4/1/2026 from 11:30AM to 1:00PM
 - Location: BLOC 503
 
 
-[RSVP Link](<https://urldefense.com/v3/__https://forms.gle/TnjWBB9cjHNStFBKA__;!!KwNVnqRv!BXMKkRuq169yNJZt8gPCWhIulGfgN8dJZ5jQnQtN7UDrXwo_huzYvdaVZVwhAe6sfwio30vs99lhm81PdGJY$>)
+[RSVP Link](<https://urldefense.com/v3/__https://forms.gle/sr4v3u9eynmnmXVU8__;!!KwNVnqRv!EVIZFezE2AmU96xAK1rGa3UEvKGCDtpVlkwtC3ARwCqMDV_kU4eBIrulezQkGW4zLCmJXDITs-5XjSCkHMCX$>)
 
 [Zoom Link](<https://tamu.zoom.us/j/96802422915>)
 
@@ -27,8 +27,8 @@ We propose Deep Neural Coregionalization (DNC), a scalable framework for uncerta
 
 
 ### Our Speaker
+Chen Yang is a second-year PhD student in Statistics at Texas A&M University. His research focuses on leveraging agentic AI for omics data analysis, particularly in single-cell and spatial transcriptomics. He develops computational tools for reproducible analysis of biological systems, including FlashDeconv, a scalable spatial deconvolution method for atlas-scale data.
 
-Dr. Yeseul Jeon is a postdoctoral research associate working with Dr. Rajarshi Guhaniyogi and Dr. Aaron Sheffler at UCSF. She received her Ph.D. in Statistics from Yonsei University in South Korea. Her research focuses on developing statistical and deep learning methods for high-dimensional, complex, and structured data with dependence, with an emphasis on interpretability and uncertainty quantification.
 
 
 <!--
