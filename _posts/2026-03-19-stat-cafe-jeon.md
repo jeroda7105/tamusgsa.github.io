@@ -7,9 +7,8 @@ category:
   - Stat Cafe
 ---
 
-<!--
-<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Price_Feb_05_2026/IMG_3508.JPG?raw=true" alt="Header" width="250" style="float: right;"/> 
--->
+<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Jeon_Mar_25_2026/20260325_122223.jpg?raw=true" alt="Header" width="250" style="float: right;"/> 
+
 
 ### Uncertainty-Aware Neural Multivariate Geostatistics
 
