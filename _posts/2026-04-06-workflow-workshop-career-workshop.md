@@ -8,7 +8,7 @@ category:
 
 
 ### SGSA Career Workshop
-- Thursday 4/9/2026 at 5:00 PM on Zoom
+- Thursday, 4/9/2026 at 5:00 PM on Zoom
 
 
 
