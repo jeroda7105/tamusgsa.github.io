@@ -33,6 +33,10 @@ Rebecca Lee
 Jacob Andros 
 
 ## Workshop Recording
-<iframe src="https://drive.google.com/file/d/1C7_DWEABf1rgr8mN4OSt2Sw_d55edSeG/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1C7_DWEABf1rgr8mN4OSt2Sw_d55edSeG/preview" width="640" height="480"
+allow="fullscreen"
+allowfullscreen="true" 
+webkitallowfullscreen="true" 
+mozallowfullscreen="true"></iframe>
 
 
