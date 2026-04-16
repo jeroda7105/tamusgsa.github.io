@@ -5,10 +5,14 @@ layout: single
 classes: wide
 category: 
   - Stat Cafe
+layouts_gallery:
+  - url: /assets/images/stat_cafe/Yang_Apr_01_2026/ChenYang1.jpg
+    image_path: /assets/images/stat_cafe/Yang_Apr_01_2026/ChenYang1.jpg
+    alt: "ChenYang1.jpg"
 ---
 
 <!--
-<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Price_Feb_05_2026/IMG_3508.JPG?raw=true" alt="Header" width="250" style="float: right;"/> 
+<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Yang_Apr_01_2026/ChenYang2.jpg?raw=true" alt="Header" width="250" style="float: right;"/> 
 -->
 
 ### FlashDeconv: Atlas-scale Spatial Deconvolution via Structure-Preserving Sketching
@@ -42,8 +46,8 @@ Chen Yang is a second-year PhD student in Statistics at Texas A&M University. Hi
 -->
 
 
-<!--
+
 ### Gallery
 
 {% include gallery id="layouts_gallery" %}
--->
+
