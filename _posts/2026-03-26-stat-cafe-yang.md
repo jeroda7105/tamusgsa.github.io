@@ -11,9 +11,9 @@ layouts_gallery:
     alt: "ChenYang1.jpg"
 ---
 
-<!--
+
 <img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Yang_Apr_01_2026/ChenYang2.jpg?raw=true" alt="Header" width="250" style="float: right;"/> 
--->
+
 
 ### FlashDeconv: Atlas-scale Spatial Deconvolution via Structure-Preserving Sketching
 
