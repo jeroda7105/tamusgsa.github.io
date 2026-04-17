@@ -31,9 +31,11 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
 
 
-- [Faculty & Staff Appreciation BBQ: Saturday, 4/18/2026 from 4:00PM to 7:00PM at Edgewater Park](<https://jeroda7105.github.io/tamusgsa.github.io/bbq/2026/04/01/faculty-appreciation-bbq/>)
+
 
 - [Stat Cafe - Dr. Alex Asher, StataCorp: Wednesday, 4/22/2026 from 11:30AM to 1:00PM in BLOC 503](<https://jeroda7105.github.io/tamusgsa.github.io/stat%20cafe/2026/04/16/stat-cafe-asher/>)
+
+- [Faculty & Staff Appreciation BBQ: Monday, 4/27/2026 from 12:00PM to 2:00PM in the Fisher Bowl (Blocker 453)](<https://jeroda7105.github.io/tamusgsa.github.io/bbq/2026/04/01/faculty-appreciation-bbq/>)
 
 
 
