@@ -7,10 +7,9 @@ category:
   - BBQ
 ---
 
-Our annual Faculty and Staff Appreciation BBQ will take place at the pavilion at Edgewater Park on Saturday, April 18th, from 4:00 to 7:00 PM.
+Our annual Faculty and Staff Appreciation BBQ will take place in the Fisher Bowl (Blocker 453) Monday, April 27th, from 12:00PM (Noon) to 2:00 PM.
  
-Edgewater Park features a range of amenities including a basketball court, jogging and walking trails, and playgrounds for children. We hope all of you will join us for an enjoyable evening of BBQ and outdoor games. Additionally, this year we plan on having more of a "picnic vibe", so we encourage people to bring blankets, lawn chairs, etc.  
 
-[RSVP Link](<https://www.google.com/url?q=https://urldefense.com/v3/__https://forms.gle/jQFBTcXkGmKBUKX46__;!!KwNVnqRv!GqLr_LutFDlzS5aZ1Um-z4-YE5a8tYne2_q06icydZKGsJ_V_GXD-NIbNDaioyS8mqQbCZllYPN0d1HC85Del9kwUyDwNJk$&sa=D&source=calendar&ust=1775521990547588&usg=AOvVaw1dnOfYOw169Fcv4B7JiF4X>)
+[RSVP Link](<https://urldefense.com/v3/__https://forms.gle/FYpBJ61k1ok2e4R39__;!!KwNVnqRv!FvBkf_HTjnu4a7BiCdRMP52I7TW_Um5_aA5t2EikqvpeASHC36VtTPq_dkznQeV1G7AtwDg3AdAQYh06wSl40FPvWxms1TU$>)
 
 
