@@ -5,11 +5,14 @@ layout: single
 classes: wide
 category: 
   - Stat Cafe
+layouts_gallery:
+  - url: /assets/images/stat_cafe/Asher_Apr_22_2026/20260422_120554.jpg
+    image_path: /assets/images/stat_cafe/Asher_Apr_22_2026/20260422_120554.jpg
+    alt: "20260422_120554.jpg"
 ---
 
-<!--
-<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Price_Feb_05_2026/IMG_3508.JPG?raw=true" alt="Header" width="250" style="float: right;"/> 
--->
+
+<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Asher_Apr_22_2026/20260422_120552.jpg?raw=true" alt="Header" width="300" style="float: right;"/> 
 
 ### Sample-Size Calculations for Medical Studies
 
@@ -41,8 +44,8 @@ Alex Asher is a Senior Biostatistician and Software Developer at StataCorp LLC, 
 -->
 
 
-<!--
+
 ### Gallery
 
 {% include gallery id="layouts_gallery" %}
--->
+
